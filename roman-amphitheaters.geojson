@@ -7923,13 +7923,14 @@
         "title": "Amphitheater at Nazilli",
         "bibliography": "https://www.archaeology.org/news/8975-200824-anatolia-mastaura-amphitheater" ,
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 20000, "source": "https://www.dailymail.co.uk/sciencetech/article-9392449/Archaeology-Roman-arena-Turkey-held-gladiator-fights-20-000-spectators-1-800-years-ago.html" }
         "exclude": true ,
         "label": "Nazilli",
         "latintoponym": "Mastaura",
         "moderncountry": "Turkey",
         "pleiades": "https://pleiades.stoa.org/places/599790",
         "province": "asia",
-        "visibility": "good" },
+        "visibility": "poor" },
         "geometry": {
           "type": "Point",
           "coordinates":[
