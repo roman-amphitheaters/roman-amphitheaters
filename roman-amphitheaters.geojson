@@ -77,7 +77,8 @@
     "visibility": {"@id": "ramphsprops:visibility" },
     "welchid": {"@id": "ramphsprops:welchid"},
     "wikipedia": {"@id": "ramphsprops:wikipedia","@type": "@id"},
-    "youtube": {"@id": "ramphsprops:youtube","@type": "@id"}
+    "youtube": {"@id": "ramphsprops:youtube","@type": "@id"},
+    "zotero": {"@id": "ramphsprops:zotero","@type": "@id"}
 
   },
   "type": "FeatureCollection",
@@ -330,12 +331,9 @@
         "amphitheatrum": "http://www.amphi-theatrum.de/1367.html",
         "bibliography": [
                     {
-                        "dc:bibliographicCitation": "P. Zanker, <i>Pompeii: Public and private life</i> (Cambridge, MA, 1998) 68-72.",
-                        "worldcat": "http://www.worldcat.org/oclc/39143166"
-                    },
-                    {
                         "dc:bibliographicCitation": "K. Welch, <i>The Roman Amphitheater from its Origins to the Colosseum</i> (Cambridge, MA, 2007) 192-198.",
-                        "worldcat": "http://www.worldcat.org/oclc/39143166"
+                        "worldcat": "http://www.worldcat.org/oclc/277068593",
+                        "zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/2DX4CYZZ"
                     }
                 ],
         "buildingtype": "amphitheater",
@@ -7921,7 +7919,10 @@
       "id": "nazilliAmphitheater",
       "properties": {
         "title": "Amphitheater at Nazilli",
-        "bibliography": "https://www.archaeology.org/news/8975-200824-anatolia-mastaura-amphitheater" ,
+        "bibliography": [
+        {"zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/QPM45593"} ,
+        {"zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/3LYFAMMV"}
+        ],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000, "source": "https://www.dailymail.co.uk/sciencetech/article-9392449/Archaeology-Roman-arena-Turkey-held-gladiator-fights-20-000-spectators-1-800-years-ago.html" }
         "exclude": true ,
