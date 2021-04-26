@@ -9,7 +9,7 @@
     "MultiLineString": "geojson:MultiLineString",
     "MultiPoint": "geojson:MultiPoint",
     "MultiPolygon": "geojson:MultiPolygon",
-    "Point": "geojson:Point",
+    "sPoint": "geojson:Point",
     "Polygon": "geojson:Polygon",
     "bbox": {
       "@container": "@list",
@@ -945,7 +945,7 @@
       "id": "tarragonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Tarragona",
-        "bibliography": "http://www.academicroom.com/sites/default/files/article/231/Simon+Keay,+Recent+Archaeological+Work+in+Roman+Iberia.pdf",
+        "bibliography": {"dc:bibliographicCitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zotero":"https://www.zotero.org/groups/2900686/roman_amphitheaters/items/G4XUN8AQ"},
         "buildingtype": "amphitheater",
         "created":100,
         "capacity": {"quantity": 15000},
@@ -6914,11 +6914,11 @@
       "id": "forumNovumAmphitheater",
       "properties": {
         "title": "Forum Novum Amphitheater",
-        "bibliography": "https://archive.is/TzNZV",
+        "bibliography": [{"dc:bibliographicCitation":"British School at Rome. “Forum Novum: Amphitheatre.” The British School at Rome - Archaeology, May 28, 2007. http://www.bsr.ac.uk/bsr/sub_arch/extra/BSR_Tiber_Forum_amphi01.htm.","zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/HKRAD2P6"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity":2000, "sourcenote": "See bibliography."},
+        "capacity": {"quantity":2000, "sourcenote": "BSR report in bibliography."},
         "chronogroup": "first-century",
-        "lastuse": {"date": 225, "comment": "As indicated in bibliography."},
+        "lastuse": {"date": 225, "comment": "BSR report in bibliography."},
         "dare": "http://dare.ht.lu.se/places/23997",
         "dimensions": {
            "arenamajor": 45,
@@ -7924,8 +7924,9 @@
         {"zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/3LYFAMMV"}
         ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000, "source": "https://www.dailymail.co.uk/sciencetech/article-9392449/Archaeology-Roman-arena-Turkey-held-gladiator-fights-20-000-spectators-1-800-years-ago.html" }
+        "capacity": {"quantity": 20000, "source": "https://www.dailymail.co.uk/sciencetech/article-9392449/Archaeology-Roman-arena-Turkey-held-gladiator-fights-20-000-spectators-1-800-years-ago.html" },
         "exclude": true ,
+        "chronogroup": "severan",
         "label": "Nazilli",
         "latintoponym": "Mastaura",
         "moderncountry": "Turkey",
