@@ -7942,6 +7942,29 @@
         ],
         "source": "https://maps.google.com"
       }
+    },{
+      "type": "Feature",
+      "id": "trentoAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Trento",
+        "bibliography": [
+        {"citation": "Archeologia, Musei e Cultura in Trentino. “Siti archeologici culturali della Tridentum Trento di epoca Romana.” http://www.archeotrentino.it/altri-siti-di-tridentum/."}],
+        "buildingtype": "amphitheater",
+        "chronogroup": "second-century",
+        "label": "Trento",
+        "latintoponym": "Tridentum",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/383804",
+        "region": "regio-x",
+        "visibility": "none" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               11.125334,
+               46.069205
+        ],
+        "source": "https://maps.google.com"
+      }
     }
   ],
   "romanamphitheaterschronogroups":[
