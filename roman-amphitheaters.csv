@@ -260,4 +260,5 @@
 "reggioEmiliaAmphitheater","Amphitheater at Reggio Emilia","Reggio Emilia","Regium Lepidi","https://pleiades.stoa.org/places/383755","","","amphitheater","imperial",True,"","Italy","regio-viii","","","","","",10.629951,44.702888,59
 "tharrosAmphitheater","Amphitheater at Tharros","Tharros","Tharros","https://pleiades.stoa.org/places/472032","","","amphitheater","imperial",True,"","Italy","corsica-et-sardinia",32.0,32.0,50.0,46.0,"",8.440713,39.876577,27
 "torreparedonesAmphitheater","Amphitheater at Torreparedones","Torreparedones","Colonia Virtus Iulia","https://pleiades.stoa.org/places/265938","","","amphitheater","flavian",True,"","Spain","baetica","","",69.0,61.0,"",-4.3806,37.752468,510
-"nazilliAmphitheater","Amphitheater at Nazilli","Nazilli","Mastaura","https://pleiades.stoa.org/places/599790","","","amphitheater","",False,"","Turkey","asia","","","","","",28.341756,37.956332,207
+"nazilliAmphitheater","Amphitheater at Nazilli","Nazilli","Mastaura","https://pleiades.stoa.org/places/599790","","","amphitheater","severan",False,20000.0,"Turkey","asia","","","","","",28.341756,37.956332,207
+"trentoAmphitheater","Amphitheater at Trento","Trento","Tridentum","https://pleiades.stoa.org/places/383804","","","amphitheater","second-century",True,"","Italy","regio-x","","","","","",11.125334,46.069205,248

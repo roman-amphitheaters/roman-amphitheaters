@@ -7961,7 +7961,9 @@
           "type": "Point",
           "coordinates":[
                11.125334,
-               46.069205
+               46.069205,
+               248
+
         ],
         "source": "https://maps.google.com"
       }
