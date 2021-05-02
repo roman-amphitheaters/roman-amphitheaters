@@ -34,6 +34,7 @@
     "ramphsprops": "http://purl.org/roman-amphitheaters/properties#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "zotramphs": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/",
 
     "@base": "http://purl.org/roman-amphitheaters/resource/",
     "@vocab": "http://purl.org/roman-amphitheaters/resource/",
@@ -41,6 +42,7 @@
     "amphitheatrum": {"@id": "ramphsprops:amphitheatrum","@type": "@id"},
     "arenamajor": {"@id": "ramphsprops:arenamajor" },
     "arenaminor": {"@id": "ramphsprops:arenaminor" },
+    "bibliographiccitation" : {"@id": "dcterms:bibliographicCitation" },
     "bibliography": { "@id": "ramphsprops:bibliography" },
     "buildingtype": { "@id": "ramphsprops:buildingtype" },
     "capacity": {"@id": "ramphsprops:capacity" },
@@ -331,9 +333,9 @@
         "amphitheatrum": "http://www.amphi-theatrum.de/1367.html",
         "bibliography": [
                     {
-                        "dc:bibliographicCitation": "K. Welch, <i>The Roman Amphitheater from its Origins to the Colosseum</i> (Cambridge, MA, 2007) 192-198.",
+                        "bibliographiccitation": "K. Welch, <i>The Roman Amphitheater from its Origins to the Colosseum</i> (Cambridge, MA, 2007) 192-198.",
                         "worldcat": "http://www.worldcat.org/oclc/277068593",
-                        "zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/2DX4CYZZ"
+                        "zotero": "zotramphs:2DX4CYZZ"
                     }
                 ],
         "buildingtype": "amphitheater",
@@ -411,7 +413,8 @@
       "properties": {
         "title": "Amphitheater at Newstead",
         "amphitheatrum": "http://amphi-theatrum.de/1899.html",
-        "bibliography": "http://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol-129/129-373-391.pdf",
+        "bibliography": [{"bibliographiccitation":"Clarke, Simon, and Alicia Wise. “Evidence for Extramural Settlement North of the Roman Fort at Newstead (Trimontium), Roxburghshire,” n.d. https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol_129/129_373_391.pdf.",
+        "zotero": "zotramphs:CPSBJ2HR"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 1500},
         "chronogroup": "flavian",
@@ -945,7 +948,7 @@
       "id": "tarragonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Tarragona",
-        "bibliography": {"dc:bibliographicCitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zotero":"https://www.zotero.org/groups/2900686/roman_amphitheaters/items/G4XUN8AQ"},
+        "bibliography": {"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zotero": "zotramphs:G4XUN8AQ"},
         "buildingtype": "amphitheater",
         "created":100,
         "capacity": {"quantity": 15000},
@@ -6914,7 +6917,7 @@
       "id": "forumNovumAmphitheater",
       "properties": {
         "title": "Forum Novum Amphitheater",
-        "bibliography": [{"dc:bibliographicCitation":"British School at Rome. “Forum Novum: Amphitheatre.” The British School at Rome - Archaeology, May 28, 2007. http://www.bsr.ac.uk/bsr/sub_arch/extra/BSR_Tiber_Forum_amphi01.htm.","zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/HKRAD2P6"}],
+        "bibliography": [{"bibliographiccitation":"British School at Rome. “Forum Novum: Amphitheatre.” The British School at Rome - Archaeology, May 28, 2007. http://www.bsr.ac.uk/bsr/sub_arch/extra/BSR_Tiber_Forum_amphi01.htm.","zotero": "zotramphs:HKRAD2P6"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity":2000, "sourcenote": "BSR report in bibliography."},
         "chronogroup": "first-century",
@@ -7920,11 +7923,11 @@
       "properties": {
         "title": "Amphitheater at Nazilli",
         "bibliography": [
-        {"zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/QPM45593"} ,
-        {"zotero": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/3LYFAMMV"}
+        {"zotero": "zotramphs:QPM45593"} ,
+        {"zotero": "zotramphs:3LYFAMMV"}
         ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000, "source": "https://www.dailymail.co.uk/sciencetech/article-9392449/Archaeology-Roman-arena-Turkey-held-gladiator-fights-20-000-spectators-1-800-years-ago.html" },
+        "capacity": {"quantity": 20000 },
         "exclude": true ,
         "chronogroup": "severan",
         "label": "Nazilli",
