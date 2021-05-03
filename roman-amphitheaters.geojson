@@ -3598,6 +3598,7 @@
       "properties": {
         "title": "Amphitheater at Trier",
         "buildingtype": "amphitheater",
+        "bibliography": [{"bibliographiccitation":"Kuhnen, Hahns-Peter. “The Trier Amphitheatre; An Ancient Monument in the Light of New Research.” In Roman Amphitheatres and Spectacula, a 21st -Century Perspective: Papers from an International Conference Held at Chester, 16th-18th February, 2007, edited by Tony Wilmott, 95–104. Oxford: Archaeopress, 2009.", "zotero":"zotramphs:VSSBREEF"}],
         "created": 2200,
         "capacity": {"quantity": 8742, "sourcenote": "Golvin" },
         "chronogroup": "third-century",
@@ -5148,6 +5149,10 @@
         "title": "Amphitheater at Sopron",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 93,
+          "source": "http://maps.google.com/"
+          },
         "moderncountry": "Hungary",
         "label": "Sopron",
         "latintoponym": "Scarabantia",
@@ -5161,7 +5166,7 @@
         "coordinates":[
                 16.589397,
                 47.692813,
-                283
+                237
         ],
         "source": "http://maps.google.com/"
       }
@@ -6183,7 +6188,9 @@
       "id": "portusOvalStructure",
       "properties": {
         "title": "Oval Structure at Portus",
-        "bibliography": ["http://www.sciencedaily.com/releases/2009/09/090930194337.htm","http://timesonline.typepad.com/dons-life/2009/10/the-luxury-amphitheatre-at-portus.html"],
+        "bibliography": [{"bibliographiccitation":"Urbanus, Jason. “Portus, Rome’s Imperial Port.” Roman ports. Accessed May 2, 2021. https://www.romanports.org/en/articles/ports-in-focus/181-portus-rome-s-imperial-port.html.","zotero":"zotramphs:VM28C388"},
+        {"bibliographiccitation":"University of Southampton. “Archaeologists Discover Amphitheatre In Excavation Of Portus, Ancient Port Of Rome.” ScienceDaily, October 1, 2009. https://www.sciencedaily.com/releases/2009/09/090930194337.htm.","zotero":"zotramphs:DSH5WAAF"},
+        "http://timesonline.typepad.com/dons-life/2009/10/the-luxury-amphitheatre-at-portus.html"],
         "buildingtype": "oval-structure",
         "capacity": {"quantity": 2000},
         "chronogroup": "second-century",
