@@ -80,7 +80,7 @@
     "welchid": {"@id": "ramphsprops:welchid"},
     "wikipedia": {"@id": "ramphsprops:wikipedia","@type": "@id"},
     "youtube": {"@id": "ramphsprops:youtube","@type": "@id"},
-    "zotero": {"@id": "ramphsprops:zotero","@type": "@id"}
+    "zoteroitem": {"@id": "ramphsprops:zotero","@type": "@id"}
 
   },
   "type": "FeatureCollection",
@@ -335,7 +335,7 @@
                     {
                         "bibliographiccitation": "K. Welch, <i>The Roman Amphitheater from its Origins to the Colosseum</i> (Cambridge, MA, 2007) 192-198.",
                         "worldcat": "http://www.worldcat.org/oclc/277068593",
-                        "zotero": "zotramphs:2DX4CYZZ"
+                        "zoteroitem": "2DX4CYZZ"
                     }
                 ],
         "buildingtype": "amphitheater",
@@ -414,7 +414,7 @@
         "title": "Amphitheater at Newstead",
         "amphitheatrum": "http://amphi-theatrum.de/1899.html",
         "bibliography": [{"bibliographiccitation":"Clarke, Simon, and Alicia Wise. “Evidence for Extramural Settlement North of the Roman Fort at Newstead (Trimontium), Roxburghshire,” n.d. https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol_129/129_373_391.pdf.",
-        "zotero": "zotramphs:CPSBJ2HR"}],
+        "zoteroitem": "CPSBJ2HR"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 1500},
         "chronogroup": "flavian",
@@ -948,7 +948,7 @@
       "id": "tarragonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Tarragona",
-        "bibliography": {"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zotero": "zotramphs:G4XUN8AQ"},
+        "bibliography": {"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zoteroitem": "G4XUN8AQ"},
         "buildingtype": "amphitheater",
         "created":100,
         "capacity": {"quantity": 15000},
@@ -1209,7 +1209,12 @@
       "id": "viminaciumAmphitheater",
       "properties": {
         "title": "Amphitheater at Viminacium",
-        "bibliography": "https://www.academia.edu/5679643/Roman-stone-and-clay-shot-from-the-Viminacium-amphitheatre",
+        "bibliography": [
+         {"bibliographiccitation":"Nikolić, Snežana, and Ivan Bogdanović. “Recent Excavations on the Amphitheatre of Viminacium (Upper Moesia).” In Limes XXII: Proceedings of the 22nd International Congress of Roman Frontier Studies, Ruse, Bulgaria, September 2012, 547–55. Sophia: National Archaeological Institute with Bulgarian Academy of Sciences, n.d.",
+         "zoteroitem":"SL2QKBGS"},
+         {"bibliographiccitation":"Bogdanović, Ivan. “Roman Stone and Clay Shot from the Viminacium Amphitheatre.” In Proceedings of the XVIIth Roman Military Equipment Conference: Weapons and Military Equipment in a Funerary Context (XVII Roman Military Equipment Conference, Zagreb, 24th-27th May, 2010), edited by Mirjana Sanader, 393–409. Zagreb: Filozofskog Fakulteta Sveučilišta u Zagrebu, 2013.",
+          "zoteroitem":"IQNLI4VI"}
+         ],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 12000},
         "chronogroup": "second-century",
@@ -3598,7 +3603,7 @@
       "properties": {
         "title": "Amphitheater at Trier",
         "buildingtype": "amphitheater",
-        "bibliography": [{"bibliographiccitation":"Kuhnen, Hahns-Peter. “The Trier Amphitheatre; An Ancient Monument in the Light of New Research.” In Roman Amphitheatres and Spectacula, a 21st -Century Perspective: Papers from an International Conference Held at Chester, 16th-18th February, 2007, edited by Tony Wilmott, 95–104. Oxford: Archaeopress, 2009.", "zotero":"zotramphs:VSSBREEF"}],
+        "bibliography": [{"bibliographiccitation":"Kuhnen, Hahns-Peter. “The Trier Amphitheatre; An Ancient Monument in the Light of New Research.” In Roman Amphitheatres and Spectacula, a 21st -Century Perspective: Papers from an International Conference Held at Chester, 16th-18th February, 2007, edited by Tony Wilmott, 95–104. Oxford: Archaeopress, 2009.", "zoteroitem":"VSSBREEF"}],
         "created": 2200,
         "capacity": {"quantity": 8742, "sourcenote": "Golvin" },
         "chronogroup": "third-century",
@@ -6188,9 +6193,8 @@
       "id": "portusOvalStructure",
       "properties": {
         "title": "Oval Structure at Portus",
-        "bibliography": [{"bibliographiccitation":"Urbanus, Jason. “Portus, Rome’s Imperial Port.” Roman ports. Accessed May 2, 2021. https://www.romanports.org/en/articles/ports-in-focus/181-portus-rome-s-imperial-port.html.","zotero":"zotramphs:VM28C388"},
-        {"bibliographiccitation":"University of Southampton. “Archaeologists Discover Amphitheatre In Excavation Of Portus, Ancient Port Of Rome.” ScienceDaily, October 1, 2009. https://www.sciencedaily.com/releases/2009/09/090930194337.htm.","zotero":"zotramphs:DSH5WAAF"},
-        "http://timesonline.typepad.com/dons-life/2009/10/the-luxury-amphitheatre-at-portus.html"],
+        "bibliography": [{"bibliographiccitation":"Urbanus, Jason. “Portus, Rome’s Imperial Port.” Roman ports. Accessed May 2, 2021. https://www.romanports.org/en/articles/ports-in-focus/181-portus-rome-s-imperial-port.html.","zoteroitem":"VM28C388"},
+        {"bibliographiccitation":"University of Southampton. “Archaeologists Discover Amphitheatre In Excavation Of Portus, Ancient Port Of Rome.” ScienceDaily, October 1, 2009. https://www.sciencedaily.com/releases/2009/09/090930194337.htm.","zoteroitem":"DSH5WAAF"}],
         "buildingtype": "oval-structure",
         "capacity": {"quantity": 2000},
         "chronogroup": "second-century",
@@ -6924,7 +6928,7 @@
       "id": "forumNovumAmphitheater",
       "properties": {
         "title": "Forum Novum Amphitheater",
-        "bibliography": [{"bibliographiccitation":"British School at Rome. “Forum Novum: Amphitheatre.” The British School at Rome - Archaeology, May 28, 2007. http://www.bsr.ac.uk/bsr/sub_arch/extra/BSR_Tiber_Forum_amphi01.htm.","zotero": "zotramphs:HKRAD2P6"}],
+        "bibliography": [{"bibliographiccitation":"British School at Rome. “Forum Novum: Amphitheatre.” The British School at Rome - Archaeology, May 28, 2007. http://www.bsr.ac.uk/bsr/sub_arch/extra/BSR_Tiber_Forum_amphi01.htm.","zoteroitem": "HKRAD2P6"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity":2000, "sourcenote": "BSR report in bibliography."},
         "chronogroup": "first-century",
@@ -7930,8 +7934,8 @@
       "properties": {
         "title": "Amphitheater at Nazilli",
         "bibliography": [
-        {"zotero": "zotramphs:QPM45593"} ,
-        {"zotero": "zotramphs:3LYFAMMV"}
+        {"zoteroitem": "QPM45593"} ,
+        {"zoteroitem": "3LYFAMMV"}
         ],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000 },
