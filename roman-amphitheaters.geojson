@@ -2240,6 +2240,7 @@
         "latintoponym": "Isurium Brigantium",
         "moderncountry": "United Kingdom",
         "pleiades": "https://pleiades.stoa.org/places/89209",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/89209/possible-location-of-roman-amphitheater",
         "province": "britannia"
       },
       "geometry": {
@@ -2729,7 +2730,7 @@
       "id": "durresAmphitheater",
       "properties": {
         "title": "Amphitheater at Durrës",
-        "bibliography": "http://dx.doi.org/10.1017/S1047759400013209",
+        "bibliography": [{"bibliographiccitation":"Bowes, Kim, Afrim Hoti, Will Bowden, Karen Frances, John Mitchell, Belissa Muka, Paul Reynolds, and Joanita Vroom. “An Amphitheatre and Its Afterlives: Survey and Excavation in the Durres Amphitheatre.” Journal of Roman Archaeology 16 (2003): 380–94. https://doi.org/10.1017/S1047759400013209.","zoteroitem":"IWZKHNB8"}],
         "created": 100,
         "capacity": {"quantity": 20000},
         "chronogroup": "second-century",
