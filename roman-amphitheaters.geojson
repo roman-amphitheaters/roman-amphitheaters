@@ -1,4 +1,5 @@
 {
+  "rdfs:seeAlso": "https://www.zotero.org/groups/2900686/roman_amphitheaters",
   "@context": {
   
     "geojson": "https://purl.org/geojson/vocab#",
@@ -80,7 +81,7 @@
     "welchid": {"@id": "ramphsprops:welchid"},
     "wikipedia": {"@id": "ramphsprops:wikipedia","@type": "@id"},
     "youtube": {"@id": "ramphsprops:youtube","@type": "@id"},
-    "zoteroitem": {"@id": "ramphsprops:zotero","@type": "@id"}
+    "zoteroitem": {"@id": "ramphsprops:zoteroitem"}
 
   },
   "type": "FeatureCollection",
@@ -1666,7 +1667,7 @@
       "properties": {
         "title": "Amphitheater at Bordeaux",
         "amphitheatrum": "http://www.amphi-theatrum.de/1388.html",
-        "bibliography": "https://journals.openedition.org/mcv/7022",
+        "bibliography": [{"bibliographiccitation":"Hourcade, David. “Le Palais-Gallien de Bordeaux, Exemple de Valorisation d’un Site Archéologique En Cours d’étude.” Mélanges de La Casa de Velázquez 46, no. 1 (2013): 269–74. https://doi.org/10.4000/mcv.7022 .", "zoteroitem":"V8642RQH"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 22130, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -6804,7 +6805,8 @@
       "id": "geyreAmphitheater",
       "properties": {
         "title": "Late Roman Amphitheater at Geyre (Aphrodisias)",
-       "bibliography": [{"bibliographiccitation":"Welch, Katherine. “The Stadium at Aphrodisias.” American Journal of Archaeology 102, no. 3 (1998): 547–69. https://doi.org/10.2307/506401."}],
+       "bibliography": [{"bibliographiccitation":"Welch, Katherine. “The Stadium at Aphrodisias.” American Journal of Archaeology 102, no. 3 (1998): 547–69. https://doi.org/10.2307/506401.",
+       "zoteroitem":"KNXG4VJN"}],
         "buildingtype": "arena-in-stadium",
         "chronogroup": "fourth-century",
         "comment": "Inserted into east end of pre-existing stadium.",
@@ -6815,7 +6817,7 @@
            "comment": "Arena not regular oval. Measurements intended as a useful approximation."
         },
         "exclude": true,
-        "label": "Aphrodisias",
+        "label": "Geyre (Aphrodisias)",
         "latintoponym": "Aphrodisias",
         "moderncountry": "Turkey",
         "orientation": 269,
