@@ -6801,10 +6801,10 @@
       }
     },{
       "type": "Feature",
-      "id": "aphrodisiasAmphitheater",
+      "id": "geyreAmphitheater",
       "properties": {
-        "title": "Late Roman Amphitheater at Aphrodisas",
-       "bibliography": "http://jstor.org/stable/506401",
+        "title": "Late Roman Amphitheater at Geyre (Aphrodisias)",
+       "bibliography": [{"bibliographiccitation":"Welch, Katherine. “The Stadium at Aphrodisias.” American Journal of Archaeology 102, no. 3 (1998): 547–69. https://doi.org/10.2307/506401."}],
         "buildingtype": "arena-in-stadium",
         "chronogroup": "fourth-century",
         "comment": "Inserted into east end of pre-existing stadium.",
