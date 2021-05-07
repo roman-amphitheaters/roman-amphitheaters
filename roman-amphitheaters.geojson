@@ -1225,7 +1225,7 @@
             "source": "http://maps.google.com"
         },
         "label": "Viminacium",
-        "lastuse": {"sourcenote": "Recent Excavations on the Amphitheatre of Viminacium (Upper Moesia)", "date": 300 },
+        "lastuse": {"sourcenote": "Nikolić and Bogdanović 2012", "date": 300 },
         "moderncountry": "Serbia",
         "orientation": 108,
         "pleiades": "https://pleiades.stoa.org/places/207549",
@@ -7658,12 +7658,12 @@
       "properties": {
         "title": "Amphitheater at Megiddo",
         "buildingtype": "amphitheater",
-        "bibliography": "http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390",
+        "bibliography": [{"bibliographiccitation":"Tepper, Yotam. “Megiddo, Survey.” Hadashot Arkheologiyot: Excavations and Surveys in Isreal 125 (2013). http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390 .","zoteritem":"DNYUHQQP"}],
         "chronogroup": "imperial",
         "dimensions": {
            "exteriormajor": 70,
            "exteriorminor": 50,
-           "source": "http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390"
+           "sourcenote": "Tepper 2013"
         },
         "label": "Megiddo",
         "latintoponym": "Legio",
@@ -7910,12 +7910,13 @@
       "id": "torreparedonesAmphitheater",
       "properties": {
         "title": "Amphitheater at Torreparedones",
+        "bibliography":[{"bibliographiccitation":"Monterroso-Checa, Antonio. “Remote Sensing and Archaeology from Spanish LIDAR-PNOA: Identifying the Amphitheatre of the Roman City Of Torreparedones (Córdoba-Andalucía-Spain).” Mediterranean Archaeology and Archaeometry 17, no. 1 (2017): 15–22. https://doi.org/10.5281/zenodo.258079 .","zoteroitem":"A3LTIU8B"}],
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
         "dimensions": {
            "exteriormajor": 69,
            "exteriorminor": 61,
-           "source": "http://doi.org/10.5281/zenodo.258079"
+           "sourcenote": "Monterroso-Checa 2017"
         },
         "label": "Torreparedones",
         "latintoponym": "Colonia Virtus Iulia",
@@ -8196,7 +8197,7 @@
         "label": "Pleiades URI",
         "ramphsprops:x-sort-order": "110-links"
     },{
-        "@id": "ramphsprops:pleiades-specific",
+        "@id": "ramphsprops:pleiadesspecific",
         "label": "Pleiades URI for Building",
         "ramphsprops:x-sort-order": "110-links"
     },{
