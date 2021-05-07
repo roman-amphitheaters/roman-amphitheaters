@@ -7939,8 +7939,9 @@
       "properties": {
         "title": "Amphitheater at Nazilli",
         "bibliography": [
-        {"zoteroitem": "QPM45593"} ,
-        {"zoteroitem": "3LYFAMMV"}
+        {"bibliographiccitation":"“Ancient Amphitheater Investigated in Anatolia - Archaeology Magazine.” Accessed April 9, 2021. https://www.archaeology.org/news/8975-200824-anatolia-mastaura-amphitheater.","zoteroitem": "QPM45593"} ,
+        {"bibliographiccitation":"Hürriyet Daily News. “Colosseum-like Structure Unearthed in Western Turkey.” Accessed April 9, 2021. https://www.hurriyetdailynews.com/colosseum-like-structure-unearthed-in-western-turkey-157526.","zoteroitem": "3LYFAMMV"},
+        {"bibliographiccitation":"“In Ancient Turkey, Gladiators Fought at This Colosseum-Like Amphitheater | Smart News | Smithsonian Magazine.” Accessed April 24, 2021. https://www.smithsonianmag.com/smart-news/gladiator-amphitheater-uncovered-turkey-180977581/.","zoteroitem": "CHWRIDLR"}
         ],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000 },
@@ -7967,7 +7968,7 @@
       "properties": {
         "title": "Amphitheater at Trento",
         "bibliography": [
-        {"citation": "Archeologia, Musei e Cultura in Trentino. “Siti archeologici culturali della Tridentum Trento di epoca Romana.” http://www.archeotrentino.it/altri-siti-di-tridentum/."}],
+        {"bibliographiccitation": "Archeologia, Musei e Cultura in Trentino. “Siti archeologici culturali della Tridentum Trento di epoca Romana.” http://www.archeotrentino.it/altri-siti-di-tridentum/.","zoteroitem":"WAQBUSAR"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "label": "Trento",
