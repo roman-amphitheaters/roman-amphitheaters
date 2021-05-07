@@ -92,8 +92,9 @@
       "properties": {
         "title": "Amphitheater at Dura Europos",
         "amphitheatrum": "http://amphi-theatrum.de/1449.html",
+        "bibliography": [{"bibliographiccitation":"Pollard, Nigel. Soldiers, Cities, and Civilians in Roman Syria. Ann Arbor: University of Michigan Press, 2003.","zoteroitem":"5ADZC245"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 1000, "sourcenote": "N. Pollard's “Soldiers, Cities, and Civilians in Roman Syria”, p. 52" },
+        "capacity": {"quantity": 1000, "sourcenote": "Pollard 2003, p. 52" },
         "chronogroup": "severan",
         "created": 216,
         "dedication":["http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD023604"],
@@ -5381,7 +5382,7 @@
       "id": "palmyraAmphitheater",
       "properties": {
         "title": "Possible Amphitheater at Palmyra",
-        "bibliography": "https://www.academia.edu/2063340/Un-Amphithéâtre-à-Tadmor-Palmyre",
+        "bibliography": [{"bibliographiccitation":"Hammad, Manar. “Un amphithéâtre à Tadmor-Palmyre?” Syria. Archéologie, art et histoire, no. 85 (January 1, 2008): 339–46. https://doi.org/10.4000/syria.489 .","zoteroitem":"KEWYWH4L"}],
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "certainty-qualifier": "presence",
