@@ -5588,7 +5588,7 @@
       "id": "chassenonAmphitheater",
       "properties": {
         "title": "Amphitheater at Chassenon",
-        "bibliography":[{"bibliographiccitation":"Michon, Jean Hippolyte. Statistique Monumentale de La Charente. Paris: Chez Derache, 1844. https://gallica.bnf.fr/ark:/12148/bpt6k65648269 .", "zoteroitem":"WN2TA6QT"},{"bibliographiccitation":"“L’amphithéâtre de Chassenon.” Accessed May 7, 2021. https://www.amis-chassenon.org/72+lamphitheatre-de-chassenon.html .","zoteroitem":"https://www.zotero.org/groups/2900686/items/TJE8UZ2Z"}],
+        "bibliography":[{"bibliographiccitation":"Michon, Jean Hippolyte. Statistique Monumentale de La Charente. Paris: Chez Derache, 1844. https://gallica.bnf.fr/ark:/12148/bpt6k65648269 .", "zoteroitem":"WN2TA6QT"},{"bibliographiccitation":"Les Amis de Chassenon. “L’amphithéâtre de Chassenon.” Accessed May 7, 2021. https://www.amis-chassenon.org/72+lamphitheatre-de-chassenon.html .","zoteroitem":"TJE8UZ2Z"}],
         "buildingtype": "gallo-roman-amphitheater",
         "chronogroup": "imperial",
         "comment": "No longer extant and structure may have been a theater.",
@@ -5603,7 +5603,6 @@
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/138275",
         "province": "aquitania",
-        "see": "http://www.amis-chassenon.org/72+lamphitheatre-de-chassenon.html",
         "visibility": "poor"
       },
       "geometry": {
@@ -6040,7 +6039,7 @@
          },
         "golvinid": "130",
         "label": "Tipasa",
-        "lastuse": {"date":400,"sourcenote": "Bomgardner: 156"},
+        "lastuse": {"date":400,"sourcenote": "Bomgardner 2002: 156"},
         "latintoponym": "Tipasentium",
         "moderncountry": "Algeria",
         "orientation": 254,
