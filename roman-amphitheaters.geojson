@@ -5588,13 +5588,14 @@
       "id": "chassenonAmphitheater",
       "properties": {
         "title": "Amphitheater at Chassenon",
+        "bibliography":[{"bibliographiccitation":"Michon, Jean Hippolyte. Statistique Monumentale de La Charente. Paris: Chez Derache, 1844. https://gallica.bnf.fr/ark:/12148/bpt6k65648269 .", "zoteroitem":"WN2TA6QT"},{"bibliographiccitation":"“L’amphithéâtre de Chassenon.” Accessed May 7, 2021. https://www.amis-chassenon.org/72+lamphitheatre-de-chassenon.html .","zoteroitem":"https://www.zotero.org/groups/2900686/items/TJE8UZ2Z"}],
         "buildingtype": "gallo-roman-amphitheater",
         "chronogroup": "imperial",
         "comment": "No longer extant and structure may have been a theater.",
         "dimensions": {
           "arenamajor": 60,
           "arenaminor": 40,
-          "comment": "Dimensions from 1844 publication."
+          "sourcenote": "Michon 1844: p. 187."
          },
         "exclude": true ,
         "label": "Chassenon",
@@ -6750,6 +6751,7 @@
       "id": "minturnaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Minturno",
+        "amphitheatrum":"https://amphi-theatrum.de/1591.html",
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "dimensions": {
@@ -6901,6 +6903,7 @@
       "id": "tusculumAmphitheater",
       "properties": {
         "title": "Tusculum Amphitheater",
+        "amphitheatrum":"https://amphi-theatrum.de/1423.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4853, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
