@@ -131,6 +131,7 @@
       "properties": {
         "title": "Amphitheater at Arles",
         "amphitheatrum": "http://amphi-theatrum.de/1371.html",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 613","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 23354, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -140,7 +141,8 @@
           "exteriormajor": 136,
           "exteriorminor": 107,
           "arenamajor": 47,
-          "arenaminor": 32
+          "arenaminor": 32,
+          "sourcenote":"Grenier 1958: p. 613."
           },
         "golvinid": "154",
         "hypogeum": true,
@@ -1487,6 +1489,7 @@
       "id": "nimesAmphitheater",
       "properties": {
         "title": "Amphitheater at Nimes",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 613","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "created": 90,
         "capacity": {"quantity": 24000},
