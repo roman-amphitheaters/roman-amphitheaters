@@ -1489,6 +1489,7 @@
       "id": "nimesAmphitheater",
       "properties": {
         "title": "Amphitheater at Nimes",
+        "amphitheatrum":"https://amphi-theatrum.de/1385.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 613","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "created": 90,
