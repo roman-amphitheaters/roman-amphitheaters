@@ -2028,6 +2028,7 @@
       "id": "cimiezAmphitheater",
       "properties": {
         "title": "Amphitheater at Cimiéz",
+        "bibliography":[{"bibliographiccitation":"Duval, Paul-Marie. “Rapport Préliminaire Sur Les Fouilles de Cemenelum (Cimiez) (1943).” Gallia 4, no. 1 (1946): 77–136. https://doi.org/10.3406/galia.1946.1999.","withincitation":"p. 103","zoteroitem":"WFCBSKSY"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4245, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -2384,6 +2385,7 @@
       "id": "augstAmphitheater",
       "properties": {
         "title": "Amphitheater at Augst",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 585","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "created": 170,
         "capacity": {"quantity": 14313, "sourcenote": "Golvin"},
@@ -2870,6 +2872,7 @@
           "chronogroup": "julio-claudian",
           "created": 50
         },
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 583","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15142, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -2973,6 +2976,7 @@
       "properties": {
         "title": "Amphitheater Fréjus",
         "amphitheatrum": "http://amphi-theatrum.de/1540.html",
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 606","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 12000},
         "created": 100,
@@ -4990,6 +4994,7 @@
       "properties": {
         "title": "Amphitheater at Xanten",
         "amphitheatrum": "http://amphi-theatrum.de/1450.html",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 579","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10000},
         "chronogroup": "imperial",
@@ -5001,6 +5006,7 @@
            "sourcenote": "Golvin"
         },
         "golvinid": "167",
+        "hypogeum": true,
         "label": "Xanten",
         "latintoponym": "Colonia Ulpia Traiana",
         "moderncountry": "Germany",
@@ -7989,6 +7995,30 @@
                11.125334,
                46.069205,
                248
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "avenchesAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Avenches",
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 593","zoteroitem":"LD7NNHSG"}],
+        "buildingtype": "amphitheater",
+        "chronogroup": "second-century",
+        "label": "Avenches",
+        "latintoponym": "Aventicum",
+        "moderncountry": "Switzerland",
+        "pleiades": "https://pleiades.stoa.org/places/177495",
+        "province": "gallia",
+        "visibility": "good" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               7.042646,
+               46.880971,
+               458
 
         ],
         "source": "https://maps.google.com"
