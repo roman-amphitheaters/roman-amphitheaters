@@ -6,6 +6,6 @@ Discussion of one approach to using this data, with links to interactive code, i
 
 Note: The information here continues to change over time. An ongoing focus is entering more direct citation of sources into the 'roman-amphitheaters.geojson' file. Towards this goal, I have made small steps towards implementing a flexible bibliographic infrastructure for this dataset in Zotero. See https://www.zotero.org/groups/2900686/roman_amphitheaters . The number of titles currently included there is very small and only slowly growing. But growing nonetheless. A likewise slowly growing number of amphitheater descriptions have bibliographic citations and a Zotero item identifier for each title. The .csv file will sometimes have the first Zotero identifier. It is a goal to make an html rendering of this information that includes working links to the online version of the Zotero items.
 
-As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project file that loads the geojson and uses the 'Digital Atlas of the Roman Empire' tileset as a basemap.
+As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap.
 
 ![QGIS Screenshot](qgis-2021-05-10.png)
