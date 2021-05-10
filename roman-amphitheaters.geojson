@@ -2263,6 +2263,7 @@
       "id": "perigueuxAmphitheater",
       "properties": {
         "title": "Amphitheater at Perigueux",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 670","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "dimensions": {
@@ -3993,6 +3994,7 @@
       "properties": {
         "title": "Amphitheater at Limoges",
         "amphitheatrum": "http://amphi-theatrum.de/1549.html",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 675","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "label": "Limoges",
@@ -4016,6 +4018,7 @@
       "properties": {
         "title": "Amphitheater at Poitiers",
         "amphitheatrum": "http://amphi-theatrum.de/1381.html",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 677","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -4066,6 +4069,7 @@
       "properties": {
         "title": "Amphitheater at Rodez",
         "amphitheatrum": "http://amphi-theatrum.de/1484.html",
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 669","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15000},
         "chronogroup": "imperial",
@@ -4463,6 +4467,7 @@
       "id": "beziersAmphitheater",
       "properties": {
         "title": "Amphitheater at Béziers",
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 643","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Béziers",
@@ -4513,6 +4518,7 @@
       "id": "narbonneAmphitheater",
       "properties": {
         "title": "Amphitheater at Narbonne",
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 640","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
         "dimensions": {"arenamajor":75,"arenaminor":46.6,"exteriormajor":121.6,"exteriorminor":93.2},
@@ -4645,6 +4651,8 @@
       "properties": {
         "title": "Amphitheater at Tours",
         "amphitheatrum": "http://amphi-theatrum.de/1383.html",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 682","zoteroitem":"LD7NNHSG"},
+        {"bibliographiccitation":"“Amphithéâtre de Tours.” In Wikipédia, April 20, 2021. https://fr.wikipedia.org/wiki/Amphithéâtre_de_Tours .","zoteroitem":"V5BTM6XJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 34000},
         "chronogroup": "hadrianic",
@@ -4654,7 +4662,7 @@
             "exteriorminor": 134,
             "arenamajor": 68,
             "arenaminor": 50,
-            "source": "http://fr.wikipedia.org/wiki/Amphithéâtre-de-Tours"
+            "sourcenote": "Wikipedia articke."
         },
         "golvinid": "54",
         "label": "Tours",
@@ -4665,7 +4673,7 @@
         "province": "lugdunensis",
         "trismegistos": "http://www.trismegistos.org/place/3280",
         "visibility": "good",
-        "wikipedia": "http://fr.wikipedia.org/wiki/Amphithéâtre-de-Tours"
+        "wikipedia": "http://fr.wikipedia.org/wiki/Amphithéâtre_de_Tours"
       },
       "geometry": {
         "type": "Point",
@@ -5570,6 +5578,7 @@
       "id": "bourgesAmphitheater",
       "properties": {
         "title": "Amphitheater at Bourges",
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 585","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -8011,7 +8020,7 @@
         "latintoponym": "Aventicum",
         "moderncountry": "Switzerland",
         "pleiades": "https://pleiades.stoa.org/places/177495",
-        "province": "gallia",
+        "province": "germania-superior",
         "visibility": "good" },
         "geometry": {
           "type": "Point",
