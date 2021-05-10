@@ -8,4 +8,4 @@ Note: The information here continues to change over time. An ongoing focus is en
 
 As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project file that loads the geojson and uses the 'Digital Atlas of the Roman Empire' tileset as a basemap.
 
-![QGIS Screenshot](qgis-2021-05-10)
+![QGIS Screenshot](qgis-2021-05-10.png)
