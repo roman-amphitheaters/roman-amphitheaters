@@ -8015,7 +8015,7 @@
         "title": "Amphitheater at Avenches",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 593","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 13006, "sourcenote": "Golvin"}
+        "capacity": {"quantity": 13006, "sourcenote": "Golvin"},
         "dimensions": {
            "exteriormajor": 99,
            "exteriorminor": 87,
