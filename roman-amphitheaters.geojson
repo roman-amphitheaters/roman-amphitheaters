@@ -153,7 +153,7 @@
         "moderncountry": "France",
         "province": "narbonensis",
         "see": "https://pleiades.stoa.org/places/148217/location-of-roman-amphitheater",
-        "wikipedia": "http://en.wikipedia.org/wiki/Arles-Amphitheatre",
+        "wikipedia": "http://en.wikipedia.org/wiki/Arles_Amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=oCz-76hb1LU"]
       },
       "geometry": {
@@ -189,7 +189,7 @@
         "orientation": 145,
         "pleiades": "https://pleiades.stoa.org/places/167717",
         "province": "lugdunensis",
-        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatre-of-the-Three-Gauls"
+        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatre_of_the_Three-Gauls"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +214,7 @@
         "orientation": 105 ,
         "pleiades": "https://pleiades.stoa.org/places/423025",
         "region": "regio-i",
-        "wikipedia": "http://en.wikipedia.org/wiki/Ludus-Magnus"
+        "wikipedia": "http://en.wikipedia.org/wiki/Ludus_Magnus"
       },
       "geometry": {
         "type": "Point",
@@ -284,7 +284,7 @@
         "orientation": 188,
         "pleiades": "https://pleiades.stoa.org/places/423025",
         "region": "regio-i",
-        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatrum-Castrense"
+        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatrum_Castrense"
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +363,7 @@
         "region": "regio-i",
         "see":["https://3dwarehouse.sketchup.com/model.html?redirect=1&mid=6971b010096197d8dfd89dd71a555b12","https://pleiades.stoa.org/places/433032/amphitheater-of-pompeii"],
         "welchid": "1",
-        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatre-of-Pompeii",
+        "wikipedia": "http://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii",
         "youtube": ["https://www.youtube.com/watch?v=bqf4bJyo3rU"]
       },
       "geometry": {
@@ -399,7 +399,7 @@
         "orientation": 135,
         "pleiades": "https://pleiades.stoa.org/places/256155",
         "province": "lusitania",
-        "wikipedia": "http://en.wikipedia.org/wiki/Mérida-amphitheatre",
+        "wikipedia": "http://en.wikipedia.org/wiki/Mérida_amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=g4gNhPD2dV4","https://www.youtube.com/watch?v=T3QufLdGrU0"]
       },
       "geometry": {
@@ -534,7 +534,7 @@
         "period": "Vespasian",
         "pleiades": "https://pleiades.stoa.org/places/432815",
         "region": "regio-i",
-        "wikipedia": "http://en.wikipedia.org/wiki/Flavian-Amphitheater-(Pozzuoli)",
+        "wikipedia": "http://en.wikipedia.org/wiki/Flavian_Amphitheater_(Pozzuoli)",
         "youtube": ["https://www.youtube.com/watch?v=VCCD-YeNQKk",
            "https://www.youtube.com/watch?v=lRV-NbfLgro",
            "https://www.youtube.com/watch?v=S4yHdPOzxck"
@@ -599,7 +599,7 @@
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/462503",
         "province": "sicilia",
-        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro-romano-di-Siracusa",
+        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro_romano_di_Siracusa",
         "youtube": ["https://www.youtube.com/watch?v=aUcjHzMZCeY"]
       },
       "geometry": {
@@ -633,7 +633,7 @@
         "orientation": 212,
         "pleiades": "https://pleiades.stoa.org/places/314921",
         "province": "proconsularis",
-        "wikipedia": "http://en.wikipedia.org/wiki/Carthage-amphitheatre",
+        "wikipedia": "http://en.wikipedia.org/wiki/Carthage_amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=oDiCqZCu06I"]
       },
       "geometry": {
@@ -1008,7 +1008,7 @@
         "pleiades": "https://pleiades.stoa.org/places/471899",
         "moderncountry": "Italy",
         "province": "corsica-et-sardinia",
-        "wikipedia": "http://en.wikipedia.org/wiki/Roman-Amphitheatre-of-Cagliari"
+        "wikipedia": "http://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Cagliari"
       },
       "geometry": {
         "type": "Point",
@@ -1295,7 +1295,7 @@
         "pleiades": "https://pleiades.stoa.org/places/413288",
         "pleiadesspecific": "https://pleiades.stoa.org/places/413288/location-of-roman-amphitheater",
         "region": "regio-vii",
-        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro-romano-di-Roselle"
+        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro_romano_di_Roselle"
       },
       "geometry": {
         "type": "Point",
@@ -1319,7 +1319,7 @@
         "pleiades": "https://pleiades.stoa.org/places/109126",
         "moderncountry": "France",
         "province": "lugdunensis",
-        "wikipedia": "http://en.wikipedia.org/wiki/Arènes-de-Lutèce",
+        "wikipedia": "http://en.wikipedia.org/wiki/Arènes_de_Lutèce",
         "youtube": ["https://www.youtube.com/watch?v=DStHFfxd-qo"]
       },
       "geometry": {
@@ -1541,7 +1541,7 @@
         "pleiades": "https://pleiades.stoa.org/places/79534",
         "province": "britannia",
         "source": "https://pleiades.stoa.org/places/79534/location-of-roman-amphitheater",
-        "wikipedia": "https://en.wikipedia.org/wiki/Charterhouse-Roman-Town"
+        "wikipedia": "https://en.wikipedia.org/wiki/Charterhouse_Roman_Town"
       },
       "geometry": {
         "type": "Point",
@@ -1556,11 +1556,12 @@
       "id": "chesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Chester",
-        "bibliography": ["https://www.academia.edu/4403653/Chester-amphitheatre-excavations-in-2000", "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/"],
+        "bibliography": [{"bibliographiccitation":"Wilmott, Tony, D. J Garner, Julian Baum, and John Vallender. The Roman amphitheatre of Chester, 2018.","zoteroitem":"CW8ICQUU"},{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+"https://www.academia.edu/4403653/Chester-amphitheatre-excavations-in-2000"],
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
         "label": "Chester",
-        "lastuse": {"date": "325", "comment": "Via Heritage England"},
+        "lastuse": {"date": "325", "sourcenote": "Via Heritage England"},
         "dimensions": {
           "exteriormajor": 95.5,
           "exteriorminor": 86.6,
@@ -1573,7 +1574,7 @@
         "orientation": 156,
         "pleiades": "https://pleiades.stoa.org/places/79420",
         "province": "britannia",
-        "wikipedia": "https://en.wikipedia.org/wiki/Chester-Roman-Amphitheatre"
+        "wikipedia": "https://en.wikipedia.org/wiki/Chester_Roman_Amphitheatre"
       },
       "geometry": {
         "type": "Point",
@@ -2158,7 +2159,7 @@
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/383816",
         "region": "regio-x",
-        "wikipedia": "https://en.wikipedia.org/wiki/Verona-Arena",
+        "wikipedia": "https://en.wikipedia.org/wiki/Verona_Arena",
         "source": "https://pleiades.stoa.org/places/383816/location-of-amphitheater",
         "youtube": ["https://www.youtube.com/watch?v=CJoS5abKuYc"]
       },
@@ -2191,7 +2192,7 @@
         "pleiades": "https://pleiades.stoa.org/places/197130",
         "province": "pannonia",
         "created":275,
-        "wikipedia": "http://en.wikipedia.org/wiki/Aquincum-Civil-Amphitheatre"
+        "wikipedia": "http://en.wikipedia.org/wiki/Aquincum_Civil_Amphitheatre"
       },
       "geometry": {
         "type": "Point",
@@ -2224,7 +2225,7 @@
         "orientation": 195,
         "pleiades": "https://pleiades.stoa.org/places/197130",
         "province": "pannonia",
-        "wikipedia": "http://en.wikipedia.org/wiki/Aquincum-Military-Amphitheatre"
+        "wikipedia": "http://en.wikipedia.org/wiki/Aquincum_Military_Amphitheatre"
       },
       "geometry": {
         "type": "Point",
@@ -2516,7 +2517,7 @@
       "id": "londonAmphitheater",
       "properties": {
         "title": "Amphitheater at London",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/",
+        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6500},
         "created": 70,
@@ -2576,7 +2577,7 @@
       "id": "caerleonAmphitheater",
       "properties": {
         "title": "Amphitheater at Caerleon",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/",
+        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6000, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -2749,7 +2750,7 @@
             "exteriorminor": 113.2,
             "arenamajor": 61.4,
             "arenaminor": 42.2,
-            "source": "http://en.wikipedia.org/wiki/Durrës-Amphitheatre"
+            "source": "http://en.wikipedia.org/wiki/Durrës_Amphitheatre"
         },
         "label": "Durrës",
         "latintoponym": "Dyrrachium",
@@ -2757,7 +2758,7 @@
         "pleiades": "https://pleiades.stoa.org/places/481818",
         "province": "macedonia",
         "moderncountry": "Albania",
-        "wikipedia": "http://en.wikipedia.org/wiki/Durrës-Amphitheatre",
+        "wikipedia": "http://en.wikipedia.org/wiki/Durrës_Amphitheatre",
         "youtube": ["https://www.youtube.com/watch?v=Ot-KIRo5puc"]
       },
       "geometry": {
@@ -2840,7 +2841,7 @@
       "properties": {
         "title": "Amphitheater at Cirencester",
         "amphitheatrum": "http://amphi-theatrum.de/1490.html",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/",
+        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "latintoponym": "Corinium Dobunnorum",
         "buildingtype": "amphitheater",
         "label": "Cirencester",
@@ -2950,7 +2951,7 @@
            "exteriorheight": 40,
            "arenamajor": 65,
            "arenaminor": 39,
-           "source": "http://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre-d%27El-Jem"
+           "source": "http://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_d%27El-Jem"
           },
         "emperor": "Gordian III",
         "exclude": true,
@@ -2958,7 +2959,7 @@
         "moderncountry": "Tunisia",
         "orientation": 257,
         "province": "proconsularis",
-        "wikipedia": ["http://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre-d%27El-Jem","https://en.wikipedia.org/wiki/Amphitheatre-of-El-Jem"],
+        "wikipedia": ["https://fr.wikipedia.org/wiki/Amphithéâtre_d%27El_Jem","https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem"],
         "youtube": ["https://www.youtube.com/watch?v=bDDyEMg34Os"]
       },
       "geometry": {
@@ -3171,7 +3172,7 @@
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/197448",
         "region": "regio-x",
-        "wikipedia": "http://en.wikipedia.org/wiki/Pula-Arena",
+        "wikipedia": "http://en.wikipedia.org/wiki/Pula_Arena",
         "youtube": ["https://www.youtube.com/watch?v=hqTud5XxI-s","https://www.youtube.com/watch?v=YZGAZ6HFUmA","https://www.youtube.com/watch?v=oF1jrFn-5mY"]
       },
       "geometry": {
@@ -3793,7 +3794,7 @@
         "dimensions": {
            "arenamajor": 60.5,
            "arenaminor": 43,
-           "source": "http://en.wikipedia.org/wiki/Amphitheatre-of-Serdica"
+           "source": "http://en.wikipedia.org/wiki/Amphitheatre_of_Serdica"
         },
         "emperor": "Diocletian",
         "exclude": true,
@@ -4203,7 +4204,7 @@
         "orientation": 267,
         "pleiades": "https://pleiades.stoa.org/places/442642",
         "region": "regio-ii",
-        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro-romano-di-Lecce"
+        "wikipedia": "http://it.wikipedia.org/wiki/Anfiteatro_romano_di_Lecce"
       },
       "geometry": {
         "type": "Point",
@@ -4235,7 +4236,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/462513",
         "province": "sicilia",
-        "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro-di-Termini-Imerese"
+        "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_di_Termini_Imerese"
       },
       "geometry": {
         "type": "Point",
@@ -4343,7 +4344,7 @@
         "orientation": 167,
         "pleiades": "https://pleiades.stoa.org/places/413014",
         "region": "regio-v",
-        "wiki": "http://it.wikipedia.org/wiki/Anfiteatro-romano-di-Ancona"
+        "wiki": "http://it.wikipedia.org/wiki/Anfiteatro_romano_di_Ancona"
       },
       "geometry": {
         "type": "Point",
@@ -4618,6 +4619,7 @@
         "title": "Amphitheater at Senlis",
         "amphitheatrum": "http://amphi-theatrum.de/1483.html",
         "buildingtype": "amphitheater",
+        "capacity":{"quantity":10000,"sourcenote":"Wikipedia (fr) article."},
         "chronogroup": "first-century",
         "dimensions": {
           "exteriormajor": 90,
@@ -4634,7 +4636,7 @@
         "province": "belgica",
         "trismegistos": "http://www.trismegistos.org/place/24388",
         "visibility": "good",
-        "wikipedia": "http://fr.wikipedia.org/wiki/Arènes-de-Senlis"
+        "wikipedia": "http://fr.wikipedia.org/wiki/Arènes_de_Senlis"
       },
       "geometry": {
         "type": "Point",
@@ -4742,6 +4744,7 @@
       "properties": {
         "title": "Imperial Amphitheater at Capua",
         "amphitheatrum": "http://amphi-theatrum.de/2082.html",
+        "bibliography":[{"bibliographiccitation":"Tuck, Steven L. “Spectacle and Ideology in the Relief Decorations of the Anfiteatro Campano at Capua.” Journal of Roman Archaeology 20 (2007): 255–72. https://doi.org/10.1017/S1047759400005407 .","zoteroitem":"WVCF7L6K"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 37000, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -4830,7 +4833,7 @@
       "properties": {
         "title": "Amphitheater at Silchester",
         "amphitheatrum": "http://amphi-theatrum.de/1493.html",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/",
+        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7147, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -4866,7 +4869,7 @@
       "properties": {
         "title": "Amphitheater at Dorchester / Maumbury Henge",
         "amphitheatrum": "http://amphi-theatrum.de/1491.html",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf/",
+        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
         "dimensions": {
