@@ -5065,7 +5065,7 @@
       "properties": {
         "title": "Amphitheater at Ierapetra",
         "amphitheatrum": "http://amphi-theatrum.de/2128.html",
-        "bibliography": "https://www.academia.edu/1557389/Rediscovering-the-small-theatre-and-amphitheatre-of-ancient-Ierapytna-SE-Crete-",
+        "bibliography":[{"bibliographiccitation":"Papadopoulos, Nikos G., Apostolos Sarris, Maria Cristina Salvi, Sylviane Dederix, Pantelis Soupios, and Unal Dikmen. “Rediscovering the Small Theatre and Amphitheatre of Ancient Ierapytna (SE Crete) by Integrated Geophysical Methods.” Journal of Archaeological Science 39, no. 7 (July 1, 2012): 1960–73. https://doi.org/10.1016/j.jas.2012.01.044 .","zoteroitem":"WFYFFL7L"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Ierapetra",
