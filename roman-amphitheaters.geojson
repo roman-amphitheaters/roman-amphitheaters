@@ -1085,9 +1085,9 @@
       }
     },{
       "type": "Feature",
-      "id": "catiniaAmphitheater",
+      "id": "cataniaAmphitheater",
       "properties": {
-        "title": "Amphitheater at Catinia",
+        "title": "Amphitheater at Catania",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 16000},
         "chronogroup": "imperial",
@@ -1098,7 +1098,8 @@
           "arenaminor": 38,
           "comment": "Estimates from portion visible on Google Earth."
          },
-        "label": "Catinia",
+        "golvinid": "180",
+        "label": "Catania",
         "latintoponym": "Catina",
         "orientation": 159,
         "pleiades": "https://pleiades.stoa.org/places/462270",
@@ -3011,8 +3012,7 @@
       "id": "gortynAmphitheater",
       "properties": {
         "title": "Amphitheater at Gortyn",
-        "bibliography": ["Enzo Lippolis. 2016. Roman Gortyn: from Greek polis to provincial capital, in J.E. Frances, A. Kouremenos (ed.), <i>Roman Crete. New Perspectives</i>. Oxford-Philadelphia: 157-154.",
-                         "https://www.academia.edu/28758928/Roman-Gortyn-from-Greek-polis-to-provincial-capital-in-J.E.-Frances-A.-Kouremenos-ed.-Roman-Crete.-New-Perspectives-Oxford-Philadelphia-2016"],
+        "bibliography": [{"bibliographiccitation":"Lippolis, Enzo. “Roman Gortyn: From Greek Polis to Provincial Capital.” In Roman Crete: New Perspectives, edited by Jane E Francis and Anna Kouremenos, 155–74. Oxford: Oxbow, 2016.","zoteroitem":"4PCVKVQ8"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dimensions": {
@@ -4253,6 +4253,7 @@
       "properties": {
         "title": "Amphitheater at San Benedetto dei Marsi",
         "amphitheatrum": "http://amphi-theatrum.de/1601.html",
+        "bibliography":[{"bibliographiccitation":"Galadini, F., E. Ceccaroni, and E. Falcucci. “Archaeoseismological Evidence of a Disruptive Late Antique Earthquake at Alba Fucens (Central Italy).” Bollettino Di Geofisica Teorica Ed Applicata 51, no. 2–3 (2010): 143–61.", "withincitation":"p. 156","zoteroitem":"9GGW7DWK"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5182,9 +5183,10 @@
           "exteriormajor": 93,
           "source": "http://maps.google.com/"
           },
-        "moderncountry": "Hungary",
+        "golvinid": "53",
         "label": "Sopron",
         "latintoponym": "Scarabantia",
+        "moderncountry": "Hungary",
         "orientation": 162,
         "pleiades": "https://pleiades.stoa.org/places/197501",
         "province": "pannonia",
