@@ -616,6 +616,7 @@
       "id": "carthageAmphitheater",
       "properties": {
         "title": "Amphitheater at Carthage",
+        "bibliography":[{"bibliographiccitation":"Rossiter, Jeremy. “In Ampitζatru Carthaginis: The Carthage Amphitheatre and Its Uses.” Journal of Roman Archaeology 29 (ed 2016): 239–58. https://doi.org/10.1017/S1047759400072123.","zoteroitem":"5V8IDURU"}],
         "buildingtype": "amphitheater",
         "created":100,
         "capacity": {"quantity": 30000},
@@ -1056,6 +1057,7 @@
       "id": "segobrigaAmphitheater",
       "properties": {
         "title": "Amphitheater at Segobriga",
+        "bibliography":[{"bibliographiccitation":"Galindo, M., S. Girón, and R. Cebrián. “Acoustics of Performance Buildings in Hispania: The Roman Theatre and Amphitheatre of Segobriga, Spain.” Applied Acoustics 166 (September 1, 2020): 107373. https://doi.org/10.1016/j.apacoust.2020.107373.","zoteroitem":"L98ZXTFU"}],
         "buildingtype": "amphitheater",
         "created":90,
         "capacity": {"quantity": 7500},
@@ -4438,6 +4440,7 @@
       "properties": {
         "title": "Amphitheater at San Vittorino",
         "amphitheatrum": "http://amphi-theatrum.de/1557.html",
+        "bibliography":[{"bibliographiccitation":"Heinzelmann, Michael, David Jordan, and Cristina Murer. “Amiternum and the Upper Aterno Valley: A Sabine-Roman Town and Its Territory.” Journal of Roman Archaeology 23 (ed 2010): 55–83. https://doi.org/10.1017/S1047759400002300.", "withincitation":"","zoteroitem":"WU8WU448"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000},
         "chronogroup": "first-century",
@@ -8018,7 +8021,7 @@
       "id": "avenchesAmphitheater",
       "properties": {
         "title": "Amphitheater at Avenches",
-        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 593","zoteroitem":"LD7NNHSG"}],
+        "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 593","zoteroitem":"LD7NNHSG"},{"bibliographiccitation":"Pury-Gysel, Anne de. “Aventicum (Avenches), Capital of the Helvetii: A History of Research, 1985-2010. Part II. Urban Development after A.D. 100, Crafts, and Finds.” Journal of Roman Archaeology 25 (ed 2012): 259–96. https://doi.org/10.1017/S1047759400001215.","zoteroitem":"IXEVHMQK"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13006, "sourcenote": "Golvin"},
         "chronogroup":"second-century",
