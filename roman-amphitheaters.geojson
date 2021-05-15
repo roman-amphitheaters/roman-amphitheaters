@@ -2783,6 +2783,7 @@
       "id": "lambaesisAmphitheater",
       "properties": {
         "title": "Amphitheater at Lambaesis",
+        "amphitheatrum": "https://amphi-theatrum.de/1444.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15400},
         "chronogroup": "second-century",
@@ -3103,6 +3104,7 @@
       "id": "gemellaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Gemellae",
+        "amphitheatrum": "https://amphi-theatrum.de/1445.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3204, "sourcenote": "Golvin"},
         "chronogroup": "hadrianic",
