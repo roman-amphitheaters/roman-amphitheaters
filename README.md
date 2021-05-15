@@ -19,9 +19,9 @@ As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project fi
 
 Amphitheaters are well represented on the public internet. The following resources are especially useful when looking for further information, bibliography, and images.
 
-* http://amphi-theatrum.de
+* https://amphi-theatrum.de
 * https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
-* http://pleiades.stoa.org
+* https://pleiades.stoa.org
 * https://dh.gu.se/dare/
 * https://www.livius.org
 * https://vici.org/
