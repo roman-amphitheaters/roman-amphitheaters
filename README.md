@@ -21,6 +21,7 @@ Amphitheaters are well represented on the public internet. The following resourc
 
 * http://amphi-theatrum.de
 * https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
+* http://pleiades.stoa.org
 * https://dh.gu.se/dare/
 * https://www.livius.org
 * https://vici.org/
