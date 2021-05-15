@@ -204,6 +204,7 @@
       "id": "ludusMagnusArena",
       "properties": {
         "title": "Ludus Magnus Arena",
+        "amphitheatrum": "https://amphi-theatrum.de/1708.html",
         "buildingtype": "practice-arena",
         "chronogroup": "imperial",
         "created":81,
@@ -251,6 +252,7 @@
         "region": "regio-i",
         "pleiadesspecific": "https://pleiades.stoa.org/places/285857974",
         "see": "http://numismatics.org/collection/1954.203.170",
+        "vici":"http://vici.org/vici/4255/"
         "wikipedia": "http://en.wikipedia.org/wiki/Colosseum",
         "youtube": ["https://www.youtube.com/watch?v=kxwenPo1grc","https://www.youtube.com/watch?v=flXe8h3i5vc", "https://www.youtube.com/watch?v=UtwG_ziYI0Y"]
       },
@@ -267,6 +269,7 @@
       "id": "romeAmphitheatrumCastrense",
       "properties": {
         "title": "Amphitheatrum Castrense (Rome)",
+        "amphitheatrum": "https://amphi-theatrum.de/1566.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7000},
         "chronogroup": "severan",
@@ -380,6 +383,7 @@
       "id": "meridaAmphitheater",
       "properties": {
         "title": "Amphitheater at Mérida",
+        "amphitheatrum": "https://amphi-theatrum.de/2701.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15000},
         "chronogroup": "julio-claudian",
@@ -453,6 +457,7 @@
       "id": "conimbrigaAmphitheater",
       "properties": {
         "title": "Amphitheater at Conimbriga",
+        "amphitheatrum": "https://amphi-theatrum.de/1528.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4000},
         "chronogroup": "julio-claudian",
@@ -526,7 +531,7 @@
           "arenaminor": 42,
           "sourcenote": "Bomgardner"
          },
-         "golvinid": "153",
+        "golvinid": "153",
         "label": "Pozzuoli (Flavian)",
         "latintoponym": "Puteoli",
         "moderncountry": "Italy",
@@ -3130,6 +3135,8 @@
       "id": "cherchellAmphitheater",
       "properties": {
         "title": "Amphitheater at Cherchell",
+        "amphitheatrum": "https://amphi-theatrum.de/2425.html",
+        "bibliography":[{"bibliographiccitation":"Leveau, Philippe, and Jean-Claude Golvin. “L’amphithéâtre et le théâtre-amphithéâtre de Cherchel : Monuments à spectacles et histoire urbaine à Caesarea de Maurétanie.” Mélanges de l’école française de Rome 91, no. 2 (1979): 817–43. https://doi.org/10.3406/mefr.1979.1213 .","zoteroitem":"9L8A5YQT"}],
         "buildingtype": "amphitheater",
         "chronogroup": "augustan",
         "dimensions": {
@@ -3138,6 +3145,7 @@
            "arenamajor": 98,
            "arenaminor": 37
         },
+        "golvinid": "81",
         "label": "Cherchel",
         "moderncountry": "Algeria",
         "orientation": 256,
@@ -3584,6 +3592,7 @@
       "id": "tebessaAmphitheater",
       "properties": {
         "title": "Amphitheater at Theveste",
+        "amphitheatrum":"https://amphi-theatrum.de/1336.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 9400},
         "chronogroup": "flavian",
@@ -3966,6 +3975,7 @@
       "properties": {
         "title": "Amphitheater at Besançon",
         "amphitheatrum": "http://amphi-theatrum.de/1551.html",
+        "bibliography":[{"bibliographiccitation":"Cornillot, L., and Lucien Lerat. “L’ amphithéâtre romain de Besançon.” Gallia 1, no. 1 (1943): 129–38. https://doi.org/10.3406/galia.1943.1952 .","zoteroitem":"8LNKGJPW"}],
         "buildingtype": "amphitheater",
         "capacity": {"sourcenote": "Golvin", "quantity": 13816},
         "chronogroup": "second-century",
@@ -4021,9 +4031,9 @@
       "properties": {
         "title": "Amphitheater at Poitiers",
         "amphitheatrum": "http://amphi-theatrum.de/1381.html",
-        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 677","zoteroitem":"LD7NNHSG"}],
+        "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 677","zoteroitem":"LD7NNHSG"},{"bibliographiccitation":"Golvin, Jean-Claude, and Jean Hiernard. “D’un « Palais Galien » à l’autre. Nouvelles recherches sur l’amphithéâtre de Poitiers (Limonum Pictonum).” Revue des Études Anciennes 88, no. 1 (1986): 77–108. https://doi.org/10.3406/rea.1986.4230 .","zoteroitem":"5YTM94A2"}],
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "julio-claudian",
         "dimensions": {
           "exteriormajor": 108,
           "exteriorminor": 88
@@ -5538,7 +5548,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/157803",
         "region": "regio-vii",
-        "vici": "http://vici.org/vici/4199",
+        "vici": "http://vici.org/vici/4199/",
         "visibility": "partial"
       },
       "geometry": {

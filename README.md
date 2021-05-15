@@ -1,3 +1,8 @@
+
+# About
+
+'roman-amphitheaters' is a digital resource that collects information about Roman amphitheaters with a primary goal being the easy use of its data in a wide variety of computational environments. It is designed to support open-ended inquiry into the place and role of amphitheaters in the Roman Empire.
+
 The file 'roman-amphitheaters.geojson' holds the latest information and is the source for other derived files, including 'roman-amphitheaters.csv'. The 'utility.ipynb' generates these other files.
 
 By default, githib will display the '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' file as a map.
@@ -9,3 +14,13 @@ Note: The information here continues to change over time. An ongoing focus is en
 As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap. If the map is blank when that file is opened, choose the "Zoom to Layer(s)" item from the "View" menu.
 
 ![QGIS Screenshot](qgis-2021-05-10.png)
+
+# Other Resources
+
+Amphitheaters are well represented on the public internet. The following resources are especially useful when looking for further information, bibliography, and images.
+
+* http://amphi-theatrum.de
+* https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
+* https://dh.gu.se/dare/
+* https://www.livius.org
+* https://vici.org/
