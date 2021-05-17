@@ -17,11 +17,19 @@ As a convenience, the file 'roman-amphitheaters.qgz' is a simple QGIS project fi
 
 # Other Resources
 
-Amphitheaters are well represented on the public internet. The following resources are especially useful when looking for further information, bibliography, and images.
+Amphitheaters are well represented on the public internet. The following digital resources are especially useful when looking for further information, bibliography, and images. All have been used in the compilation of this data and there are often links to these sites in the descriptions of individual amphitheaters.
 
 * https://amphi-theatrum.de
-* https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
-* https://pleiades.stoa.org
 * https://dh.gu.se/dare/
 * https://www.livius.org
+* https://pleiades.stoa.org
 * https://vici.org/
+* https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
+
+Two concsise and useful overall discussions of amphitheaters are:
+
+* Dodge, Hazel. “Amphitheater.” In *Encyclopedia of Global Archaeology*, edited by Claire Smith, 197–201. New York, NY: Springer, 2014. https://doi.org/10.1007/978-1-4419-0465-2_1469 .
+
+* Forni, G. “Anfiteatro.” In *Enciclopedia Dell’ Arte Antica*, 1958. https://www.treccani.it/enciclopedia/anfiteatro_(Enciclopedia-dell'-Arte-Antica) .
+
+
