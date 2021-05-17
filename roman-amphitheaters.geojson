@@ -230,6 +230,7 @@
       "id": "romeFlavianAmphitheater",
       "properties": {
         "title": "Flavian Amphitheater at Rome",
+        "bibliography":[{"bibliographiccitation":"Lancaster, Lynne C. “The Process of Building the Colosseum: The Site, Materials, and Construction Techniques.” Journal of Roman Archaeology 18 (ed 2005): 57–82. https://doi.org/10.1017/S1047759400007212.","zoteroitem":"VKMRD8AT"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 50000},
         "chronogroup": "flavian",
