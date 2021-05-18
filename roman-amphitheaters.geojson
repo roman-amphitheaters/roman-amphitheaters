@@ -2748,7 +2748,7 @@
       "id": "durresAmphitheater",
       "properties": {
         "title": "Amphitheater at Durrës",
-        "bibliography": [{"bibliographiccitation":"Bowes, Kim, Afrim Hoti, Will Bowden, Karen Frances, John Mitchell, Belissa Muka, Paul Reynolds, and Joanita Vroom. “An Amphitheatre and Its Afterlives: Survey and Excavation in the Durres Amphitheatre.” Journal of Roman Archaeology 16 (2003): 380–94. https://doi.org/10.1017/S1047759400013209.","zoteroitem":"IWZKHNB8"}],
+        "bibliography": [{"bibliographiccitation":"Miraj, Lida. “Amfiteatri i Durrësit.” Iliria 16, no. 2 (1986): 151–69.","zoteroitem":"4MKNQEGP"},{"bibliographiccitation":"Bowes, Kim, Afrim Hoti, Will Bowden, Karen Frances, John Mitchell, Belissa Muka, Paul Reynolds, and Joanita Vroom. “An Amphitheatre and Its Afterlives: Survey and Excavation in the Durres Amphitheatre.” Journal of Roman Archaeology 16 (2003): 380–94. https://doi.org/10.1017/S1047759400013209 .","zoteroitem":"IWZKHNB8"}],
         "created": 100,
         "capacity": {"quantity": 20000},
         "chronogroup": "second-century",
@@ -7537,7 +7537,7 @@
       "id": "volterraAmphitheater",
       "properties": {
         "title": "Volterra Amphitheater",
-        "bibliography": "http://news.discovery.com/history/archaeology/gladiator-colosseum-found-in-tuscany-151111.htm",
+        "bibliography":[{"bibliographiccitation":"Sorge, Elena. “Amphitheater of Volterra: Case Study for the Representation of Excavation Data | Studies in Digital Heritage.” Studies in Digital Heritage 1, no. 2 (2017): 269–81. https://doi.org/10.14434/sdh.v1i2.23242 .","zoteroitem":"XW8VDUBU"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10000, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
