@@ -1159,11 +1159,12 @@
       }
     },{
       "type": "Feature",
-      "id": "lunaAmphitheater",
+      "id": "luniAmphitheater",
       "properties": {
-        "title": "Amphitheater at Luna",
+        "title": "Amphitheater at Luni",
+        "bibliography":[{"bibliographiccitation":"Fazzini, Paolo, and Marina Maffei. “The Disappearance of the City of Luni.” Journal of Cultural Heritage 1, no. 3 (November 2, 2000): 247–60. https://doi.org/10.1016/S1296-2074(00)01081-5 .","zoteroitem":"P8RB27QW"}],
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 87,
           "exteriorminor": 71,
@@ -1171,7 +1172,7 @@
           "arenaminor": 34.5
          },
         "golvinid": "143",
-        "label": "Luna",
+        "label": "Luni",
         "latintoponym": "Luna",
         "moderncountry": "Italy",
         "orientation": 216,
@@ -1256,6 +1257,7 @@
       "id": "flaviaSolvaAmphitheater",
       "properties": {
         "title": "Amphitheater at Flavia Solva",
+        "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2729, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -1779,6 +1781,7 @@
       "properties": {
         "title": "Amphitheater at Virunum",
         "buildingtype": "amphitheater",
+        "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/23865",
         "dimensions": {
@@ -5339,7 +5342,7 @@
       "id": "gleisdorfAmphitheater",
       "properties": {
         "amphitheatrum": "http://amphi-theatrum.de/2424.html",
-        "bibliography": "https://www.academia.edu/804203/Amphitheater-in-Noricum",
+        "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Gleisdorf",
