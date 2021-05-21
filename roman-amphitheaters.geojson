@@ -230,7 +230,9 @@
       "id": "romeFlavianAmphitheater",
       "properties": {
         "title": "Flavian Amphitheater at Rome",
-        "bibliography":[{"bibliographiccitation":"Lancaster, Lynne C. “The Process of Building the Colosseum: The Site, Materials, and Construction Techniques.” Journal of Roman Archaeology 18 (ed 2005): 57–82. https://doi.org/10.1017/S1047759400007212.","zoteroitem":"VKMRD8AT"}],
+        "bibliography":[{"bibliographiccitation":"Lancaster, Lynne C. “The Process of Building the Colosseum: The Site, Materials, and Construction Techniques.” Journal of Roman Archaeology 18 (ed 2005): 57–82. https://doi.org/10.1017/S1047759400007212.","zoteroitem":"VKMRD8AT"},
+        {"bibliographiccitation":"Bomgardner, David. The Story of the Roman Amphitheatre. London: Taylor and Francis, 2002.","withincitation":"ch. 1", "zoteroitem":"LAKEBU6D"},
+        {"bibliographiccitation":"Beste, Heinz-Jürgen. “Rom, Italien: Neue Argumente zu einer Naumachie im Colosseum. Die Arbeiten der Jahre 2017 und 2018.” In e-Forschungsberichte des DAI, Fasc.1 (2019), Fasc.1, 146-150. Berlin: Deutsches Archäologisches Institut, 2019.", "zoteroitem":"E7WKBIPP"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 50000},
         "chronogroup": "flavian",
@@ -521,6 +523,7 @@
       "id": "pozzuoliFlavianAmphitheater",
       "properties": {
         "title": "Flavian Amphitheater at Pozzuoli",
+        "amphitheatrum": "https://amphi-theatrum.de/1466.html",
         "buildingtype": "amphitheater",
         "created":70,
         "capacity": {"quantity": 35700},
@@ -560,6 +563,7 @@
       "id": "pozzuoliEarlyAmphitheater",
       "properties": {
         "title": "Early Amphitheater at Pozzuoli",
+        "amphitheatrum": "https://amphi-theatrum.de/1465.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "created":-70,
@@ -1782,7 +1786,7 @@
         "title": "Amphitheater at Virunum",
         "buildingtype": "amphitheater",
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
-        "chronogroup": "imperial",
+        "chronogroup": "second-century",
         "dare": "http://dare.ht.lu.se/places/23865",
         "dimensions": {
           "exteriormajor": 96,
@@ -2689,6 +2693,7 @@
       "id": "saintesAmphitheater",
       "properties": {
         "title": "Amphitheater at Saintes",
+        "amphitheatrum": "https://amphi-theatrum.de/1526.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20197, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -3109,6 +3114,7 @@
       "properties": {
         "title": "Amphitheater at Gemellae",
         "amphitheatrum": "https://amphi-theatrum.de/1445.html",
+        "bibliography":[{"bibliographiccitation":"Baradez, J. “Deux Amphithéâtres Inédits Du Limes de Numidie, Gemellae et Mesarfelta.” In Mélanges d’archéologie, d’épigraphie et d’histoire Offerts à J. Carcopino, 55–69. Paris: Hachette, 1966.","zoteroitem":"FPC6XYXG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3204, "sourcenote": "Golvin"},
         "chronogroup": "hadrianic",
@@ -3260,6 +3266,7 @@
       "id": "bergamaAmphitheater",
       "properties": {
         "title": "Amphitheater at Pergamum",
+        "amphitheatrum": "https://amphi-theatrum.de/1562.html",
         "buildingtype": "amphitheater",
         "created": 100,
         "capacity": {"quantity": 23016, "sourcenote": "Golvin"},
@@ -3271,13 +3278,14 @@
            "arenamajor": 53,
            "arenaminor": 37
         },
+        "golvinid": "177",
         "label": "Bergama",
         "latintoponym": "Pergamum",
         "moderncountry": "Turkey",
         "orientation": 194,
         "pleiades": "https://pleiades.stoa.org/places/550812",
         "province": "asia",
-        "trismegistoa": "http://www.trismegistos.org/place/1688"
+        "trismegistos": "http://www.trismegistos.org/place/1688"
       },
       "geometry": {
         "type": "Point",
@@ -3404,6 +3412,7 @@
       "id": "salamisAmphitheater",
       "properties": {
         "title": "Amphitheater at Salamis",
+        "amphitheatrum": "https://amphi-theatrum.de/2001.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Salamis",
@@ -3425,6 +3434,7 @@
       "id": "paphosAmphitheater",
       "properties": {
         "title": "Amphitheater at Paphos",
+        "amphitheatrum": "https://amphi-theatrum.de/1984.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Paphos",
@@ -5538,9 +5548,9 @@
       }
     },{
       "type": "Feature",
-      "id": "albegnaAmphitheater",
+      "id": "albengaAmphitheater",
       "properties": {
-        "title": "Amphitheater at Albegna",
+        "title": "Amphitheater at Albenga",
         "amphitheatrum": "http://amphi-theatrum.de/1508.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -5549,7 +5559,8 @@
           "exteriorminor": 50,
           "source": "http://amphi-theatrum.de/1508.html"
          },
-        "label": "Albegna",
+        "golvinid": "74",
+        "label": "Albenga",
         "latintoponym": "Albingaunum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/157803",
@@ -5560,9 +5571,9 @@
       "geometry": {
         "type": "Point",
         "coordinates":[
-               8.21089894,
-               44.043708,
-               34
+               8.211019,
+               44.043709,
+               44
         ],
         "source": "http://maps.google.com/"
       }
@@ -5571,6 +5582,7 @@
       "id": "aquinoAmphitheater",
       "properties": {
         "title": "Amphitheater at Aquino",
+        "amphitheatrum": "https://amphi-theatrum.de/1546.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5580,7 +5592,7 @@
           "arenaminor": 36,
           "sourcenote": "Golvin"
          },
-        "golvinid": 147,
+        "golvinid": "147",
         "label": "Aquino",
         "latintoponym": "Aquinum",
         "moderncountry": "Italy",
@@ -6347,6 +6359,7 @@
       "properties": {
         "title": "Amphitheater at Mesarfelta",
         "amphitheatrum": "http://www.amphi-theatrum.de/1446.html",
+        "bibliography":[{"bibliographiccitation":"Baradez, J. “Deux Amphithéâtres Inédits Du Limes de Numidie, Gemellae et Mesarfelta.” In Mélanges d’archéologie, d’épigraphie et d’histoire Offerts à J. Carcopino, 55–69. Paris: Hachette, 1966.","zoteroitem":"FPC6XYXG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "comment": "Specific location not known.",
@@ -6408,7 +6421,7 @@
         "title": "Amphitheater at Carpis",
         "amphitheatrum": "http://www.amphi-theatrum.de/1316.html",
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "second-century",
         "comment": "Specific location not known.",
         "golvinid": "65",
         "label": "Carpis",
@@ -7655,8 +7668,16 @@
       "id": "vercelliAmphitheater",
       "properties": {
         "title": "Amphitheater at Vercelli",
+        "amphitheatrum": "https://amphi-theatrum.de/2948.html",
+        "bibliography":[{"bibliographiccitation":"Lerma, Simone. “Anfiteatro Di Vercellae.” FastiOnline 3267 (n.d.). http://www.fastionline.org/record_view.php?fst_cd=AIAC_3267.","zoteroitem":"SN69JGM2"},
+        {"bibliographiccitation":"Spagnolo, Giuseppina. “Vercelli, L’anfiteatro.” Quaderni Della Soprintendenza Archeologica Del Piemonte 22 (2007): 292–94.","zoteroitem":"H5HPD4LQ"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+           "exteriormajor": 107,
+           "exteriorminor": 90,
+           "sourcenote": "Lerma n.d."
+           },
         "dare": "http://dare.ht.lu.se/places/25751",
         "label": "Vercelli",
         "latintoponym": "Vercellae",
