@@ -567,6 +567,7 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "created":-70,
+        "exclude": true,
         "label": "Pozzuoli (Early)",
         "latintoponym": "Puteoli",
         "moderncountry": "Italy",
@@ -899,6 +900,7 @@
       "id": "leptisMagnaAmphitheater",
       "properties": {
         "title": "Amphitheater at Leptis Magna",
+        "amhitheatrum": "https://amphi-theatrum.de/1321.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 16000},
         "chronogroup": "neronian",
@@ -1815,7 +1817,7 @@
         "title": "Amphitheater at Carsulae",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 5945, "sourcenote": "Golvin"},
-        "chronogroup": "imperial",
+        "chronogroup": "late-first-century",
         "dimensions": {
           "exteriormajor": 86.5,
           "exteriorminor": 62,
@@ -2568,7 +2570,7 @@
       "properties": {
         "title": "Amphitheater at Tibur",
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "hadrianic",
         "dimensions": {
           "exteriormajor": 85,
           "source": "http://maps.google.com/"
@@ -4218,7 +4220,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1389.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 25000},
-        "chronogroup": "imperial",
+        "chronogroup": "trajanic",
         "dimensions": {
            "exteriormajor": 101.9,
            "exteriorminor": 83,
@@ -5990,8 +5992,10 @@
       "id": "espejoAmphitheater",
       "properties": {
         "title": "Amphitheater at Espejo",
+        "amphitheatrum": "https://amphi-theatrum.de/1472.html",
         "buildingtype": "amphitheater",
         "chronogroup": "caesarean",
+        "golvinid": "11",
         "label": "Espejo",
         "latintoponym": "Ucubi",
         "moderncountry": "Spain",
@@ -6703,6 +6707,7 @@
       "id": "velleiaAmphitheater",
       "properties": {
         "title": "Amphitheater at Velleia",
+        "amphitheatrum": "https://amphi-theatrum.de/1479.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2901, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -7672,7 +7677,7 @@
         "bibliography":[{"bibliographiccitation":"Lerma, Simone. “Anfiteatro Di Vercellae.” FastiOnline 3267 (n.d.). http://www.fastionline.org/record_view.php?fst_cd=AIAC_3267.","zoteroitem":"SN69JGM2"},
         {"bibliographiccitation":"Spagnolo, Giuseppina. “Vercelli, L’anfiteatro.” Quaderni Della Soprintendenza Archeologica Del Piemonte 22 (2007): 292–94.","zoteroitem":"H5HPD4LQ"}],
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "late-first-early-second",
         "dimensions": {
            "exteriormajor": 107,
            "exteriorminor": 90,
@@ -7847,6 +7852,7 @@
       "id": "barcelonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Barcelona",
+        "amphitheatrum": "https://amphi-theatrum.de/2613.html",
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "imperial",
@@ -8146,6 +8152,12 @@
         "startdate": 75,
         "enddate": 125,
         "latest-enddate": 150
+    },
+    {
+        "id": "trjanic",
+        "label": "Trajanic",
+        "startdate": 98,
+        "enddate": 117
     },
     {
         "id": "hadrianic",
