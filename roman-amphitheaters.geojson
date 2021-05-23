@@ -1520,6 +1520,7 @@
            "arenaminor": 38.4,
            "sourcenote": "Golvin"
         },
+        "golvinid": "155",
         "label": "Nimes",
         "latintoponym": "Nemausus",
         "moderncountry": "France",
@@ -1853,6 +1854,7 @@
            "exteriormajor": 124,
            "source": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Florence"
         },
+        "golvinid": "140",
         "label": "Florence",
         "latintoponym": "Florentia",
         "moderncountry": "Italy",
