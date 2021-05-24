@@ -524,6 +524,7 @@
       "properties": {
         "title": "Flavian Amphitheater at Pozzuoli",
         "amphitheatrum": "https://amphi-theatrum.de/1466.html",
+        "bibliography":[{"bibliographiccitation":"Demma, Filippo. 2007. “L’Anfiteatro Flavio.” In Monumenti Pubblici Di Puteoli : Per Un Archeologia Dell’architettura, 27–76. “L’Erma” di Bretschneider.","zoteroitem":"DKQ6KDQ2"}],
         "buildingtype": "amphitheater",
         "created":70,
         "capacity": {"quantity": 35700},
@@ -5741,18 +5742,20 @@
       "properties": {
         "title": "Amphitheater at Chemtou",
         "buildingtype": "amphitheater",
+        "bibliography":[{"bibliographiccitation":"Montali, Gilberto. L’ anfiteatro di Sabratha e gli anfiteatri dell’Africa Proconsolare: atti Convegno Università degli Studi di Macerata 2014. Roma: <>Erma de Bretschneider, 2015.", "withincitation":"p. 424","zoteroitem":"7HMLD8GA"}],
         "capacity": {"quantity": 6500},
         "chronogroup": "second-century",
-        "comment": "The amphitheater is often said to have been built to provide entertainment for prisoners working inthe local quarries. Reference needed.",
+        "comment": "The amphitheater is often said to have been built to provide entertainment for prisoners working in the local quarries. Reference needed.",
         "dimensions": {
-          "exteriormajor": 61,
-          "exteriorminor": 52,
-          "arenamajor": 30,
-          "arenaminor": 21
+          "exteriormajor": 60,
+          "exteriorminor": 44.8,
+          "arenamajor": 37.6,
+          "arenaminor": 22.5,
+          "source": ""
          },
         "golvinid": "67",
         "label": "Chemtou",
-        "latintoponym": "Simmithu",
+        "latintoponym": "Simmithus",
         "moderncountry": "Tunisia",
         "orientation": 176,
         "pleiades": "https://pleiades.stoa.org/places/315174",
@@ -8041,6 +8044,7 @@
       "id": "trentoAmphitheater",
       "properties": {
         "title": "Amphitheater at Trento",
+        "amphitheatrum": "https://amphi-theatrum.de/3048.html",
         "bibliography": [
         {"bibliographiccitation": "Archeologia, Musei e Cultura in Trentino. “Siti archeologici culturali della Tridentum Trento di epoca Romana.” http://www.archeotrentino.it/altri-siti-di-tridentum/.","zoteroitem":"WAQBUSAR"}],
         "buildingtype": "amphitheater",
