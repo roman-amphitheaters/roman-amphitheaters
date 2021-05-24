@@ -3719,7 +3719,7 @@
         "title": "Amphitheater at Ivrea",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 8046, "sourcenote": "Golvin"},
-        "chronogroup": "first-century",
+        "chronogroup": "late-first-century",
         "dimensions": {
           "exteriormajor": 96,
           "exteriorminor": 72,
@@ -7454,7 +7454,7 @@
          },
         "geometry": {
           "type": "Point",
-          "coordinates":[
+          "coordinates":[ 
                 14.065098,
                 41.251661,
                 191
@@ -8081,7 +8081,6 @@
            "arenaminor": 39,
            "sourcenote": "Golvin"
         },
-        "chronogroup": "second-century",
         "golvinid": "104",
         "label": "Avenches",
         "latintoponym": "Aventicum",
@@ -8095,6 +8094,40 @@
                7.042646,
                46.880971,
                470
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "venafroAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Venafro",
+        "amphitheatrum": "https://amphi-theatrum.de/1392.html",
+        "bibliography": [{"bibliographiccitation": "Kajava, Mika. “Gaius Marcius Ambitio e l’anfiteatro Di Venafro: Nuovi Dati Epigrafici.” In Samnium, Ns20, 145–61. Benevento: Auxiliatrix, 2007.","zoteroitem":"HQ9QC3FS"}],
+        "buildingtype": "amphitheater",
+        "capacity": {"quantity": 15000, "sourcenote": "wikipedia"},
+        "chronogroup":"imperial",
+        "dimensions": {
+           "exteriormajor": 110,
+           "exteriorminor": 85,
+           "arenamajor": 60,
+           "arenaminor": 35,
+           "source": "https://amphi-theatrum.de/1392.html"
+        },
+        "golvinid": "87",
+        "label": "Avenches",
+        "latintoponym": "Venafrum",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/433185",
+        "province": "regio-i",
+        "visibility": "street" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               14.046835,
+               41.482550,
+               176
 
         ],
         "source": "https://maps.google.com"
@@ -8149,6 +8182,12 @@
         "id": "first-century",
         "label": "First Century",
         "startdate": 1,
+        "enddate": 99
+    },
+    {
+        "id": "late-first-century",
+        "label": "Late First Century",
+        "startdate": 80,
         "enddate": 99
     },
     {
