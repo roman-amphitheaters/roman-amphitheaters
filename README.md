@@ -16,7 +16,7 @@ This map shows the locations of all structures recorded in the dataset.
 
 ![Map of All Amphitheaters](all-roman-amphitheaters-map.png)
 
-'[all-roman-amphitheaters-map-dark.png](all-roman-amphitheaters-map-dark.png)' shows the same locations on a black map of the Roman territory in 200 CE.
+'[all-roman-amphitheaters-map-dark.png](all-roman-amphitheaters-map-dark.png)' shows the same locations on a black basemap of Roman territory in 200 CE. The base map is derived from files provided by the [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/).
 
 # QGIS
 As a convenience, the file 'roman-amphitheaters.qgz' is a simple [QGIS](https://qgis.org/) project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap. If the map is blank when that file is opened, choose the "Zoom to Layer(s)" item from the "View" menu.
