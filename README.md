@@ -3,7 +3,7 @@
 
 'roman-amphitheaters' is a digital resource that collects information about Roman amphitheaters with a primary goal being the easy use of its data in a wide variety of computational environments. It is designed to support open-ended inquiry into the place and role of amphitheaters in the Roman Empire.
 
-The file 'roman-amphitheaters.geojson' holds the latest information and is the source for other derived files, including 'roman-amphitheaters.csv'. The 'utility.ipynb' generates these other files.
+The file 'roman-amphitheaters.geojson' holds the latest information and is the source for other derived files, including 'roman-amphitheaters.csv' and the basic maps provided as a convenience. The 'utility.ipynb' generates these other files.
 
 By default, github will display the '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' file as a map.
 
@@ -19,7 +19,7 @@ This map shows the locations of all structures recorded in the dataset.
 '[all-roman-amphitheaters-map-dark.png](all-roman-amphitheaters-map-dark.png)' shows the same locations on a black basemap of Roman territory in 200 CE. The base map is derived from files provided by the [Ancient World Mapping Center](http://awmc.unc.edu/wordpress/).
 
 # QGIS
-As a convenience, the file 'roman-amphitheaters.qgz' is a simple [QGIS](https://qgis.org/) project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap. If the map is blank when that file is opened, choose the "Zoom to Layer(s)" item from the "View" menu.
+As a further convenience, the file 'roman-amphitheaters.qgz' is a simple [QGIS](https://qgis.org/) project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap. If the map is blank when that file is opened, choose the "Zoom to Layer(s)" item from the "View" menu.
 
 ![QGIS Screenshot](qgis-2021-05-10.png)
 
