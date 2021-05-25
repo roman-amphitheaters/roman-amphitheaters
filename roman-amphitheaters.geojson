@@ -7226,7 +7226,8 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/413127",
         "region": "regio-v",
-        "visibility": "poor"
+        "visibility": "poor",
+        "wikidata": "http://www.wikidata.org/entity/Q28978025"
          },
         "geometry": {
           "type": "Point",
@@ -8116,7 +8117,7 @@
            "source": "https://amphi-theatrum.de/1392.html"
         },
         "golvinid": "87",
-        "label": "Avenches",
+        "label": "Venafro",
         "latintoponym": "Venafrum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/433185",
@@ -8128,6 +8129,39 @@
                14.046835,
                41.482550,
                176
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "saintGeorgesDuBoisAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Saint-Georges-du-Bois",
+        "amphitheatrum": "https://amphi-theatrum.de/1529.html",
+        "bibliography": [{"bibliographiccitation": "Gabet, C. “L’amphithéâtre Gallo-Romain de Saint-Georges-Du-Bois.” In Revue de La Saintonge et de l’Aunis, 9.1983, 7–12, 1983. https://gallica.bnf.fr/ark:/12148/bpt6k97870657 .","zoteroitem":"ZSJDWT3E"},{"bibliographiccitation": "Charrier, Romain. “L’amphithéâtre de Saint-Georges-Du-Bois.” Mediolanum Civitas Santonum, 2016. https://mediolanum-santonum.fr/amphitheatre-st-georges-du-bois.html .","zoteroitem":"9DV8D54H"}],
+        "buildingtype": "amphitheater",
+        "capacity": {"quantity": 3000},
+        "chronogroup":"first-century",
+        "dimensions": {
+           "exteriormajor": 65,
+           "exteriorminor": 50,
+           "arenamajor": 54,
+           "arenaminor": 30,
+           "source": "https://mediolanum-santonum.fr/amphitheatre-st-georges-du-bois.html"
+        },
+        "golvinid": "103",
+        "label": "Saint-Georges-du-Bois",
+        "moderncountry": "France",
+        "pleiades": "",
+        "province": "aquitania",
+        "visibility": "poor" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               -0.749919,
+               46.142723,
+               39
 
         ],
         "source": "https://maps.google.com"

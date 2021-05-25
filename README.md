@@ -30,6 +30,7 @@ Amphitheaters are well represented on the public internet. The following digital
 * https://www.livius.org
 * https://pleiades.stoa.org
 * https://vici.org/
+* http://www.wikidata.org/entity/Q7362268 (See "What links here".)
 * https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
 
 Two concsise and useful overall discussions of amphitheaters are:
