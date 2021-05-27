@@ -8166,6 +8166,30 @@
         ],
         "source": "https://maps.google.com"
       }
+    },{
+      "type": "Feature",
+      "id": "toledoAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Toledo",
+        "bibliography": [{"bibliographiccitation": "“El Gobierno Regional Destaca El Importante Hallazgo de Dos Bóvedas de Lo Que Fuera El Anfiteatro Romano de Toledo | Portal de Cultura de Castilla-La Mancha.” Accessed May 27, 2021. https://cultura.castillalamancha.es/importante-hallazgo-de-dos-bovedas-de-lo-que-fuera-el-anfiteatro-romano-de-Toledo .","zoteroitem":"9JJW3LUE"}],
+        "buildingtype": "amphitheater",
+        "chronogroup":"imperial",
+        "label": "Toledo",
+        "latintoponym": "Toletum",
+        "moderncountry": "Spain",
+        "pleiades": "https://pleiades.stoa.org/places/266066",
+        "province": "tarraconensis",
+        "visibility": "none" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               -4.022888,
+               39.865349,
+               482
+
+        ],
+        "source": "https://maps.google.com"
+      }
     }
   ],
   "romanamphitheaterschronogroups":[
