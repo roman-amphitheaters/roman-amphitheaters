@@ -5497,7 +5497,7 @@
         "capacity": {"quantity": 30000},
         "certainty": "uncertain",
         "certainty-qualifier": "location",
-        "chronogroup": "late-1st-early-2nd",
+        "chronogroup": "late-first-early-second-century",
         "dimensions": {
            "exteriormajor": 148,
            "exteriorminor": 125,
@@ -7683,7 +7683,7 @@
         "bibliography":[{"bibliographiccitation":"Lerma, Simone. “Anfiteatro Di Vercellae.” FastiOnline 3267 (n.d.). http://www.fastionline.org/record_view.php?fst_cd=AIAC_3267.","zoteroitem":"SN69JGM2"},
         {"bibliographiccitation":"Spagnolo, Giuseppina. “Vercelli, L’anfiteatro.” Quaderni Della Soprintendenza Archeologica Del Piemonte 22 (2007): 292–94.","zoteroitem":"H5HPD4LQ"}],
         "buildingtype": "amphitheater",
-        "chronogroup": "late-first-early-second",
+        "chronogroup": "late-first-early-second-century",
         "dimensions": {
            "exteriormajor": 107,
            "exteriorminor": 90,
@@ -8252,15 +8252,15 @@
         "enddate": 99
     },
     {
-        "id": "late-1st-early-2nd",
-        "label": "Late 1st - Early2nd",
+        "id": "late-first-early-second-century",
+        "label": "Late 1st - Early 2nd",
         "earlieststartdate": 50,
         "startdate": 75,
         "enddate": 125,
         "latest-enddate": 150
     },
     {
-        "id": "trjanic",
+        "id": "trajanic",
         "label": "Trajanic",
         "startdate": 98,
         "enddate": 117
