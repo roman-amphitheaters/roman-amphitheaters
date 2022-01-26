@@ -8193,6 +8193,36 @@
         ],
         "source": "https://maps.google.com"
       }
+    },{
+      "type": "Feature",
+      "id": "kaiseraugustAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Kaiseraugst",
+        "bibliography": [{"bibliographiccitation": "Geggel, Laura. n.d. “Last Roman Gladiator Arena Ever Built Unearthed in Switzerland | Live Science.” LIvescience. Accessed January 26, 2022. https://www.livescience.com/roman-amphitheater-discovered-switzerland .","zoteroitem":"AUHQAHQB"}],
+        "buildingtype": "amphitheater",
+        "chronogroup":"fourth-century",
+        "dimensions": {
+           "exteriormajor": 50,
+           "exteriorminor": 40,
+           "source": "https://www.livescience.com/roman-amphitheater-discovered-switzerland"
+        },
+        "exclude": true,
+        "label": "Kaiseraugst",
+        "latintoponym": "Castrum Rauracense",
+        "moderncountry": "Switzerland",
+        "pleiades": "https://pleiades.stoa.org/places/81716458",
+        "province": "germania-superior",
+        "visibility": "good" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               7.721596,
+               47.540822,
+               482
+
+        ],
+        "source": "https://maps.google.com"
+      }
     }
   ],
   "romanamphitheaterschronogroups":[
