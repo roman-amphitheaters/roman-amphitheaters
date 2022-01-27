@@ -6696,7 +6696,8 @@
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/413179",
         "region": "regio-v",
-        "visibility": "partial"
+        "visibility": "partial",
+        "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_romano_di_Teramo"
          },
         "geometry": {
           "type": "Point",
