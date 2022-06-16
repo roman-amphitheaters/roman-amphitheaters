@@ -1829,6 +1829,7 @@
         },
         "golvinid": "80",
         "label": "Carsulae",
+        "latintoponym": "Carsulae",
         "moderncountry": "Italy",
         "orientation": 100,
         "pleiades": "https://pleiades.stoa.org/places/413065",
@@ -1888,6 +1889,7 @@
            "sourcenote": "Golvin"
         },
         "label": "Ocriculcum",
+        "latintoponym": "Ocricoli",
         "moderncountry": "Italy",
         "orientation": 173,
         "pleiades": "https://pleiades.stoa.org/places/413231",
@@ -2451,6 +2453,7 @@
           "exteriormajor": 77,
           "source": "http://maps.google.com"
           },
+        "latintoponym": "Sutrium",
         "label": "Sutrium",
         "moderncountry": "Italy",
         "orientation": 230,
@@ -2732,6 +2735,7 @@
       "id": "assisiAmphitheater",
       "properties": {
         "title": "Amphitheater at Assisi",
+        "amphitheatrum": "https://amphi-theatrum.de/1386.html",
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "dimensions": {
@@ -4340,7 +4344,15 @@
         "title": "Amphitheater at Bolsena",
         "amphitheatrum": "http://amphi-theatrum.de/1554.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 11000, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
+        "dimensions": {
+          "exteriormajor": 100,
+          "exteriorminor": 84,
+          "arenamajor": 59,
+          "arenaminor": 42,
+          "source":"Golvin"
+         },
         "label": "Bolsena",
         "latintoponym": "Volsinii Novi",
         "moderncountry": "Italy",
@@ -6562,6 +6574,7 @@
         "moderncountry": "Italy",
         "orientation": 268,
         "pleiades": "https://pleiades.stoa.org/places/413125",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/827074678",
         "region": "regio-vii",
         "rockcut": true,
         "visibility": "good"
@@ -6780,9 +6793,10 @@
       }
     },{
       "type": "Feature",
-      "id": "bevanaAmphitheater",
+      "id": "bevagnaAmphitheater",
       "properties": {
         "title": "Amphitheater at Bevagna",
+        "amphitheatrum": "https://amphi-theatrum.de/1596.html",
         "bibliography": "http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Umbria/Perugia/Bevagna/Bevagna/Roman/amphitheatre.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6251, "sourcenote": "Golvin"},
@@ -7012,6 +7026,7 @@
            "arenaminor": 25
         },
         "label": "Forum Novum",
+        "latintoponym": "Forum Novum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/413148",
         "region": "regio-iv",
@@ -7094,7 +7109,7 @@
       "properties": {
         "title": "Spoleto Amphitheater",
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "first-century",
         "dare": "http://dare.ht.lu.se/places/24631",
         "dimensions": {
           "exteriormajor": 115,
