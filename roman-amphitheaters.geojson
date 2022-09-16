@@ -666,6 +666,10 @@
         "buildingtype": "amphitheater",
         "chronogroup": "hadrianic",
         "created":120,
+        "dimensions": {
+          "exteriormajor": 25,
+          "sourcenote": "Measured using Google Maps as aligned with indications of location. Very approximate. See https://skfb.ly/MBTU ."
+        },
         "emperor": "Hadrian",
         "label": "Tivoli Villa",
         "latintoponym": "Villa Hadriani",
@@ -678,8 +682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates":[
-          12.778929,
-          41.941708,
+          12.778916,
+          41.941640,
           99
         ]
       }
@@ -790,6 +794,11 @@
         "amphitheatrum": "http://amphi-theatrum.de/1453.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
+        "dimensions":{
+          "arenamajor":60,
+          "arenaminor": 40,
+          "sourcenote": "Golvin"
+        },
         "label": "Nijmegen",
         "latintoponym": "Ulpia Noviomagus",
         "moderncountry": "Netherlands",
@@ -1911,6 +1920,11 @@
         "title": "Amphitheater at Lixus",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+           "arenamajor": 34,
+           "arenaminor": 28,
+           "sourcenote": "Golvin"
+        },
         "label": "Lixus",
         "moderncountry": "Morocco",
         "orientation": 76,
@@ -2289,10 +2303,13 @@
         "title": "Amphitheater at Perigueux",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 670","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 21413, "sourncenote": "Golvin"},
         "chronogroup": "first-century",
         "dimensions": {
-         "exteriormajor": 131,
-         "exteriorminor": 113
+         "exteriormajor": 129,
+         "exteriorminor": 105,
+         "arenamajor": 65,
+         "arenaminor": 41
         },
         "label": "Périgueux",
         "latintoponym": "Vesunna Petrucoriorum",
@@ -2873,6 +2890,11 @@
         "buildingtype": "amphitheater",
         "label": "Cirencester",
         "chronogroup": "second-century",
+        "dimensions": {
+           "arenamajor": 46,
+           "arenaminor": 41,
+           "sourcenote": "https://en.wikipedia.org/wiki/Cirencester_Amphitheatre"
+        },
         "moderncountry": "United Kingdom",
         "orientation": 150,
         "pleiades": "https://pleiades.stoa.org/places/197225",
@@ -3220,10 +3242,16 @@
       "properties": {
         "title": "Amphitheater at Carmona",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 18350, "sourcenote": "https://amphi-theatrum.de/1471.html"},
         "created": -50,
-        "capacity": {"quantity": 8000},
         "chronogroup": "caesarean",
-        "comment": "Size is only estimate based on Welch reporting a comparison with Sutrium.",
+        "dimensions": {
+          "exteriormajor": 108,
+          "exteriorminor": 98,
+          "arenamajor": 58,
+          "arenaminor": 39,
+          "sourcenote": "https://amphi-theatrum.de/1471.html"
+        },
         "label": "Carmona",
         "latintoponym": "Carmo",
         "military": "yes",
@@ -3425,7 +3453,7 @@
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "label": "Salamis",
-        "moderncountry": "Northern Cyprus",
+        "moderncountry": "Cyprus",
         "pleiades": "https://pleiades.stoa.org/places/707617",
         "province": "cyprus"
       },
@@ -3470,6 +3498,13 @@
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "created": 125,
+        "dimensions": {
+          "exteriormajor": 92,
+        "exteriorminor": 67,
+        "arenamajor": 46,
+        "arenaminor": 27,
+          "sourcenote": "https://en.wikipedia.org/wiki/Moridunum_(Carmarthen)"
+         },
         "label": "Carmarthen",
         "latintoponym": "Moridunum",
         "moderncountry": "United Kingdom",
@@ -3824,7 +3859,7 @@
       "properties": {
         "title": "Amphitheater at Sophia",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000},
+        "capacity": {"quantity": 20000, "sourcenote":"Paunov, Evgeni (May–June 2007). “Roman entertainment in Sofia-Serdica”. Minerva: The International Review of Ancient Art & Archaeology. London: Aurora Publications. 19: 40–41"},
         "created": 284,
         "chronogroup": "post-severan",
         "dimensions": {
@@ -4035,6 +4070,13 @@
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 675","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
+        "dimensions": {
+          "exteriormajor": 137,
+          "exteriorminor": 116,
+          "arenamajor": 68,
+          "arenaminor": 48,
+          "sourcenote": "Golvin"
+         },
         "label": "Limoges",
         "latintoponym": "Augustoritum",
         "moderncountry": "France",
@@ -4321,6 +4363,14 @@
         "amphitheatrum": "http://amphi-theatrum.de/1504.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 94,
+          "exteriorminor": 66,
+          "arenamajor": 61,
+          "arenaminor": 35,
+          "sourcenote": "https://amphi-theatrum.de/1504.html"
+        },
+        "golvinid": 58,
         "label": "Monteleone",
         "latintoponym": "Trebula Mutuesca",
         "moderncountry": "Italy",
@@ -4517,7 +4567,15 @@
         "title": "Amphitheater at Béziers",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 643","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 8601, "sourcenote":"Golvin"},
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 74,
+          "exteriorminor": 44,
+          "arenamajor": 104,
+          "arenaminor": 74,
+          "sourcenote": "Golvin"
+        },
         "label": "Béziers",
         "latintoponym": "Baeterrae",
         "moderncountry": "France",
@@ -4540,10 +4598,12 @@
       "properties": {
         "title": "Amphitheater at Agen",
         "amphitheatrum": "http://amphi-theatrum.de/1552.html",
+        "bibliography": "Berthault, Frédéric, Xavier Dupuis, Myriam Fincker, and Jean-François Pichonneau. 1984. “Les édifices de spectacle de l’Antique Aginnum. Etat de la question en 1984.” Aquitania 2 (1): 159–73. https://doi.org/10.3406/aquit.1984.1004.",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 15000},
         "chronogroup": "imperial",
-        "created": 215,
+        "dimensions":{
+          "unknown": true
+        },
         "label": "Agen",
         "latintoponym": "Aginnum",
         "moderncountry": "France",
@@ -4593,8 +4653,15 @@
         "title": "Amphitheater at Amiens",
         "amphitheatrum": "http://amphi-theatrum.de/1384.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 15000},
+        "capacity": {"quantity": 17848,"sourcenote":"Golvin"},
         "chronogroup": "second-century",
+        "dimensions": {
+          "exteriormajor": 114,
+          "exteriorminor": 100,
+          "arenamajor": 55,
+          "arenaminor": 42,
+          "sourcenote": "Golvin"
+        },
         "golvinid": "102",
         "label": "Amiens",
         "latintoponym": "Samarobriva Ambianorum",
@@ -4738,8 +4805,14 @@
       "id": "caistorStEdmundAmphitheater",
       "properties": {
         "amphitheatrum": "http://amphi-theatrum.de/1986.html",
+        "bibliography": "https://www.heritage.norfolk.gov.uk/record-details?MNF59165-Site-of-probable-Roman-amphitheatre-to-the-south-of-the-Roman-town-of-Venta-Icenorum",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+            "arenamajor": 38,
+            "arenaminor": 32,
+            "sourcenote": "amphi-theatrum."
+        },
         "label": "Caistor St. Edmund",
         "latintoponym": "Venta Icenorum",
         "moderncountry": "United Kingdom",
@@ -4981,7 +5054,8 @@
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/266043",
         "province": "baetica",
-        "visibility": "partial"
+        "visibility": "partial",
+        "wikidata": "http://www.wikidata.org/entity/Q29001109"
       },
       "geometry": {
         "type": "Point",
@@ -5115,6 +5189,10 @@
         "bibliography":[{"bibliographiccitation":"Papadopoulos, Nikos G., Apostolos Sarris, Maria Cristina Salvi, Sylviane Dederix, Pantelis Soupios, and Unal Dikmen. “Rediscovering the Small Theatre and Amphitheatre of Ancient Ierapytna (SE Crete) by Integrated Geophysical Methods.” Journal of Archaeological Science 39, no. 7 (July 1, 2012): 1960–73. https://doi.org/10.1016/j.jas.2012.01.044 .","zoteroitem":"WFYFFL7L"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+           "exteriormajor": 107,
+           "exteriorminor": 87,
+          "sourcenote": "Papadopoulos et al., p. 1971"},
         "label": "Ierapetra",
         "moderncountry": "Greece",
         "orientation": 211,
@@ -5254,6 +5332,11 @@
         "title": "Amphitheater at Nyon",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 56,
+          "exteriorminor": 40,
+          "sourcenote": "Google"
+         },
         "label": "Nyon",
         "latintoponym": "Noviodunum",
         "moderncountry": "Switzerland",
@@ -5428,6 +5511,11 @@
         "amphitheatrum": "http://amphi-theatrum.de/2002.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions":{
+          "exteriormajor": 75,
+          "exteriorminor": 120,
+          "sourcenote": "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112"
+        },
         "label": "Bosra",
         "latintoponym": "Nova Trajana Bostra",
         "moderncountry": "Syria",
@@ -5481,6 +5569,10 @@
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "certainty-qualifier": "location",
+        "dimensions": {
+          "exteriormajor": 80,
+          "sourcenote": "http://amphi-theatrum.de/1618.html"
+        },
         "chronogroup": "imperial",
         "label": "St. Marcel",
         "latintoponym": "Argentomagus",
@@ -5506,8 +5598,6 @@
         "amphitheatrum": "http://amphi-theatrum.de/1395.html",
         "bibliography": "http://www.inrap.fr/preventive-archaeology/Events/Last-discoveries/p-1355-lg1-Excavation-of-the-amphitheatre-quarter-in-Metz.htm",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 30000},
-        "certainty": "uncertain",
         "certainty-qualifier": "location",
         "chronogroup": "late-first-early-second-century",
         "dimensions": {
@@ -6012,6 +6102,10 @@
         "amphitheatrum": "https://amphi-theatrum.de/1472.html",
         "buildingtype": "amphitheater",
         "chronogroup": "caesarean",
+        "dimensions":{
+          "arenamajor": 35,
+          "sourcenote": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006:entry=ucubi"
+        },
         "golvinid": "11",
         "label": "Espejo",
         "latintoponym": "Ucubi",
@@ -6278,6 +6372,11 @@
         "capacity": {"quantity": 2000},
         "chronogroup": "second-century",
         "comment": "Not certainly an Amphitheater.",
+        "dimensions": {
+          "exteriormajor": 42,
+          "exteriorminor": 38,
+          "sourcenote":"https://www.seeker.com/mini-colosseum-excavated-in-rome-1764727456.html"
+        },
         "exclude": true,
         "label": "Portus Oval Structure",
         "latintoponym": "Portus",
@@ -6383,6 +6482,9 @@
         "bibliography":[{"bibliographiccitation":"Baradez, J. “Deux Amphithéâtres Inédits Du Limes de Numidie, Gemellae et Mesarfelta.” In Mélanges d’archéologie, d’épigraphie et d’histoire Offerts à J. Carcopino, 55–69. Paris: Hachette, 1966.","zoteroitem":"FPC6XYXG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
+        "dimensions":{
+          "unknown": true
+        },
         "comment": "Specific location not known.",
         "golvinid": "45",
         "label": "Mesarfelta",
@@ -7406,6 +7508,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24627",
+        "dimensions":{
+          "unknown": true
+        },
         "label": "Siponto",
         "latintoponym": "Sipous",
         "moderncountry": "Italy",
@@ -7611,10 +7716,16 @@
       "id": "vastoAmphitheater",
       "properties": {
         "title": "Amphitheater at Vasto",
+        "amhitheatrum": "https://amphi-theatrum.de/2042.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "comment": "Location approximate, near to DARE marker.",
         "dare": "http://dare.ht.lu.se/places/24333",
+        "dimensions": {
+           "exteriormajor": 100,
+           "exteriorminor": 80,
+           "sourcenote": "amphitheatrum"
+        },
         "label": "Vasto",
         "latintoponym": "Histonium",
         "moderncountry": "Italy",
@@ -7675,6 +7786,7 @@
            "exteriorminor": 93,
            "source": "http://maps.google.com"
         },
+        "golvinid": "59",
         "label": "Pollenzo",
         "latintoponym": "Pollentia",
         "moderncountry": "Italy",
@@ -7782,6 +7894,7 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dare": "http://dare.ht.lu.se/places/16715",
+        "dimensions": { "unknown": true },
         "label": "Suessa Arunca",
         "latintoponym": "Suessa",
         "moderncountry": "Italy",
@@ -8069,6 +8182,11 @@
         {"bibliographiccitation": "Archeologia, Musei e Cultura in Trentino. “Siti archeologici culturali della Tridentum Trento di epoca Romana.” http://www.archeotrentino.it/altri-siti-di-tridentum/.","zoteroitem":"WAQBUSAR"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
+        "dimensions": {
+           "arenamajor": 62,
+           "arenaminor": 48,
+           "sourcenote": "https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Aree-archeologiche/Tridentum.-La-citta-sotterranea/L-anfiteatro-romano7"
+        },
         "label": "Trento",
         "latintoponym": "Tridentum",
         "moderncountry": "Italy",
