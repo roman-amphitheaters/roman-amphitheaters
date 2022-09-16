@@ -243,7 +243,8 @@
            "exteriorminor": 156,
            "arenamajor": 83,
            "arenaminor": 48,
-           "exteriorheight": 52
+           "exteriorheight": 52,
+           "note": "Scholarly consensus."
            },
         "emperor": "Vespasian",
         "golvinid": "152",
@@ -568,6 +569,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "created":-70,
+        "dimensions": {
+          "unknown": true
+        },
         "exclude": true,
         "label": "Pozzuoli (Early)",
         "latintoponym": "Puteoli",
@@ -2099,10 +2103,15 @@
         "title": "Amphitheater at Hydata Hypsitana/Forum Traiani",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "arenaminor": 32,
+          "arenamajor": 40,
+          "source": "http:maps.google.com",
+          "note": "Partial visibility so approzimate measurements."
+        },
         "label": "Forum Traiani",
         "moderncountry": "Italy",
         "orientation": 209,
-        "periodo": "http://n2t.net/ark:/99152/p0wf3wdp4xt",
         "pleiades": "https://pleiades.stoa.org/places/471947",
         "province": "corsica-et-sardinia",
         "source": "https://pleiades.stoa.org/places/471947/location-of-roman-amphitheater"
@@ -2280,6 +2289,10 @@
         "title": "Amphitheater at Aldborough",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true,
+          "note": "It seems likely that someone has made at least an estimate of the dimensions."
+        },
         "label": "Aldburough",
         "latintoponym": "Isurium Brigantium",
         "moderncountry": "United Kingdom",
@@ -3370,6 +3383,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "caesarean",
         "comment": "Location not specific.",
+        "dimensions":{
+          "unknown": true
+        },
         "label": "Antioch",
         "moderncountry": "Turkey",
         "pleiades": "https://pleiades.stoa.org/places/658381",
@@ -3474,6 +3490,11 @@
         "amphitheatrum": "https://amphi-theatrum.de/1984.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 70,
+          "source": "https://maps.google.com/",
+          "note": "Very approximate measurement using Google satellite imagery."
+        },
         "label": "Paphos",
         "moderncountry": "Cyprus",
         "orientation": 105,
@@ -3982,6 +4003,11 @@
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "comment": "Discovered in 2003.",
+        "dimensions":{
+          "exteriormajor": 178,
+          "exteriorminor": 145,
+          "sourcenote": "https://www.romanhideout.com/News/2003/indipendent20030927.asp http://www.arqueocordoba.com/en/gruposisifo/investigacion/proyectos/amphitheatro/"
+        },
         "label": "Cordoba",
         "latintoponym": "Colonia Patricia",
         "moderncountry": "Spain",
@@ -4128,6 +4154,9 @@
         "amphitheatrum": "http://amphi-theatrum.de/1394.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Reims",
         "latintoponym": "Durocortorum",
         "moderncountry": "France",
@@ -4151,7 +4180,13 @@
         "amphitheatrum": "http://amphi-theatrum.de/1484.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 669","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 15000},
+        "dimensions": {
+          "exteriormajor": 110,
+          "exteriorminor": 97,
+          "arenamajor": 42,
+          "arenaminor": 30,
+          "sourcenote": "Golvin" 
+          },
         "chronogroup": "imperial",
         "golvinid": "22",
         "label": "Rodez",
@@ -4488,6 +4523,9 @@
         "amphitheatrum": "http://amphi-theatrum.de/1776.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Benevento",
         "latintoponym": "Beneventum",
         "moderncountry": "Italy",
@@ -4511,6 +4549,12 @@
         "amphitheatrum": "http://amphi-theatrum.de/1462.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
+        "dimensions": {
+          "exteriormajor": 110,
+          "exteriorminor": 72,
+          "arenamajor": 87,
+          "sourcenote": "http://amphi-theatrum.de/1462.html"
+        },
         "label": "Calvi Risorto",
         "latintoponym": "Cales",
         "moderncountry": "Italy",
@@ -4687,6 +4731,9 @@
         "amphitheatrum": "http://amphi-theatrum.de/2416.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Meaux",
         "latintoponym": "Iatinon",
         "moderncountry": "France",
@@ -4708,8 +4755,13 @@
       "id": "chartresAmphitheater",
       "properties": {
         "title": "Amphitheater at Chartres",
+        "amphitheatrum": "https://amphi-theatrum.de/1382.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
+        "golvinid": "109",
         "label": "Chartres",
         "latintoponym": "Autricum",
         "moderncountry": "France",
@@ -4928,6 +4980,11 @@
         "amphitheatrum": "http://amphi-theatrum.de/1594.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
+        "dimensions": {
+          "exteriormajor": 138,
+          "exteriorminor": 108,
+          "source": "http://amphi-theatrum.de/1594.html"
+        },
         "label": "Nole",
         "latintoponym": "Nola",
         "moderncountry": "Italy",
@@ -5072,10 +5129,16 @@
       "properties": {
         "title": "Amphitheater at León",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 5000, "sourcenote": "http://wikimapia.org/10471599/es/Anfiteatro-romano"},
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "León",
         "latintoponym": "Legio",
         "moderncountry": "Spain",
+        "note": [ "https://www.leoncultural.com/local/anfiteatro-romano-cripta-de-cascaleria/",
+        "https://www.diariodeleon.es/articulo/cultura/anfiteatro-romano-leon-era-mas-grande-plaza-mayor/20070303010000888440.html"],
         "pleiades": "https://pleiades.stoa.org/places/236512",
         "province": "tarraconensis",
         "visibility": "none"
@@ -5164,6 +5227,10 @@
         "amphitheatrum": "http://amphi-theatrum.de/1896.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 32,
+          "sourcenote": "http://amphi-theatrum.de/1896.html"
+        },
         "label": "Arnsburg",
         "moderncountry": "Germany",
         "pleiades": "https://pleiades.stoa.org/places/118575",
@@ -5398,6 +5465,12 @@
         "buildingtype": "oval-structure",
         "certainty": "uncertain",
         "certainty-qualifier": "function",
+        "dimensions": {
+          "exteriormajor": 49.5,
+          "exteriorminor": 48.5,
+          "interiormajor": 32,
+          "interiorminor": 28 
+        },
         "chronogroup": "imperial",
         "label": "Dambach",
         "military": true,
@@ -5543,6 +5616,9 @@
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "certainty-qualifier": "presence",
+        "dimensions": {
+          "unknown": true
+        },
         "chronogroup": "imperial",
         "label": "Palmyra",
         "moderncountry": "Syria",
@@ -6043,6 +6119,10 @@
         "amphitheatrum": "http://www.amphi-theatrum.de/1341.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
+        "dimensions":{
+          "unknown": true,
+          "note": "Amphitheater was destroyed in late 17th century. https://www.newadvent.org/cathen/14709b.htm"
+        },
         "golvinid": "69",
         "label": "Thuburbo Minus",
         "latintoponym": "Thuburbo Minus",
@@ -6431,6 +6511,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "augustan",
         "created": -24,
+        "dimensions":{
+          "unknown": true
+        },
         "exclude": true,
         "label": "Statilius Taurus",
         "lastuse": {"date":64, "comment": "Destroyed in AD 64 fire."},
@@ -6546,6 +6629,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "comment": "Specific location not known.",
+        "dimensions":{
+          "unknown": true
+        },
         "golvinid": "65",
         "label": "Carpis",
         "latintoponym": "Carpis",
@@ -7309,6 +7395,10 @@
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24708",
+        "dimensions": {
+          "exteriormajor": 61,
+          "source": "https://maps.google.com"
+        },
         "label": "Jebel Moraba",
         "moderncountry": "Tunisia",
         "orientation": 144,
@@ -7361,8 +7451,12 @@
       "id": "fermoAmphitheater",
       "properties": {
         "title": "Fermo Amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1603.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Fermo",
         "latintoponym": "Firmum Picenum",
         "moderncountry": "Italy",
@@ -7565,6 +7659,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "comment": "Actual location not known.",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Teano",
         "latintoponym": "Teanum Sidicinum",
         "moderncountry": "Italy",
@@ -7842,6 +7939,11 @@
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24623",
+        "dimensions": {
+          "exteriormajor": 75,
+          "source": "https://maps.google.com/",
+          "note": "Very approximate measurement using Google maps."
+        },
         "label": "San Giovanni in Carico",
         "latintoponym": "Fabrateria Nova",
         "moderncountry": "Italy",
@@ -7943,12 +8045,16 @@
         "bibliography": "Welch, p. 83",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Compsa",
         "latintoponym": "Compsa",
         "moderncountry": "Italy",
         "certainty": "uncertain",
         "pleiades": "https://pleiades.stoa.org/places/442550",
         "region": "regio-ii",
+        "vici": "https://vici.org/vici/31346/",
         "visibility": "none" },
         "geometry": {
           "type": "Point",
@@ -7966,6 +8072,9 @@
         "title": "Amphitheater at York",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "York",
         "latintoponym": "Eboracum",
         "moderncountry": "United Kingdom",
@@ -7991,6 +8100,11 @@
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 117,
+          "exteriorminor": 93,
+          "sourcenote": "https://amphi-theatrum.de/2613.html"
+        },
         "label": "Barcelona",
         "latintoponym": "Barcino",
         "moderncountry": "Spain",
@@ -8014,6 +8128,9 @@
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "imperial",
+        "dimensions":{
+          "unknown": true
+        },
         "label": "Istanbul",
         "latintoponym": "Byzantium",
         "moderncountry": "Turkey",
@@ -8154,8 +8271,11 @@
         {"bibliographiccitation":"“In Ancient Turkey, Gladiators Fought at This Colosseum-Like Amphitheater | Smart News | Smithsonian Magazine.” Accessed April 24, 2021. https://www.smithsonianmag.com/smart-news/gladiator-amphitheater-uncovered-turkey-180977581/ .","zoteroitem": "CHWRIDLR"}
         ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000 },
+        "capacity": {"quantity": 20000 , "note": "Newly recorded exact dimensions not yet published, but this is a reasonable estimate."},
         "chronogroup": "severan",
+        "dimensions": {
+          "unknown": true
+        },
         "exclude": "true",
         "label": "Nazilli",
         "latintoponym": "Mastaura",
@@ -8311,6 +8431,9 @@
         "bibliography": [{"bibliographiccitation": "“El Gobierno Regional Destaca El Importante Hallazgo de Dos Bóvedas de Lo Que Fuera El Anfiteatro Romano de Toledo | Portal de Cultura de Castilla-La Mancha.” Accessed May 27, 2021. https://cultura.castillalamancha.es/importante-hallazgo-de-dos-bovedas-de-lo-que-fuera-el-anfiteatro-romano-de-Toledo .","zoteroitem":"9JJW3LUE"}],
         "buildingtype": "amphitheater",
         "chronogroup":"imperial",
+        "dimensions":{
+          "unknown": true
+        },
         "label": "Toledo",
         "latintoponym": "Toletum",
         "moderncountry": "Spain",
