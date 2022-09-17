@@ -3468,6 +3468,9 @@
         "amphitheatrum": "https://amphi-theatrum.de/2001.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Salamis",
         "moderncountry": "Cyprus",
         "pleiades": "https://pleiades.stoa.org/places/707617",
@@ -4891,6 +4894,9 @@
         "amphitheatrum": "http://amphi-theatrum.de/2081.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
+        "dimensions": {
+          "unknown": true
+        },
         "exclude": true,
         "label": "Capua I",
         "latintoponym": "Capua",
@@ -4955,6 +4961,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "comment": "Location is incorrect. Said to be south of city wall.",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Literno",
         "latintoponym": "Liternum",
         "moderncountry": "Italy",
@@ -5083,12 +5092,16 @@
         "title": "Amphitheater at Braga",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Braga",
         "latintoponym": "Bracara Augusta",
         "moderncountry": "Portugal",
         "orientation": 181,
         "pleiades": "https://pleiades.stoa.org/places/236377",
         "province": "tarraconensis",
+        "vici": "https://vici.org/vici/24663/",
         "visibility": "none"
       },
       "geometry": {
@@ -5107,6 +5120,9 @@
         "title": "Amphitheater at Sisapo",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Sisapo",
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/266043",
@@ -5284,6 +5300,12 @@
         "amphitheatrum": "http://amphi-theatrum.de/1876.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 42,
+          "exteriorminor": 31,
+          "arenarminor": 26,
+          "source": "https://maps.google.com"
+        },
         "label": "Künzing",
         "latintoponym": "Quintana",
         "moderncountry": "Germany",
@@ -5528,6 +5550,9 @@
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+           "unknown": true
+        },
         "label": "Gleisdorf",
         "moderncountry": "Austria",
         "pleiades": "https://pleiades.stoa.org/places/197284",
@@ -6539,6 +6564,11 @@
         "amphitheatrum": "http://www.amphi-theatrum.de/2003.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "dimensions": {
+          "arenamajor": 41,
+          "source": "https://maps.google.com",
+          "note": "Very approximate measurement. In addition, structure is irregularly shaped."
+        },
         "label": "Hisarya",
         "latintoponym": "Diocletianopolis",
         "moderncountry": "Bulgaria",
@@ -8018,9 +8048,14 @@
       "id": "altripaldaAmphitheater",
       "properties": {
         "title": "Amphitheater at Altripalda",
+        "amphitheatrum": "https://amphi-theatrum.de/1860.html",
+        "bibiography": "https://www.avellinotoday.it/cronaca/anfiteatro-romano-rinvenuto-a-via-appia-atripalda-immagini-del-cantiere-27-ottobre-2021.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dare": "http://dare.ht.lu.se/places/21758",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Altripalda",
         "latintoponym": "Abellinum",
         "moderncountry": "Italy",
@@ -8035,7 +8070,7 @@
                40.917353,
                303
         ],
-        "source": "http://maps.google.com/"
+        "source": "https://maps.google.com/"
       }
     },{
       "type": "Feature",
@@ -8180,9 +8215,13 @@
       "id": "reggioEmiliaAmphitheater",
       "properties": {
         "title": "Amphitheater at Reggio Emilia",
+        "amphitheatrum": "https://amphi-theatrum.de/2575.html",
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+        },
         "label": "Reggio Emilia",
         "latintoponym": "Regium Lepidi",
         "moderncountry": "Italy",
