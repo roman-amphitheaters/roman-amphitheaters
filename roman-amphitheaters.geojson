@@ -644,6 +644,7 @@
           "arenaminor": 36,
           "sourcenote": "Golvin"
         },
+        "golvinid": "95",
         "label": "Carthage",
         "latintoponym": "Carthago",
         "moderncountry": "Tunisia",
@@ -924,10 +925,11 @@
           "exteriormajor": 121,
           "exteriorminor": 111,
           "arenamajor": 57,
-          "arenaminor": 47
+          "arenaminor": 47,
+          "sourcenote": "Golvin"
          },
         "emperor": "Nero",
-        "golvinid": "174",
+        "golvinid": "24",
         "label": "Leptis Magna",
         "latintoponym": "Leptis Magna",
         "moderncountry": "Libya",
@@ -1221,6 +1223,7 @@
           "arenamajor": 51,
           "arenaminor": 33
          },
+        "golvinid": "82",
         "label": "Cassino",
         "latintoponym": "Casinum",
         "moderncountry": "Italy",
@@ -1288,6 +1291,7 @@
           "arenaminor": 35,
           "sourcenote": "Golvin"
          },
+        "golvinid": "52",
         "label": "Flavia Solva",
         "moderncountry": "Austria",
         "orientation": 189,
@@ -1319,6 +1323,7 @@
           "arenaminor": 20,
           "sourcenote": "Golvin"
          },
+         "golvinid": "13",
         "label": "Roselle",
         "latintoponym" : "Rusellae",
         "moderncountry": "Italy",
@@ -1344,6 +1349,11 @@
         "buildingtype": "gallo-roman-amphitheater",
         "capacity": {"quantity": 15000},
         "chronogroup": "flavian",
+        "dimensions": {
+          "arenamajor": 52,
+          "arenaminor": 46,
+          "sourcenote": "https://fr.wikipedia.org/wiki/Arènes_de_Lutèce"
+        },
         "label": "Paris",
         "latintoponym": "Lutetia Parisiorum",
         "orientation": 160,
@@ -1376,6 +1386,7 @@
           "arenamajor": 74,
           "arenaminor": 62
          },
+        "golvinid": "27",
         "label": "Octodorus",
         "moderncountry": "Switzerland",
         "orientation": 230,
@@ -1403,6 +1414,7 @@
           "arenaminor": 28.8,
           "sourcenote": "Golvin"
          },
+        "golvinid": "75",
         "label": "Cyrene",
         "moderncountry": "Libya",
         "orientation": 109,
@@ -1601,6 +1613,7 @@
           "arenaminor": 48.3,
           "sourcenote": "Golvin"
          },
+        "golvinid": "107",
         "latintoponym": "Deva Victrix",
         "moderncountry": "United Kingdom",
         "orientation": 156,
@@ -1810,6 +1823,7 @@
           "exteriorminor": 42,
           "sourcenote": "Golvin"
          },
+        "golvinid": "51",
         "label": "Virunum",
         "moderncountry": "Austria",
         "orientation": 194,
@@ -2417,8 +2431,10 @@
           "exteriormajor": 103,
           "exteriorminor": 76,
           "arenamajor": 64,
-          "arenaminor": 37
+          "arenaminor": 37,
+          "sourcenote": "Golvin"
          },
+         "golvinid": "23",
         "label": "Alba Fucens",
         "latintoponym": "Alba Fucens",
         "moderncountry": "Italy",
@@ -2452,6 +2468,7 @@
           "arenaminor": 33,
           "sourcenote": "Golvin"
          },
+        "golvinid": 27,
         "label": "Augst",
         "latintoponym": "Augusta Raurica",
         "moderncountry": "Switzerland",
@@ -2842,6 +2859,7 @@
           "arenaminor": 55,
           "sourcenote": "Golvin"
         },
+        "golvinid": "60",
         "hypogeum": true,
         "label": "Lambaesis",
         "military": true,
@@ -2908,6 +2926,7 @@
            "arenaminor": 41,
            "sourcenote": "https://en.wikipedia.org/wiki/Cirencester_Amphitheatre"
         },
+        "golvinid": "33",
         "moderncountry": "United Kingdom",
         "orientation": 150,
         "pleiades": "https://pleiades.stoa.org/places/197225",
@@ -2979,6 +2998,7 @@
             "arenaminor": 40,
             "sourcenote": "Golvin"
          },
+        "golvinid": "25",
         "label": "Thysdrus (Sm.)",
         "moderncountry": "Tunisia",
         "orientation": 222,
@@ -3138,6 +3158,7 @@
           "arenaminor": 26,
           "sourcenote": "Golvin"
          },
+        "golvinid": "47",
         "label": "Micia",
         "moderncountry": "Romania",
         "orientation": 252,
@@ -3723,6 +3744,7 @@
           "arenaminor": 48.92,
           "sourcenote": "Golvin"
          },
+        "golvinid": "41",
         "hypogeum": true,
         "label": "Trier",
         "latintoponym": "Augusta Treverorum",
@@ -3924,6 +3946,7 @@
           "arenaminor": 44.5,
           "sourcenote": "Golvin"
         },
+        "golvinid": "76",
         "label": "Ptolemais",
         "moderncountry": "Libya",
         "orientation": 241,
@@ -3955,6 +3978,7 @@
           "arenaminor": 49,
           "sourcenote": "Golvin"
          },
+        "golvinid": "98",
         "label": "Toulouse",
         "latintoponym" : "Tolosa",
         "moderncountry": "France",
@@ -4223,6 +4247,7 @@
           "arenaminor": 44,
           "sourcenote": "Golvin"
          },
+        "golvinid": "97",
         "label": "Milan",
         "latintoponym": "Mediolanum",
         "moderncountry": "Italy",
@@ -4472,6 +4497,7 @@
           "arenamajor": 67,
           "arenaminor": 53
          },
+        "golvinid": "78",
         "label": "Ancona",
         "latintoponym": "Ancona",
         "moderncountry": "Italy",
@@ -4797,6 +4823,7 @@
           "arenaminor": 34.45,
           "sourcenote": "Golvin"
          },
+         "golvinid": 21,
         "label": "Senlis",
         "latintoponym": "Augustomagus",
         "moderncountry": "France",
@@ -5065,6 +5092,7 @@
           "arenaminor": 47,
           "sourcenote": "Golvin"
          },
+        "golvinid": "34",
         "label": "Maumbury",
         "lastuse": {"date":150, "comment": "See the website but a better reference needed."},
         "latintoponym": "Durnovaria",
@@ -5339,6 +5367,7 @@
           "arenaminor": 34,
           "sourcenote": "Golvin"
          },
+        "golvinid": "84",
         "label": "Nocera",
         "latintoponym": "Nuceria Alfaterna",
         "moderncountry": "Italy",
@@ -5585,6 +5614,7 @@
           "arenaminor": 38.5,
           "sourcenote": "Bomgardner"
         },
+        "golvinid": "72",
         "label": "Skikda",
         "latintoponym": "Rusicade",
         "moderncountry": "Algeria",
@@ -5922,6 +5952,7 @@
           "arenaminor": 40.7,
           "sourcenote": "Bomgardner"
          },
+        "golvinid": "66",
         "label": "Seressi",
         "latintoponym": "Seressi",
         "moderncountry": "Tunisia",
@@ -6722,6 +6753,7 @@
            "exteriorminor": 78,
            "sourcenote": "Golvin"
         },
+        "golvinid": "79",
         "label": "Augusta Bagiennorum",
         "latintoponym": "Augusta Bagiennorum",
         "moderncountry": "Italy",
@@ -6921,6 +6953,7 @@
            "exteriormajor": 73.93,
            "exteriorminor": 56.16
         },
+        "golvinid": "57",
         "label": "Teramo",
         "latintoponym": "Interamnia Praetuttiorum",
         "moderncountry": "Italy",
