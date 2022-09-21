@@ -918,16 +918,16 @@
         "title": "Amphitheater at Leptis Magna",
         "amhitheatrum": "https://amphi-theatrum.de/1321.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 16000},
+        "capacity": {"quantity": 16000, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "neronian",
         "created":56,
         "dedication": "http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD015590",
         "dimensions": {
-          "exteriormajor": 121,
-          "exteriorminor": 111,
+          "exteriormajor": 100,
+          "exteriorminor": 90,
           "arenamajor": 57,
           "arenaminor": 47,
-          "sourcenote": "Golvin"
+          "sourcenote": "Bomgardner, Story"
          },
         "emperor": "Nero",
         "golvinid": "24",
@@ -1254,11 +1254,14 @@
           "zoteroitem":"IQNLI4VI"}
          ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 12000},
+        "capacity": {"quantity": 6900, "sourcenote": "Snežana and Bogdanović 2015, p. 553", "note": "This is the midpoint between a range of 6500 to 7300."},
         "chronogroup": "second-century",
         "dimensions": {
-            "exteriormajor": 85,
-            "source": "http://maps.google.com"
+            "exteriormajor": 84,
+            "exteriorminor": 74,
+            "arenamajor": 55,
+            "arenaminor": 45,
+            "source": "Snežana and Bogdanović 2015"
         },
         "label": "Viminacium",
         "lastuse": {"sourcenote": "Nikolić and Bogdanović 2012", "date": 300 },
@@ -1408,15 +1411,19 @@
       "id": "cyreneAmphitheater",
       "properties": {
         "title": "Amphitheater at Cyrene",
+        "amphitheatrum": "https://amphi-theatrum.de/2487.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
-          "arenamajor": 32.7,
-          "arenaminor": 28.8,
-          "sourcenote": "Golvin"
+          "exteriormajor": {"unknown": true},
+          "exteriorminor": {"unknown": true},
+          "arenamajor": 33,
+          "arenaminor": 28,
+          "sourcenote": "Amphitheatrum"
          },
         "golvinid": "75",
         "label": "Cyrene",
+        "latintoponym": "Cyrene",
         "moderncountry": "Libya",
         "orientation": 109,
         "pleiades": "https://pleiades.stoa.org/places/373778",
@@ -1507,7 +1514,7 @@
         "dimensions": {
           "exteriormajor": 108,
           "exteriorminor": 70,
-          "arenamajor": 62.5,
+          "arenamajor": 63,
           "arenaminor": 35,
           "source": "http:maps.google.com"
         },
@@ -2086,13 +2093,16 @@
       "id": "cimiezAmphitheater",
       "properties": {
         "title": "Amphitheater at Cimiéz",
+        "amphitheatrum": "https://amphi-theatrum.de/1481.html",
         "bibliography":[{"bibliographiccitation":"Duval, Paul-Marie. “Rapport Préliminaire Sur Les Fouilles de Cemenelum (Cimiez) (1943).” Gallia 4, no. 1 (1946): 77–136. https://doi.org/10.3406/galia.1946.1999.","withincitation":"p. 103","zoteroitem":"WFCBSKSY"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4245, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
         "dimensions": {
-          "exteriormajor": 55,
-          "exteriorminor": 44,
+          "exteriormajor": 67,
+          "exteriorminor": 56,
+          "arenamajor": 46,
+          "arenaminor": 34,
           "sourcenote": "Golvin"
          },
         "golvinid": "16",
@@ -2305,11 +2315,14 @@
       "id": "aldburoughAmphitheater",
       "properties": {
         "title": "Amphitheater at Aldborough",
+        "bibliography": [{"bibliographiccitation": "Deniger, Véronique. 1997. “Amphitheatres of Roman Britain: A Study of Their Classes, Architecture and Uses.” Kingston: Queens’s University."}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
+        "capacity": { "unknown": true},
         "dimensions": {
-          "unknown": true,
-          "note": "It seems likely that someone has made at least an estimate of the dimensions."
+            "arenamajor": 58,
+            "arenaminor": 47,
+            "sourcenote": "Deniger 1997, p. 106."
         },
         "label": "Aldburough",
         "latintoponym": "Isurium Brigantium",
@@ -2563,14 +2576,14 @@
         "title": "Amphitheater at Salona",
         "amphitheatrum": "http://www.amphi-theatrum.de/1565.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 13380},
+        "capacity": {"quantity": 13380, "sourcenote": "Bomgardner"},
         "chronogroup": "second-century",
         "created": 170,
         "dimensions": {
-          "exteriormajor": 124.75,
-          "exteriorminor": 100.65,
-          "arenamajor": 64.30,
-          "arenaminor": 40.20,
+          "exteriormajor": 125,
+          "exteriorminor": 101,
+          "arenamajor": 64,
+          "arenaminor": 40,
           "sourcenote": "Bomgardner"
         },
         "golvinid": "181",
@@ -3128,7 +3141,7 @@
       "properties": {
         "title": "Amphitheater at Leptiminus",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 9000},
+        "capacity": {"quantity": 9100, "sourcenote": "Bomgarder. Story. Page 191."},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 81,
@@ -3846,7 +3859,7 @@
       "properties": {
         "title": "Amphitheater at Bararus",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 12000},
+        "capacity": {"quantity": 12100, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "severan",
         "comment": "Unfinished? Considered the last North African amphitheater.",
         "created": 220,
@@ -3855,7 +3868,7 @@
            "exteriorminor": 73.5,
            "arenamajor": 63.75,
            "arenaminor": 37.5,
-           "sourcenote": "Bomgardner"
+           "sourcenote": "Bomgardner, Story"
            },
         "exclude": true,
         "label": "Bararus",
@@ -4535,12 +4548,15 @@
       "id": "ascoliPicenoAmphitheater",
       "properties": {
         "title": "Amphitheater at Ascoli Picenum",
-        "amphitheatrum": "http://amphi-theatrum.de/1518.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2861.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 148,
           "exteriorminor": 125,
+          "arenamajor": {"unknown": true},
+          "arenaminor": {"unknown": true},
           "sourcenote": "Golvin"
         },
         "golvinid": "91",
@@ -5187,11 +5203,16 @@
       "id": "leonAmphitheater",
       "properties": {
         "title": "Amphitheater at León",
+        "bibliography": [{"bibliographicCitation": "Vidal Encinas, Julio. 2005. “Notas Sobre El Anfiteatro Romano de León.” Astorica 24: 55–66.", "zoteritem": "7PPS4FPA"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 5000, "sourcenote": "http://wikimapia.org/10471599/es/Anfiteatro-romano"},
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
-          "unknown": true
+          "exteriormajor": 90,
+          "exteriorminor": 70,
+          "arenamajor": 60,
+          "arenaminor": 40,
+          "sourcenote": "Vidal Encincas 2005, p. 57." 
         },
         "label": "León",
         "latintoponym": "Legio",
@@ -6126,14 +6147,14 @@
         "title": "Amphitheater at Ain Hedjah",
         "amphitheatrum": "http://www.amphi-theatrum.de/1312.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 3000},
+        "capacity": {"quantity": 3000, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 57,
           "exteriorminor": 42,
           "arenamajor": 43,
           "arenaminor": 28,
-          "sourcenote": "Bomgardner"
+          "sourcenote": "Bomgardner, Story"
          },
         "golvinid": "64",
         "label": "Ain Hedjah",
@@ -6321,14 +6342,14 @@
         "title": "Amphitheater at Botria",
         "amphitheatrum": "http://www.amphi-theatrum.de/1311.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 11600},
+        "capacity": {"quantity": 11600, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 90,
           "exteriorminor": 86,
           "arenamajor": 58,
           "arenaminor": 54,
-          "sourcenote": "Bomgardner"
+          "sourcenote": "Bomgardner, Story"
          },
         "golvinid": "118",
         "label": "Acholla",
@@ -6390,15 +6411,15 @@
         "title": "Amphitheater at Bulla Regia",
         "amphitheatrum": "http://www.amphi-theatrum.de/1314.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 8300},
+        "capacity": {"quantity": 9700, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "late-second-century",
         "comment": "Location approximate.",
         "dimensions": {
-          "exteriormajor": 75,
+          "exteriormajor": 74,
           "exteriorminor": 66,
           "arenamajor": 34,
           "arenaminor": 30,
-          "sourcenote": "Bomgardner"
+          "sourcenote": "Bomgardner, Story"
          },
         "golvinid": "117",
         "label": "Bulla Regia",
@@ -6424,9 +6445,11 @@
         "title": "Amphitheater at Pupput",
         "amphitheatrum": "http://www.amphi-theatrum.de/1326.html",
         "buildingtype": "amphitheater",
+        "capacity": { "unknown": true},
         "chronogroup": "imperial",
         "comment": "So far, available information is incomplete. Site as proxy for location.",
         "dimensions": {
+          "exteriormajor": {"unknown": true},
           "arenamajor": 45,
           "arenaminor": 36,
           "sourcenote": "Golvin"
@@ -7514,7 +7537,10 @@
         "dare": "http:// dare.ht.lu.se/places/24593",
         "dimensions": {
            "exteriormajor": 88.8,
-           "exteriorminor": 80
+           "exteriorminor": 80,
+           "arenamajor": {"unknown": true},
+           "arenaminor": {"unknown": true},
+           "sourcenote": "Golvin"
         },
         "golvinid": "99",
         "label": "Falerone",
