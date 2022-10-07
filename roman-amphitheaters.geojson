@@ -350,7 +350,7 @@
                     }
                 ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 22000},
+        "capacity": {"quantity": 20000},
         "chronogroup": "republican",
         "commonsimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pompeji_-_Arena.jpg/1024px-Pompeji_-_Arena.jpg",
         "created":-80,
@@ -494,6 +494,7 @@
       "id": "cumaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Cumae",
+        "amphitheatrum": "https://amphi-theatrum.de/1474.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "created":-100,
@@ -779,6 +780,7 @@
          },
         "golvinid": "39",
         "label": "Porolissum",
+        "latintoponum": "Porolissum",
         "moderncountry": "Romania",
         "orientation": 122,
         "pleiades": "https://pleiades.stoa.org/places/207361",
@@ -805,6 +807,7 @@
           "arenaminor": 40,
           "sourcenote": "Golvin"
         },
+        "golvinid": "38",
         "label": "Nijmegen",
         "latintoponym": "Ulpia Noviomagus",
         "moderncountry": "Netherlands",
@@ -825,7 +828,7 @@
       "id": "carnuntumMilitaryAmphitheater",
       "properties": {
         "title": "Military Amphitheater at Carnuntum",
-        "amphitheatrum": "http://amphi-theatrum.de/1430.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1432.html",
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "capacity": {"quantity": 8000},
@@ -858,6 +861,7 @@
       "id": "carnuntumLudus",
       "properties": {
         "title": "Carnuntum (Ludus)",
+        "amphitheatrum": "https://amphi-theatrum.de/2188.html",
         "buildingtype": "practice-arena",
         "chronogroup": "imperial",
         "exclude": true,
@@ -882,7 +886,7 @@
       "id": "carnuntumCivilianAmphitheater",
       "properties": {
         "title": "Civilian Amphitheater at Carnuntum",
-        "amphitheatrum": "http://amphi-theatrum.de/1430.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1431.html",
         "buildingtype": "amphitheater",
         "created":100,
         "capacity": {"quantity": 13000},
@@ -1945,6 +1949,7 @@
       "id": "lixusAmphitheater",
       "properties": {
         "title": "Amphitheater at Lixus",
+        "amphitheatrum": "https://amphi-theatrum.de/3043.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -1953,6 +1958,7 @@
            "sourcenote": "Golvin"
         },
         "label": "Lixus",
+        "latintoponym": "Lixus",
         "moderncountry": "Morocco",
         "orientation": 76,
         "pleiades": "https://pleiades.stoa.org/places/275666",
@@ -3763,8 +3769,8 @@
         "dimensions": {
           "exteriormajor": 100,
           "exteriorminor": 79,
-          "arenamajor": 70.54,
-          "arenaminor": 48.92,
+          "arenamajor": 71,
+          "arenaminor": 49,
           "sourcenote": "Golvin"
          },
         "golvinid": "41",
@@ -4953,7 +4959,9 @@
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
-          "unknown": true
+          "exteriormajor": 112,
+          "exteriorminor": 81,
+          "sourcenote": "Valeria Sampaolo 2010, p. 79."
         },
         "exclude": true,
         "label": "Capua I",
@@ -7740,13 +7748,16 @@
       "id": "chietiAmphitheater",
       "properties": {
         "title": "Chieti Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/23938.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2047.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "first-century",
         "dare": "http://dare.ht.lu.se/places/24627",
         "dimensions": {
+           "exteriormajor": {"unknown": true},
+           "exteriorminor": {"unknown": true},
            "arenamajor": 59,
-           "arenaminor": 40.7,
+           "arenaminor": 41,
            "source": "http://www.amphi-theatrum.de/2047.html"
         },
         "label": "Chieti",
