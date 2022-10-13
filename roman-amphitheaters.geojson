@@ -1933,6 +1933,7 @@
            "arenaminor": 42,
            "sourcenote": "Golvin"
         },
+        "golvinid": "142",
         "label": "Ocriculcum",
         "latintoponym": "Ocricoli",
         "moderncountry": "Italy",
@@ -2041,6 +2042,40 @@
       }
     },{
       "type": "Feature",
+      "id": "lucusFeroniaeAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Lucus Feroniae",
+        "amphitheatrum": "https://www.amphi-theatrum.de/2923.html",
+        "buildingtype": "amphitheater",
+        "chronogroup": "julio-claudian",
+        "dimensions": {
+          "exteriormajor": 46,
+          "exteriorminor": 44,
+          "arenamajor": 34,
+          "arenaminor": 32,
+          "sourcenote":"Golvin"
+        },
+        "golvinid": "145",
+        "label": "Lucus Feroniae",
+        "latintoponym": "Lucus Feroniae",
+        "moderncountry": "Italy",
+        "orientation": 157,
+        "pleiades": "https://pleiades.stoa.org/places/413184",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/413184/location-of-lucus-feroniae-amphitheater",
+        "region": "regio-vii",
+        "welchid": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":[
+          12.594868,
+          42.129831,
+          52
+        ],
+        "source": "https://maps.google.com/"
+      }
+    },{
+      "type": "Feature",
       "id": "ferentoAmphitheater",
       "properties": {
         "title": "Amphitheater at Ferento",
@@ -2050,26 +2085,23 @@
         "dimensions": {
           "exteriormajor": 68,
           "exteriorminor": 40,
-          "source": "http://www.amphi-theatrum.de/1470.html"
+          "source": "Golvin"
         },
         "golvinid": "9",
         "label": "Ferento",
         "latintoponym": "Ferentium",
         "moderncountry": "Italy",
-        "orientation": 157,
         "pleiades": "https://pleiades.stoa.org/places/413184",
         "region": "regio-vii",
-        "source": "https://pleiades.stoa.org/places/413184/location-of-lucus-feroniae-amphitheater",
         "welchid": "16"
       },
       "geometry": {
         "type": "Point",
         "coordinates":[
-          12.594868,
-          42.129831,
-          52
-        ]
-      }
+          12.139272,
+          42.491986,
+          288 ],
+          "sourcenote": "https://maps.google.com/"}
     },{
       "type": "Feature",
       "id": "allifaeAmphitheater",
@@ -4326,6 +4358,7 @@
           "arenaminor": 46,
           "sourcenote": "Golvin"
          },
+        "golvinid": "141",
         "label": "Aquileia",
         "latintoponym": "Aquileia",
         "moderncountry": "Italy",
@@ -7411,6 +7444,7 @@
           "arenaminor": 36,
           "source": "http://maps.google.com" 
         },
+        "golvinid": "144",
         "label": "Terni",
         "latintoponym": "Interamna Nahars",
         "moderncountry": "Italy",
