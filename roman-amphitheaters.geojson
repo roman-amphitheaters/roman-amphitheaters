@@ -2858,6 +2858,7 @@
             "arenaminor": 42.2,
             "source": "http://en.wikipedia.org/wiki/Durrës_Amphitheatre"
         },
+        "golvinid": "178",
         "label": "Durrës",
         "latintoponym": "Dyrrachium",
         "orientation": 179,
@@ -3031,7 +3032,7 @@
             "arenaminor": 40,
             "sourcenote": "Golvin"
          },
-        "golvinid": "25",
+        "golvinid": "112",
         "label": "Thysdrus (Sm.)",
         "moderncountry": "Tunisia",
         "orientation": 222,
@@ -3070,7 +3071,7 @@
           },
         "emperor": "Gordian III",
         "exclude": true,
-        "golvinid": "112",
+        "golvinid": "186",
         "label": "Thysdrus (lg.)",
         "moderncountry": "Tunisia",
         "orientation": 257,
@@ -3886,6 +3887,7 @@
            "sourcenote": "Bomgardner, Story"
            },
         "exclude": true,
+        "golvinid": "187",
         "label": "Bararus",
         "moderncountry": "Tunisia",
         "orientation": 244,
@@ -5012,6 +5014,7 @@
           "arenaminor": 45.83,
           "sourcenote": "Bomgardner"
          },
+        "golvinid": "179",
         "hypogeum": true,
         "label": "Capua II",
         "latintoponym": "Capua",
@@ -6509,6 +6512,7 @@
           "arenaminor": 50,
           "sourcenote": "Bomgardner"
          },
+        "golvinid": "183",
         "label": "Sicca Veneria",
         "latintoponym": "Sicca Veneria",
         "moderncountry": "Tunisia",
@@ -7315,6 +7319,7 @@
            "arenaminor": 30,
            "sourcenote": "Golvin"
         },
+        "golvinid": "184",
         "label": "Tusculum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/423108",
