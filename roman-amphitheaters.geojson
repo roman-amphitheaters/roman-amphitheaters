@@ -361,6 +361,7 @@
           "arenaminor": 35
          },
         "exclude": true,
+        "golvinid": "2",
         "label": "Pompeii",
         "lastuse": {"date":79, "comment": "Last use dated to eruption of Vesuvius that covered the town."},
         "latintoponym": "Pompeii",
@@ -574,6 +575,7 @@
           "unknown": true
         },
         "exclude": true,
+        "golvinid": "5",
         "label": "Pozzuoli (Early)",
         "latintoponym": "Puteoli",
         "moderncountry": "Italy",
@@ -844,6 +846,7 @@
         "latintoponym": "Carnuntum",
         "military": true,
         "moderncountry": "Austria",
+        "comment": "The first state of this amphitheater is Golvin no. 28.",
         "orientation": 231,
         "province": "pannonia",
         "pleiades": "https://pleiades.stoa.org/places/128376"
@@ -1167,6 +1170,7 @@
           "arenaminor": 35,
           "comment": "Estimates from portion visible on Google Earth."
          },
+        "golvinid": "7",
         "label": "Paestum",
         "latintoponym": "Paestum",
         "orientation": 270,
@@ -1522,6 +1526,7 @@
           "arenaminor": 35,
           "source": "http:maps.google.com"
         },
+        "golvinid": "3",
         "label": "Abella",
         "latintoponym": "Abella",
         "moderncountry": "Italy",
@@ -2047,6 +2052,7 @@
           "exteriorminor": 40,
           "source": "http://www.amphi-theatrum.de/1470.html"
         },
+        "golvinid": "9",
         "label": "Ferento",
         "latintoponym": "Ferentium",
         "moderncountry": "Italy",
@@ -2492,7 +2498,7 @@
           "arenaminor": 33,
           "sourcenote": "Golvin"
          },
-        "golvinid": 27,
+        "golvinid": "73",
         "label": "Augst",
         "latintoponym": "Augusta Raurica",
         "moderncountry": "Switzerland",
@@ -2524,6 +2530,7 @@
           "exteriormajor": 77,
           "source": "http://maps.google.com"
           },
+        "golvinid": "8",
         "latintoponym": "Sutrium",
         "label": "Sutrium",
         "moderncountry": "Italy",
@@ -2719,6 +2726,7 @@
           "exteriormajor": 112,
           "source": "http://maps.google.com"
         },
+        "golvinid": "6",
         "label": "Telesia",
         "latintoponym": "Telesia",
         "moderncountry": "Italy",
@@ -3315,6 +3323,7 @@
           "arenaminor": 39,
           "sourcenote": "https://amphi-theatrum.de/1471.html"
         },
+        "golvinid": "10",
         "label": "Carmona",
         "latintoponym": "Carmo",
         "military": "yes",
@@ -4471,7 +4480,7 @@
           "arenaminor": 35,
           "sourcenote": "https://amphi-theatrum.de/1504.html"
         },
-        "golvinid": 58,
+        "golvinid": "58",
         "label": "Monteleone",
         "latintoponym": "Trebula Mutuesca",
         "moderncountry": "Italy",
@@ -4864,7 +4873,7 @@
           "arenaminor": 34.45,
           "sourcenote": "Golvin"
          },
-         "golvinid": 21,
+         "golvinid": "21",
         "label": "Senlis",
         "latintoponym": "Augustomagus",
         "moderncountry": "France",
@@ -7791,6 +7800,7 @@
         "dimensions": {
           "unknown": true
         },
+        "golvinid": "4",
         "label": "Teano",
         "latintoponym": "Teanum Sidicinum",
         "moderncountry": "Italy",
