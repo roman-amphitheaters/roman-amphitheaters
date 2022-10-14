@@ -46,7 +46,7 @@ Amphitheaters are well represented on the public internet. The following digital
 * http://www.wikidata.org/entity/Q7362268 (See "What links here".)
 * https://en.wikipedia.org/wiki/List_of_Roman_amphitheatres
 
-Two concsise and useful overall discussions of amphitheaters are:
+Two concise and useful overall discussions of amphitheaters are:
 
 * Dodge, Hazel. “Amphitheater.” In *Encyclopedia of Global Archaeology*, edited by Claire Smith, 197–201. New York, NY: Springer, 2014. https://doi.org/10.1007/978-1-4419-0465-2_1469 .
 
