@@ -5,15 +5,22 @@
 
 The file **'roman-amphitheaters.geojson' holds the latest information** and is the source for other derived files, including 'roman-amphitheaters.csv' and the basic maps provided as a convenience. The 'utility.ipynb' jupyter notebook generates these other files.
 
-By default, github will display the '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' file as a map.
+By default, github will display the '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' file as a clustered map.
 
-Discussion of one approach to using this data, with links to interactive code, is available in the article: S. Heath. 2021. "Applied Use of JSON, GeoJSON, JSON-LD, SPARQL, and IPython Notebooks for Representing and Interacting with Small Datasets." In S. E. Bond, P. Dilley, and R. Horne, eds. *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-13/ .
+The following titles, which are at different stages of publciation, illustrate how this data can be used for mapping, visualization, and historical analysis: 
 
-See also: S. Heath. 2022. “Narrating Transitions and Transformations in Cultural Heritage Digital Workflows Using a JSON-Encoded Dataset of Roman Amphitheaters.” In Digital Heritage And Archaeology In Practice: Data, Ethics, And Professionalism, edited by Ethan Watrall and Lynn Goldstein, 71–97. Gainesville. https://muse.jhu.edu/book/101232
+* S. Heath. 2021. "Applied Use of JSON, GeoJSON, JSON-LD, SPARQL, and IPython Notebooks for Representing and Interacting with Small Datasets." In S. E. Bond, P. Dilley, and R. Horne, eds. *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-13/ .
+
+* S. Heath. 2022. “Narrating Transitions and Transformations in Cultural Heritage Digital Workflows Using a JSON-Encoded Dataset of Roman Amphitheaters.” In Digital Heritage And Archaeology In Practice: Data, Ethics, And Professionalism, edited by Ethan Watrall and Lynn Goldstein, 71–97. Gainesville. https://muse.jhu.edu/book/101232
+
+* (Forthcoming) S. Heath. 2022. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
+
+* (Under review) S. Heath. nd. *Estimating and Mapping Roman Amphitheater Seating Capacity* Draft at https://www.academia.edu/88351135/Estimating_and_Mapping_Roman_Amphitheater_Seating_Capacity
+
 
 A nice example of 3rd party use of this data is: Gebhard, Christian A. 2022. “When Not in Rome...” *Jolly Data* (blog). July 8, 2022. https://jollydata.blog/posts/2022-06-12-when-not-in-rome/.
 
-A draft of the article *Estimating and Mapping Roman Amphitheater Seating Capacity* is available at https://www.academia.edu/88351135/Estimating_and_Mapping_Roman_Amphitheater_Seating_Capacity
+
 
 Note: The information here continues to change over time. An ongoing focus is entering more direct citation of sources into the 'roman-amphitheaters.geojson' file. Towards this goal, I have made small steps towards implementing a flexible bibliographic infrastructure for this dataset in Zotero. See https://www.zotero.org/groups/2900686/roman_amphitheaters . The number of titles currently included there is very small and only slowly growing. But growing nonetheless. A likewise slowly growing number of amphitheater descriptions have bibliographic citations and a Zotero item identifier for each title. The .csv file will sometimes have the first Zotero identifier. It is a goal to make an html rendering of this information that includes working links to the online version of the Zotero items.
 

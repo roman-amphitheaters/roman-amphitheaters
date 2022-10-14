@@ -2047,6 +2047,7 @@
         "title": "Amphitheater at Lucus Feroniae",
         "amphitheatrum": "https://www.amphi-theatrum.de/2923.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 1844,"sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
         "dimensions": {
           "exteriormajor": 46,
