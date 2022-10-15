@@ -5,9 +5,9 @@
 
 The file **'roman-amphitheaters.geojson' holds the latest information** and is the source for other derived files, including 'roman-amphitheaters.csv' and the basic maps provided as a convenience. The 'utility.ipynb' jupyter notebook generates these other files.
 
-By default, github will display the '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' file as a clustered map.
+By default, github will display '[roman-amphitheaters.geojson](roman-amphitheaters.geojson)' as a clustered map.
 
-The following titles, which are at different stages of publciation, illustrate how this data can be used for mapping, visualization, and historical analysis: 
+The following titles, which are at different stages of publication, illustrate how this data can be used for mapping, visualization, and historical analysis: 
 
 * S. Heath. 2021. "Applied Use of JSON, GeoJSON, JSON-LD, SPARQL, and IPython Notebooks for Representing and Interacting with Small Datasets." In S. E. Bond, P. Dilley, and R. Horne, eds. *Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects*. ISAW Papers 20. http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-13/ .
 
