@@ -13,7 +13,7 @@ The following titles, which are at different stages of publication, illustrate h
 
 * S. Heath. 2022. “Narrating Transitions and Transformations in Cultural Heritage Digital Workflows Using a JSON-Encoded Dataset of Roman Amphitheaters.” In Digital Heritage And Archaeology In Practice: Data, Ethics, And Professionalism, edited by Ethan Watrall and Lynn Goldstein, 71–97. Gainesville. https://muse.jhu.edu/book/101232
 
-* (Forthcoming) S. Heath. 2022. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
+* (Forthcoming) S. Heath. 2023. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
 
 * (Under review) S. Heath. nd. *Estimating and Mapping Roman Amphitheater Seating Capacity* Draft at https://www.academia.edu/88351135/Estimating_and_Mapping_Roman_Amphitheater_Seating_Capacity
 

@@ -2232,8 +2232,9 @@
       "id": "hispellumAmphitheater",
       "properties": {
         "title": "Amphitheater at Spello",
+        "amphitheatrum": "https://amphi-theatrum.de/1595.html",
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "first-century",
         "dimensions": {
           "exteriormajor": 82,
           "source": "http://maps.google.com"
@@ -2854,7 +2855,7 @@
         "dimensions": {
           "arenamajor": 60,
           "arenaminor": 35,
-          "sourcenote": "Golvin" 
+          "sourcenote": "Golvin, p. 252" 
         },
         "label": "Assisi",
         "latintoponym": "Asisium",
@@ -4508,13 +4509,12 @@
         "title": "Amphitheater at Monteleone",
         "amphitheatrum": "http://amphi-theatrum.de/1504.html",
         "buildingtype": "amphitheater",
-        "chronogroup": "imperial",
+        "chronogroup": "second-century",
         "dimensions": {
-          "exteriormajor": 94,
-          "exteriorminor": 66,
-          "arenamajor": 61,
-          "arenaminor": 35,
-          "sourcenote": "https://amphi-theatrum.de/1504.html"
+          "exteriormajor": {"unknown": true},
+          "exteriorminor": {"unknown": true},
+          "arenamajor": {"unknown": true},
+          "arenaminor": {"unknown": true}
         },
         "golvinid": "58",
         "label": "Monteleone",
@@ -4549,6 +4549,7 @@
           "arenaminor": 42,
           "source":"Golvin"
          },
+        "golvinid": "163",
         "label": "Bolsena",
         "latintoponym": "Volsinii Novi",
         "moderncountry": "Italy",
@@ -7158,15 +7159,14 @@
         "bibliography": "http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Umbria/Perugia/Bevagna/Bevagna/Roman/amphitheatre.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6251, "sourcenote": "Golvin"},
-        "chronogroup": "imperial",
+        "chronogroup": "first-century",
         "dimensions": {
            "exteriormajor": 80,
            "exteriorminor": 53,
            "arenamajor": 44,
            "arenaminor": 24,
-           "sourcenote": "Golvin"
+           "sourcenote": "Golvin, p. 252"
         },
-        "golvinid": "282",
         "label": "Bevagna",
         "latintoponym": "Mevania",
         "moderncountry": "Italy",
@@ -7405,15 +7405,15 @@
       "id": "todiAmphitheater",
       "properties": {
         "title": "Todi Amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1400.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24329",
         "dimensions": {
            "exteriormajor": 90,
            "exteriorminor": 60,
-           "sourcenote": "Golvin"
+           "sourcenote": "Golvin, p. 253"
         },
-        "golvinid": "283",
         "label": "Todi",
         "latintoponym": "Tuder",
         "moderncountry": "Italy",
@@ -7435,7 +7435,9 @@
       "id": "terniAmphitheater",
       "properties": {
         "title": "Terni Amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1401.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 10890, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
         "dare": "http://dare.ht.lu.se/places/23987",
         "dimensions": {
@@ -7468,15 +7470,17 @@
       "id": "spoletoAmphitheater",
       "properties": {
         "title": "Spoleto Amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/2681.html",
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "dare": "http://dare.ht.lu.se/places/24631",
         "dimensions": {
           "exteriormajor": 115,
           "exteriorminor": 85,
-          "sourcenote": "Golvin"
+          "sourcenote": "Golvin, p. 196"
         },
         "golvinid": "86",
+        "golvinid-successor": "169",
         "label": "Spoleto",
         "latintoponym": "Spoletium",
         "moderncountry": "Italy",
