@@ -1228,7 +1228,7 @@
       "properties": {
         "title": "Amphitheater at Cassino",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 7840, "source": "Golvin"},
+        "capacity": {"quantity": 7840, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 84,
@@ -2091,7 +2091,7 @@
         "dimensions": {
           "exteriormajor": 68,
           "exteriorminor": 40,
-          "source": "Golvin"
+          "sourcenote": "Golvin"
         },
         "golvinid": "9",
         "label": "Ferento",
@@ -2596,6 +2596,7 @@
       "properties": {
         "title": "Amphitheater at Ulpia Traiana Sarmizegetusa",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": "5831", "sourcenote": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 88,
@@ -2792,7 +2793,7 @@
         "title": "Amphitheater at Urbs Salvia",
         "amphitheatrum": "http://amphi-theatrum.de/1556.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 5150, "source": "Golvin"},
+        "capacity": {"quantity": 5150, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
         "creation": 81,
         "dimensions": {
@@ -3655,6 +3656,7 @@
       "properties": {
         "title": "Amphitheater at Caerwent",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 3532, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 63,
@@ -4053,6 +4055,7 @@
       "properties": {
         "title": "Amphitheater at Toulouse",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 16336, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "created": 50,
         "dimensions": {
@@ -4207,7 +4210,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1549.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 675","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 24795, "source": "Golvin"},
+        "capacity": {"quantity": 24795, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 137,
@@ -4364,6 +4367,7 @@
       "properties": {
         "title": "Amphitheater at Aquileia",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 26114, "sourncenote": "Golvin"},
         "chronogroup": "flavian",
         "comment": "Location approximate",
         "dimensions": {
@@ -4396,7 +4400,7 @@
         "title": "Amphitheater at Padua",
         "amphitheatrum": "http://amphi-theatrum.de/1399.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 7256, "source": "Golvin"},
+        "capacity": {"quantity": 7256, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
         "dimensions": {
            "exteriormajor": 102.5,
@@ -4462,6 +4466,7 @@
         "title": "Amphitheater at Termini Imerese",
         "amphitheatrum": "http://amphi-theatrum.de/1555.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 26114, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
         "comment": "Location approximate.",
         "dimensions": {
@@ -4805,6 +4810,7 @@
         "title": "Amphitheater at Narbonne",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 640","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "flavian",
         "dimensions": {
           "arenamajor":75,
@@ -5197,6 +5203,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1491.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 7952, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
         "dimensions": {
           "exteriormajor": 80,
@@ -5945,6 +5952,7 @@
         "title": "Amphitheater at Aquino",
         "amphitheatrum": "https://amphi-theatrum.de/1546.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 17789, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 115,
@@ -6944,7 +6952,7 @@
            "exteriorminor": 76,
            "arenamajor": 42,
            "arenaminor": 31,
-           "source": "Golvin"
+           "sourcenote": "Golvin"
         },
         "golvinid":  "132",
         "label": "Aosta",
