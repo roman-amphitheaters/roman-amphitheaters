@@ -771,6 +771,7 @@
         "title": "Amphitheater at Porolissum",
         "amphitheatrum": "http://amphi-theatrum.de/1443.html",
         "buildingtype": "amphitheater",
+        "capacity": { "unknown": true},
         "chronogroup": "second-century",
         "comment": "There was a wooden predecessor.",
         "created":157,
@@ -784,6 +785,7 @@
         "label": "Porolissum",
         "latintoponum": "Porolissum",
         "moderncountry": "Romania",
+        "note": "Golvin only list interior dimensions, GEarth shows more detail.",
         "orientation": 122,
         "pleiades": "https://pleiades.stoa.org/places/207361",
         "province": "dacia"
@@ -1195,6 +1197,7 @@
         "title": "Amphitheater at Luni",
         "bibliography":[{"bibliographiccitation":"Fazzini, Paolo, and Marina Maffei. “The Disappearance of the City of Luni.” Journal of Cultural Heritage 1, no. 3 (November 2, 2000): 247–60. https://doi.org/10.1016/S1296-2074(00)01081-5 .","zoteroitem":"P8RB27QW"}],
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 3326, "sourcenonte": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 87,
@@ -1225,6 +1228,7 @@
       "properties": {
         "title": "Amphitheater at Cassino",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 7840, "source": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 84,
@@ -1995,6 +1999,7 @@
            "arenaminor": 42.7,
            "sourcenote": "Golvin"
         },
+        "golvinid": "149",
         "label": "Arezzo",
         "latintoponym": "Arretium",
         "moderncountry": "Italy",
@@ -2295,6 +2300,7 @@
       "properties": {
         "title": "Civil Amphitheater at Budapest",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": "8617", "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 86.5,
@@ -2328,6 +2334,7 @@
       "properties": {
         "title": "Military Amphitheater at Budapest",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": "16049", "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "created":150,
         "dimensions": {
@@ -2785,7 +2792,7 @@
         "title": "Amphitheater at Urbs Salvia",
         "amphitheatrum": "http://amphi-theatrum.de/1556.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 5150},
+        "capacity": {"quantity": 5150, "source": "Golvin"},
         "chronogroup": "flavian",
         "creation": 81,
         "dimensions": {
@@ -2794,6 +2801,7 @@
           "arenamajor": 59,
           "arenaminor": 35
         },
+        "golvinid": "165",
         "label": "Urbs Salvia",
         "latintoponym": "Urbs Saglia",
         "moderncountry": "Italy",
@@ -3131,7 +3139,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1540.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 606","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 12000},
+        "capacity": {"quantity": 13854, "sourcenote": "Golvin"},
         "created": 100,
         "chronogroup": "flavian",
         "dimensions": {
@@ -3141,6 +3149,7 @@
            "arenaminor": 39.7,
            "sourcenote": "Golvin"
           },
+        "golvinid": 138,
         "label": "Fréjus",
         "latintoponym": "Forum Julii",
         "moderncountry": "France",
@@ -3328,6 +3337,7 @@
         "label": "Pula",
         "latintoponym": "Colonia Pietas Iulia Pola Pollentia Herculanea",
         "moderncountry": "Croatia",
+        "note": "Also Golvin 134, which is an earlier state.",
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/197448",
         "region": "regio-x",
@@ -4173,6 +4183,7 @@
           "arenaminor": 37,
           "sourcenote": "Golvin"
          },
+        "golvinid": "158",
         "label": "Besançon",
         "latintoponym": "Vesontio",
         "moderncountry": "France",
@@ -4196,6 +4207,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1549.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 675","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 24795, "source": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 137,
@@ -4204,6 +4216,7 @@
           "arenaminor": 48,
           "sourcenote": "Golvin"
          },
+        "golvinid": "156",
         "label": "Limoges",
         "latintoponym": "Augustoritum",
         "moderncountry": "France",
@@ -4235,7 +4248,7 @@
           "arenamajor": 72,
           "arenaminor": 47
         },
-        "golvinid": "136",
+        "golvinid": "137",
         "label": "Poitiers",
         "latintoponym": "Limonum Pictonum",
         "moderncountry": "France",
@@ -4383,6 +4396,7 @@
         "title": "Amphitheater at Padua",
         "amphitheatrum": "http://amphi-theatrum.de/1399.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 7256, "source": "Golvin"},
         "chronogroup": "julio-claudian",
         "dimensions": {
            "exteriormajor": 102.5,
@@ -4704,6 +4718,7 @@
           "arenaminor": 42,
           "sourcenote": "Golvin"
         },
+        "golvinid": "166",
         "label": "San Vittorino",
         "latintoponym": "Amiternum",
         "moderncountry": "Italy",
@@ -4736,6 +4751,7 @@
           "arenaminor": 74,
           "sourcenote": "Golvin"
         },
+        "golvinid": "159",
         "label": "Béziers",
         "latintoponym": "Baeterrae",
         "moderncountry": "France",
@@ -4764,6 +4780,7 @@
         "dimensions":{
           "unknown": true
         },
+        "golvinid": "161",
         "label": "Agen",
         "latintoponym": "Aginnum",
         "moderncountry": "France",
@@ -4789,7 +4806,13 @@
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 640","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
-        "dimensions": {"arenamajor":75,"arenaminor":46.6,"exteriormajor":121.6,"exteriorminor":93.2},
+        "dimensions": {
+          "arenamajor":75,
+          "arenaminor":46.6,
+          "exteriormajor":121.6,
+          "exteriorminor":93.2
+        },
+        "golvinid": "162",
         "label": "Narbonne",
         "latintoponym": "Narbo",
         "moderncountry": "France",
@@ -5297,6 +5320,7 @@
       "properties": {
         "title": "Amphitheater at Autun",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": "32189", "sourcenote": "Golvin"},
         "chronogroup": "flavian",
         "dimensions": {
           "exteriormajor": 154,
@@ -5960,6 +5984,7 @@
           "exteriorminor": 70,
           "comment": "Dimensions very approximate on the basis of modern street plan."
          },
+         "golvinid": "160",
         "label": "Bourges",
         "latintoponym": "Avaricum",
         "moderncountry": "France",
@@ -6230,6 +6255,37 @@
                9.230632,
                36.391031,
                412
+        ],
+        "source": "http://maps.google.com/"
+      }
+    },{
+      "type": "Feature",
+      "id": "terracinaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Terracina",
+        "amphitheatrum": "https://amphi-theatrum.de/1547.html",
+        "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
+        "chronogroup": "first-century",
+        "dimensions": {
+          "exteriormajor": 90,
+          "exteriorminor": 68,
+          "sourcenote": "Golvin"
+         },
+        "golvinid": "148",
+        "label": "Terracina",
+        "latintoponym": "Tarracina",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/433143",
+        "region": "regio-i",
+        "visibility": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":[
+          13.247049,
+          41.287691,
+          10
         ],
         "source": "http://maps.google.com/"
       }
