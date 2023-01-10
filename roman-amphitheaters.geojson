@@ -171,17 +171,19 @@
         "title": "Amphitheater at Lyon",
         "amphitheatrum": "http://amphi-theatrum.de/1416.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000},
+        "capacity": {"quantity": 27454, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
         "comment": "The capacity refers to number of seats after the early 2nd AD century expansion. In AD 19 the capacity was under 2000.",
         "created": 19,
         "dimensions": {
-              "exteriormajor": 105,
+              "exteriormajor": 143,
+              "exteriorminor": 117,
               "arenamajor": 67.6,
               "arenaminor": 42,
               "source": "http://maps.google.com"
             },
         "emperor": "Tiberius",
+        "golvinid": "171",
         "hypogeum": true,
         "label": "Lyon",
         "latintoponym": "Lugdunum",
@@ -244,7 +246,7 @@
            "arenamajor": 83,
            "arenaminor": 48,
            "exteriorheight": 52,
-           "note": "Scholarly consensus."
+           "comment": "Scholarly consensus."
            },
         "emperor": "Vespasian",
         "golvinid": "152",
@@ -785,7 +787,7 @@
         "label": "Porolissum",
         "latintoponum": "Porolissum",
         "moderncountry": "Romania",
-        "note": "Golvin only list interior dimensions, GEarth shows more detail.",
+        "comment": "Golvin and Amphitheatrum only list interior dimensions, GEarth shows more detail.",
         "orientation": 122,
         "pleiades": "https://pleiades.stoa.org/places/207361",
         "province": "dacia"
@@ -816,7 +818,7 @@
         "latintoponym": "Ulpia Noviomagus",
         "moderncountry": "Netherlands",
         "pleiades": "https://pleiades.stoa.org/places/98921",
-        "province": "germania-superior",
+        "province": "germania-inferior",
         "visibility": "none"
       },
       "geometry": {
@@ -1266,7 +1268,7 @@
           "zoteroitem":"IQNLI4VI"}
          ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 6900, "sourcenote": "Snežana and Bogdanović 2015, p. 553", "note": "This is the midpoint between a range of 6500 to 7300."},
+        "capacity": {"quantity": 6900, "sourcenote": "Snežana and Bogdanović 2015, p. 553", "comment": "This is the midpoint between a range of 6500 to 7300."},
         "chronogroup": "second-century",
         "dimensions": {
             "exteriormajor": 84,
@@ -1425,6 +1427,7 @@
         "title": "Amphitheater at Cyrene",
         "amphitheatrum": "https://amphi-theatrum.de/2487.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": {"unknown": true},
@@ -1455,6 +1458,7 @@
       "id": "libarnaAmphitheater",
       "properties": {
         "title": "Amphitheater at Libarna",
+        "amphitheatrum": "https://amphi-theatrum.de/1530.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 5380, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -1591,15 +1595,17 @@
       "properties": {
         "title": "Amphitheater at Charterhouse",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 2179, "sourcenote": "Golvin"},
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
+        "comment": "Golvin's dimentions are updated by Amphitheatrum so capacity recorded as ‘unknown’ and need to be estimated.",
         "dimensions": {
-          "exteriormajor": 50,
-          "exteriorminor": 39,
+          "exteriormajor": 70,
+          "exteriorminor": 61,
           "arenamajor": 32,
           "arenaminor": 24,
           "sourcenote": "Golvin"
          },
+        "golvinid": "32",
         "label": "Charterhouse",
         "moderncountry": "United Kingdom",
         "orientation": 270,
@@ -1710,6 +1716,7 @@
         "title": "Amphitheater at Roccelletta di Borgia",
         "amphitheatrum": "http://www.amphi-theatrum.de/1598.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "first-century",
         "created": 98,
         "dimensions": {
@@ -1838,6 +1845,7 @@
         "title": "Amphitheater at Virunum",
         "buildingtype": "amphitheater",
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
+        "capacity": {"unknown": true},
         "chronogroup": "second-century",
         "dare": "http://dare.ht.lu.se/places/23865",
         "dimensions": {
@@ -1900,10 +1908,14 @@
       "properties": {
         "title": "Amphitheater at Florence",
         "buildingtype": "amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1387.html",
         "chronogroup": "hadrianic",
         "dimensions": {
-           "exteriormajor": 124,
-           "source": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Florence"
+           "exteriormajor": 113,
+           "exteriorminor": 89,
+           "arenamajor": 64,
+           "arenaminor": 40,
+           "sourcenote": "Golvin"
         },
         "golvinid": "140",
         "label": "Florence",
@@ -1911,7 +1923,8 @@
         "moderncountry": "Italy",
         "orientation": 205,
         "pleiades": "https://pleiades.stoa.org/places/413138",
-        "region": "regio-vii"
+        "region": "regio-vii",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Florence"
       },
       "geometry": {
         "type": "Point",
@@ -2021,7 +2034,9 @@
       "id": "larinoAmphitheater",
       "properties": {
         "title": "Amphitheater at Larinum",
+        "amphitheatrum": "https://amphi-theatrum.de/1609.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 98,
@@ -2029,7 +2044,7 @@
           "arenamajor": 57,
           "arenaminor": 40
          },
-        "label": "Larin",
+        "label": "Larinum",
         "latintoponym": "Larinum",
         "moderncountry": "Italy",
         "orientation": 148,
@@ -2114,7 +2129,9 @@
       "properties": {
         "title": "Amphitheater at Allifae",
         "amphitheatrum": "http://amphi-theatrum.de/2038.html",
+        "bibliography": "Golvin, p. 261",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
             "exteriormajor": 107,
@@ -2183,7 +2200,7 @@
           "arenaminor": 32,
           "arenamajor": 40,
           "source": "http:maps.google.com",
-          "note": "Partial visibility so approzimate measurements."
+          "comment": "Partial visibility so approzimate measurements."
         },
         "label": "Forum Traiani",
         "moderncountry": "Italy",
@@ -2205,8 +2222,9 @@
       "id": "luccaAmphitheater",
       "properties": {
         "title": "Amphitheater at Lucca",
+        "amphitheatrum": "https://amphi-theatrum.de/1390.html",
         "buildingtype": "amphitheater",
-        "capacity": { "sourcenote": "Golvin", "quantity": 15048 },
+        "capacity": { "quantity": 15048, "sourcenote": "Golvin"  },
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 124,
@@ -2398,6 +2416,7 @@
       "id": "perigueuxAmphitheater",
       "properties": {
         "title": "Amphitheater at Perigueux",
+        "amphitheatrum": "https://amphi-theatrum.de/1407.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 670","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 21413, "sourncenote": "Golvin"},
@@ -2994,20 +3013,24 @@
         "title": "Amphitheater at Cirencester",
         "amphitheatrum": "http://amphi-theatrum.de/1490.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
-        "latintoponym": "Corinium Dobunnorum",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 10210, "sourcenote": "Golvin"},
         "label": "Cirencester",
         "chronogroup": "second-century",
         "dimensions": {
            "arenamajor": 46,
            "arenaminor": 41,
-           "sourcenote": "https://en.wikipedia.org/wiki/Cirencester_Amphitheatre"
+           "exteriormajor": 89,
+           "exteriorminor": 81,
+           "sourcenote": "Golvin"
         },
         "golvinid": "33",
+        "latintoponym": "Corinium Dobunnorum",
         "moderncountry": "United Kingdom",
         "orientation": 150,
         "pleiades": "https://pleiades.stoa.org/places/197225",
         "province": "britannia",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cirencester_Amphitheatre",
         "youtube": [
             "https://www.youtube.com/watch?v=9RFDium7TYU",
             "https://www.youtube.com/watch?v=8Nfeu-GD8KM",
@@ -3068,6 +3091,7 @@
         "created": 125,
         "capacity": {"quantity": 9000},
         "chronogroup": "second-century",
+        "comment": "Also Golvin no. 25 as earlier state.",
         "dimensions": {
             "exteriormajor": 92,
             "exteriorminor": 72,
@@ -3229,8 +3253,9 @@
       "id": "miciaAmphitheater",
       "properties": {
         "title": "Amphitheater at Micia",
+        "amphitheatrum": "https://amphi-theatrum.de/1447.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 1500},
+        "capacity": {"quantity": 1722, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 56,
@@ -3241,6 +3266,7 @@
          },
         "golvinid": "47",
         "label": "Micia",
+        "latintoponum": "Micia",
         "moderncountry": "Romania",
         "orientation": 252,
         "pleiades": "https://pleiades.stoa.org/places/207286",
@@ -3338,7 +3364,7 @@
         "label": "Pula",
         "latintoponym": "Colonia Pietas Iulia Pola Pollentia Herculanea",
         "moderncountry": "Croatia",
-        "note": "Also Golvin 134, which is an earlier state.",
+        "comment": "Also Golvin 134, which is an earlier state.",
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/197448",
         "region": "regio-x",
@@ -3392,15 +3418,13 @@
       "id": "caesareaAmphitheater",
       "properties": {
         "title": "Amphitheater at Caesarea",
+        "amphitheatrum": "https://amphi-theatrum.de/2411.html",
         "buildingtype": "amphitheater",
-        "chronogroup": "second-century",
-        "created": 150,
+        "chronogroup": "imperial",
         "comment": "Date very approximate.",
         "dimensions": {
-          "exteriormajor": 134,
-          "exteriorminor": 77,
-          "arenamajor": 101,
-          "arenaminor": 44,
+          "arenamajor": 95,
+          "arenaminor": 62,
           "sourcenote": "Golvin"
          },
         "label": "Caesarea",
@@ -3456,13 +3480,15 @@
       "id": "anazarbusAmphitheater",
       "properties": {
         "title": "Amphitheater at Anazarbus",
+        "amphitheatrum": "https://amphi-theatrum.de/2421.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 109,
           "exteriorminor": 80,
           "arenamajor": 60,
-          "arenaminor": 43 
+          "arenaminor": 43 ,
+          "source": "https://maps.google.com/"
         },
         "label": "Anazarbus",
         "moderncountry": "Turkey",
@@ -3601,7 +3627,7 @@
         "dimensions": {
           "exteriormajor": 70,
           "source": "https://maps.google.com/",
-          "note": "Very approximate measurement using Google satellite imagery."
+          "comment": "Very approximate measurement using Google satellite imagery."
         },
         "label": "Paphos",
         "moderncountry": "Cyprus",
@@ -3956,7 +3982,7 @@
         "title": "Amphitheater at Castra Albana",
         "amphitheatrum": "http://amphi-theatrum.de/1567.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000},
+        "capacity": {"quantity":15538, "sourcenote": "Golvin"},
         "created": 212,
         "chronogroup": "severan",
         "dimensions": {
@@ -4305,6 +4331,7 @@
         "amphitheatrum": "http://amphi-theatrum.de/1484.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 669","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 18546, "sourcenote": "Golvin"},
         "dimensions": {
           "exteriormajor": 110,
           "exteriorminor": 97,
@@ -4432,7 +4459,7 @@
         "title": "Amphitheater at Lecce",
         "amphitheatrum": "http://amphi-theatrum.de/1389.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 25000},
+        "capacity": {"quantity": 13440, "sourcenote": "Golvin"},
         "chronogroup": "trajanic",
         "dimensions": {
            "exteriormajor": 101.9,
@@ -4585,7 +4612,8 @@
         ],
         "source": "http://maps.google.com/"
       }
-    },{
+    },
+    {
       "type": "Feature",
       "id": "anconaAmphitheater",
       "properties": {
@@ -4970,13 +4998,13 @@
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 34000},
         "chronogroup": "hadrianic",
-        "comment": "Large capacity based on recent work as well described in Wikipedia.",
+        "comment": "Large capacity based on recent work as described in Wikipedia.",
         "dimensions": {
             "exteriormajor": 156,
             "exteriorminor": 134,
             "arenamajor": 68,
             "arenaminor": 50,
-            "sourcenote": "Wikipedia articke."
+            "sourcenote": "Wikipedia article."
         },
         "golvinid": "54",
         "label": "Tours",
@@ -5177,6 +5205,7 @@
           "arenaminor": 40,
           "sourcenote": "Golvin"
          },
+        "golvinid": "40",
         "label": "Silchester",
         "latintoponym": "Calleva Atrebatum",
         "moderncountry": "United Kingdom",
@@ -5306,7 +5335,7 @@
         "label": "León",
         "latintoponym": "Legio",
         "moderncountry": "Spain",
-        "note": [ "https://www.leoncultural.com/local/anfiteatro-romano-cripta-de-cascaleria/",
+        "comment": [ "https://www.leoncultural.com/local/anfiteatro-romano-cripta-de-cascaleria/",
         "https://www.diariodeleon.es/articulo/cultura/anfiteatro-romano-leon-era-mas-grande-plaza-mayor/20070303010000888440.html"],
         "pleiades": "https://pleiades.stoa.org/places/236512",
         "province": "tarraconensis",
@@ -5485,6 +5514,7 @@
         "title": "Amphitheater at Nocera Superiore",
         "amphitheatrum": "http://amphi-theatrum.de/1515.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 21162, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 125,
@@ -5507,6 +5537,34 @@
                 14.657022,
                 40.745750,
                 50
+        ],
+        "source": "http://maps.google.com/"
+      }
+    },{
+      "type": "Feature",
+      "id": "perugiaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Perugia",
+        "bibliography": "Golvin, p. 254",
+        "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
+        "chronogroup": "imperial",
+        "dimensions": {
+          "unknown": true
+         },
+        "label": "Perugia",
+        "latintoponym": "Perusia",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/413248",
+        "region": "regio-vi",
+        "visibility": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":[
+          12.389066,
+          43.107941,
+          451
         ],
         "source": "http://maps.google.com/"
       }
@@ -5766,8 +5824,8 @@
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions":{
-          "exteriormajor": 75,
-          "exteriorminor": 120,
+          "exteriormajor": 120,
+          "exteriorminor": 75,
           "sourcenote": "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112"
         },
         "label": "Bosra",
@@ -5921,11 +5979,14 @@
         "title": "Amphitheater at Albenga",
         "amphitheatrum": "http://amphi-theatrum.de/1508.html",
         "buildingtype": "amphitheater",
+        "capacity": {"quantity": 3926, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 70,
           "exteriorminor": 50,
-          "source": "http://amphi-theatrum.de/1508.html"
+          "arenamajor": 50,
+          "arenaminor": 30,
+          "sourcenote": "Golvin"
          },
         "golvinid": "74",
         "label": "Albenga",
@@ -6341,7 +6402,7 @@
         "chronogroup": "second-century",
         "dimensions":{
           "unknown": true,
-          "note": "Amphitheater was destroyed in late 17th century. https://www.newadvent.org/cathen/14709b.htm"
+          "comment": "Amphitheater was destroyed in late 17th century. https://www.newadvent.org/cathen/14709b.htm"
         },
         "golvinid": "69",
         "label": "Thuburbo Minus",
@@ -6765,7 +6826,7 @@
         "dimensions": {
           "arenamajor": 41,
           "source": "https://maps.google.com",
-          "note": "Very approximate measurement. In addition, structure is irregularly shaped."
+          "comment": "Very approximate measurement. In addition, structure is irregularly shaped."
         },
         "label": "Hisarya",
         "latintoponym": "Diocletianopolis",
@@ -7281,6 +7342,7 @@
       "properties": {
         "title": "Amphitheater at Sinuessa",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "comment": "Probably not precisely located.",
         "dimensions": {
@@ -7812,6 +7874,7 @@
         "title": "Canosa Amphitheater",
         "amphitheatrum": "http://www.amphi-theatrum.de/1607.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24826",
         "dimensions": {
@@ -7997,7 +8060,7 @@
       "properties": {
         "title": "Aleria Amphitheater",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 1200, "sourcenote": "Golvin"},
+        "capacity": {"quantity": 1248, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24133",
         "dimensions": {
@@ -8091,7 +8154,9 @@
       "id": "suasaAmphitheater",
       "properties": {
         "title": "Amphitheater at Suasa",
+        "amphitheatrum": "https://amphi-theatrum.de/2833.html",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24272",
         "dimensions": {
@@ -8189,7 +8254,7 @@
         "dimensions": {
           "exteriormajor": 75,
           "source": "https://maps.google.com/",
-          "note": "Very approximate measurement using Google maps."
+          "comment": "Very approximate measurement using Google maps."
         },
         "label": "San Giovanni in Carico",
         "latintoponym": "Fabrateria Nova",
@@ -8404,12 +8469,14 @@
       "properties": {
         "title": "Amphitheater at Chichester",
         "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
         "chronogroup": "flavian",
         "dimensions": {
-           "exteriormajor": 70,
-           "exteriorminor": 60,
-           "source": "https://historicengland.org.uk/listing/the-list/list-entry/1002984"
+           "arenamajor": 56,
+           "arenaminor": 47,
+           "source": "Golvin"
         },
+        "golvinid": "35",
         "historicengland": "https://historicengland.org.uk/listing/the-list/list-entry/1002984",
         "label": "Chichester",
         "latintoponym": "Noviomagus Reginorum",
@@ -8527,7 +8594,7 @@
         {"bibliographiccitation":"“In Ancient Turkey, Gladiators Fought at This Colosseum-Like Amphitheater | Smart News | Smithsonian Magazine.” Accessed April 24, 2021. https://www.smithsonianmag.com/smart-news/gladiator-amphitheater-uncovered-turkey-180977581/ .","zoteroitem": "CHWRIDLR"}
         ],
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 20000 , "note": "Newly recorded exact dimensions not yet published, but this is a reasonable estimate."},
+        "capacity": {"quantity": 20000 , "comment": "Newly recorded exact dimensions not yet published, but this is a reasonable estimate."},
         "chronogroup": "severan",
         "dimensions": {
           "unknown": true
