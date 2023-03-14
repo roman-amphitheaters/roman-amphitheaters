@@ -4166,6 +4166,33 @@
       }
     },{
       "type": "Feature",
+      "id": "ateguaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Ancient Ategua",
+        "buildingtype": "amphitheater",
+        "chronogroup": "first-century",
+        "capacity": {"quantity": 6000, "sourcenote": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"},
+        "comment": "Discovery announced in 2023.",
+        "dimensions":{
+          "exteriormajor": 44,
+          "arenamajor": 27,
+          "sourcenote": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"
+        },
+        "label": "Ategua",
+        "moderncountry": "Spain",
+        "pleiades": "https://pleiades.stoa.org/places/265808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":[
+          -4.573101,
+          37.755197,
+          295
+        ],
+        "source": "http://maps.google.com/"
+      }
+    },{
+      "type": "Feature",
       "id": "lillebonnAmphitheater",
       "properties": {
         "title": "Amphitheater at Lillebonne",
