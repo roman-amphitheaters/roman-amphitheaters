@@ -38,6 +38,9 @@ As a further convenience, the file 'roman-amphitheaters.qgz' is a simple [QGIS](
 
 To **load the geojson directly** into QGIS, use the "Add Vector Layer..." item of the "Add Layer" submenu of the "Vector" menu. Paste the follwing URL into the 'URI' field after choosing "Protocal: HTTP..." as the source: https://roman-amphitheaters.github.io/roman-amphitheaters/roman-amphitheaters.geojson .
 
+# Example of Python code for mapping and networking
+[Jupyter notebook](ramphs-simple-maps-network.ipynb) that generates static and interactive maps and network.
+
 # Other Resources
 
 Amphitheaters are well represented on the public internet. The following digital resources are especially useful when looking for further information, bibliography, and images. All have been used in the compilation of this data and there are often links to these sites in the descriptions of individual amphitheaters.
