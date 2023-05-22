@@ -17,14 +17,12 @@ The following titles, which are at different stages of publication, illustrate h
 
 * (Forthcoming) S. Heath. 2023. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
 
-
-
-
 A nice example of 3rd party use of this data is: Gebhard, Christian A. 2022. “When Not in Rome...” *Jolly Data* (blog). July 8, 2022. https://jollydata.blog/posts/2022-06-12-when-not-in-rome/.
 
-
-
 Note: The information here continues to change over time. An ongoing focus is entering more direct citation of sources into the 'roman-amphitheaters.geojson' file. Towards this goal, I have made small steps towards implementing a flexible bibliographic infrastructure for this dataset in Zotero. See https://www.zotero.org/groups/2900686/roman_amphitheaters . The number of titles currently included there is very small and only slowly growing. But growing nonetheless. A likewise slowly growing number of amphitheater descriptions have bibliographic citations and a Zotero item identifier for each title. The .csv file will sometimes have the first Zotero identifier. It is a goal to make an html rendering of this information that includes working links to the online version of the Zotero items.
+
+# Browser
+There is an under-construction browser at https://roman-amphitheaters.github.io/browser . This is likely to change quite often.
 
 # Maps
 This map shows the locations of all structures recorded in the dataset.
@@ -36,7 +34,7 @@ This map shows the locations of all structures recorded in the dataset.
 # QGIS
 As a further convenience, the file 'roman-amphitheaters.qgz' is a simple [QGIS](https://qgis.org/) project file that loads the geojson and uses the '[Digital Atlas of the Roman Empire](https://dh.gu.se/dare/)' tileset as a basemap. If the map is blank when that file is opened, choose the "Zoom to Layer(s)" item from the "View" menu.
 
-To **load the geojson directly** into QGIS, use the "Add Vector Layer..." item of the "Add Layer" submenu of the "Vector" menu. Paste the follwing URL into the 'URI' field after choosing "Protocal: HTTP..." as the source: https://roman-amphitheaters.github.io/roman-amphitheaters/roman-amphitheaters.geojson .
+To **load the geojson directly** into QGIS, use the "Add Vector Layer..." item of the "Add Layer" submenu of the "Vector" menu. Paste the follwing URL into the 'URI' field after choosing "Protoc0l: HTTP..." as the source: https://roman-amphitheaters.github.io/roman-amphitheaters/roman-amphitheaters.geojson .
 
 # Simple Python code for mapping and networking
 [Jupyter notebook](ramphs-simple-maps-network.ipynb) that generates static and interactive maps and network. The interacgive version of the spatial network it generates can be seen at https://roman-amphitheaters.github.io/roman-amphitheaters/ramphs-simple-maps-network.html .
