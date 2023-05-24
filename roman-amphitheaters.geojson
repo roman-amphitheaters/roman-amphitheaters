@@ -91,7 +91,7 @@
       "id": "duraEuroposAmphitheater",
       "properties": {
         "title": "Amphitheater at Dura Europos",
-        "amphitheatrum": "http://amphi-theatrum.de/1449.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1449.html",
         "bibliography": [{"bibliographiccitation":"Pollard, Nigel. Soldiers, Cities, and Civilians in Roman Syria. Ann Arbor: University of Michigan Press, 2003.","zoteroitem":"5ADZC245"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 1000, "sourcenote": "Pollard 2003, p. 52" },
@@ -130,7 +130,7 @@
       "id": "arlesAmphitheater",
       "properties": {
         "title": "Amphitheater at Arles",
-        "amphitheatrum": "http://amphi-theatrum.de/1371.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1371.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 613","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 23354, "sourcenote": "Golvin"},
@@ -169,7 +169,7 @@
       "id": "lyonAmphitheater",
       "properties": {
         "title": "Amphitheater at Lyon",
-        "amphitheatrum": "http://amphi-theatrum.de/1416.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1416.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 27454, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -232,7 +232,7 @@
       "id": "romeFlavianAmphitheater",
       "properties": {
         "title": "Flavian Amphitheater at Rome",
-        "amphitheatrum": "https://www.amphi-theatrum.de/1373.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1373.html",
         "bibliography":[{"bibliographiccitation":"Lancaster, Lynne C. “The Process of Building the Colosseum: The Site, Materials, and Construction Techniques.” Journal of Roman Archaeology 18 (ed 2005): 57–82. https://doi.org/10.1017/S1047759400007212.","zoteroitem":"VKMRD8AT"},
         {"bibliographiccitation":"Bomgardner, David. The Story of the Roman Amphitheatre. London: Taylor and Francis, 2002.","withincitation":"ch. 1", "zoteroitem":"LAKEBU6D"},
         {"bibliographiccitation":"Beste, Heinz-Jürgen. “Rom, Italien: Neue Argumente zu einer Naumachie im Colosseum. Die Arbeiten der Jahre 2017 und 2018.” In e-Forschungsberichte des DAI, Fasc.1 (2019), Fasc.1, 146-150. Berlin: Deutsches Archäologisches Institut, 2019.", "zoteroitem":"E7WKBIPP"}],
@@ -310,7 +310,7 @@
       "id": "eleutheropolisAmphitheater",
       "properties": {
         "title": "Amphitheater at Eleutheropolis",
-        "amphitheatrum": "http://amphi-theatrum.de/2397.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2397.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3500},
         "chronogroup": "second-century",
@@ -344,7 +344,7 @@
       "id": "pompeiiAmphitheater",
       "properties": {
         "title": "Amphitheater at Pompeii",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1367.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1367.html",
         "bibliography": [
                     {
                         "bibliographiccitation": "K. Welch, <i>The Roman Amphitheater from its Origins to the Colosseum</i> (Cambridge, MA, 2007) 192-198.",
@@ -428,7 +428,7 @@
       "id": "newsteadAmphitheater",
       "properties": {
         "title": "Amphitheater at Newstead",
-        "amphitheatrum": "http://amphi-theatrum.de/1899.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1899.html",
         "bibliography": [{"bibliographiccitation":"Clarke, Simon, and Alicia Wise. “Evidence for Extramural Settlement North of the Roman Fort at Newstead (Trimontium), Roxburghshire,” n.d. https://archaeologydataservice.ac.uk/archiveDS/archiveDownload?t=arch-352-1/dissemination/pdf/vol_129/129_373_391.pdf.",
         "zoteroitem": "CPSBJ2HR"}],
         "buildingtype": "amphitheater",
@@ -441,7 +441,7 @@
           "exteriorminor": 60,
           "arenamajor": 37,
           "arenaminor": 23,
-          "source": "http://amphi-theatrum.de/1899.html"
+          "source": "https://amphi-theatrum.de/1899.html"
          },
         "label": "Newstead",
         "latintoponym": "Trimontium",
@@ -601,7 +601,7 @@
       "id": "syracuseAmphitheater",
       "properties": {
         "title": "Amphitheater at Syracuse",
-        "amphitheatrum": "http://amphi-theatrum.de/1514.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1514.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 28773, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -611,7 +611,7 @@
           "exteriorminor": 118.7,
           "arenamajor": 69.8,
           "arenaminor": 39.7,
-          "source": "http://amphi-theatrum.de/1514.html"
+          "source": "https://amphi-theatrum.de/1514.html"
           },
         "golvinid": "83",
         "hypogeum": true,
@@ -705,7 +705,7 @@
       "id": "corinthAmphitheater",
       "properties": {
         "title": "Amphitheater at Corinth",
-        "amphitheatrum": "http://amphi-theatrum.de/1361.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1361.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 14000},
         "chronogroup": "caesarean",
@@ -740,7 +740,7 @@
       "id": "marcianopolisAmphitheater",
       "properties": {
         "title": "Amphitheater at Marcianopolis (Devnya)",
-        "amphitheatrum": "http://amphi-theatrum.de/1534.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1534.html",
         "buildingtype": "amphitheater",
         "chronogroup": "severan",
         "capacity": {"quantity": 4000},
@@ -772,7 +772,7 @@
       "id": "porolissumAmphitheater",
       "properties": {
         "title": "Amphitheater at Porolissum",
-        "amphitheatrum": "http://amphi-theatrum.de/1443.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1443.html",
         "buildingtype": "amphitheater",
         "capacity": { "unknown": true},
         "chronogroup": "second-century",
@@ -806,7 +806,7 @@
       "id": "nijmegenAmphitheater",
       "properties": {
         "title": "Amphitheater at Nijmegen",
-        "amphitheatrum": "http://amphi-theatrum.de/1453.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1453.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dimensions":{
@@ -1331,7 +1331,7 @@
       "id": "roselleAmphitheater",
       "properties": {
         "title": "Amphitheater at Roselle",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1478.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1478.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2309, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -1525,7 +1525,7 @@
       "id": "avellaAmphitheater",
       "properties": {
         "title": "Amphitheater at Abella",
-        "amphitheatrum": "http://amphi-theatrum.de/1461.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1461.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
@@ -1715,7 +1715,7 @@
       "id": "roccellettaAmphitheater",
       "properties": {
         "title": "Amphitheater at Roccelletta di Borgia",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1598.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1598.html",
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "first-century",
@@ -1747,7 +1747,7 @@
       "id": "bordeauxAmphitheater",
       "properties": {
         "title": "Amphitheater at Bordeaux",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1388.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1388.html",
         "bibliography": [{"bibliographiccitation":"Hourcade, David. “Le Palais-Gallien de Bordeaux, Exemple de Valorisation d’un Site Archéologique En Cours d’étude.” Mélanges de La Casa de Velázquez 46, no. 1 (2013): 269–74. https://doi.org/10.4000/mcv.7022 .", "zoteroitem":"V8642RQH"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 22130, "sourcenote": "Golvin"},
@@ -2066,7 +2066,7 @@
       "id": "lucusFeroniaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Lucus Feroniae",
-        "amphitheatrum": "https://www.amphi-theatrum.de/2923.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2923.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 1844,"sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -2101,7 +2101,7 @@
       "id": "ferentoAmphitheater",
       "properties": {
         "title": "Amphitheater at Ferento",
-        "amphitheatrum": "http://amphi-theatrum.de/1470.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1470.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
@@ -2129,7 +2129,7 @@
       "id": "allifaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Allifae",
-        "amphitheatrum": "http://amphi-theatrum.de/2038.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2038.html",
         "bibliography": "Golvin, p. 261",
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
@@ -2479,7 +2479,7 @@
       "id": "grumentoAmphitheater",
       "properties": {
         "title": "Amphitheater at Grumento",
-        "amphitheatrum": "http://amphi-theatrum.de/1519.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1519.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7657, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -2649,7 +2649,7 @@
       "id": "salonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Salona",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1565.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1565.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13380, "sourcenote": "Bomgardner"},
         "chronogroup": "second-century",
@@ -2811,7 +2811,7 @@
       "id": "urbisagliaAmphitheater",
       "properties": {
         "title": "Amphitheater at Urbs Salvia",
-        "amphitheatrum": "http://amphi-theatrum.de/1556.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1556.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 5150, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -3012,7 +3012,7 @@
       "id": "cirencesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Cirencester",
-        "amphitheatrum": "http://amphi-theatrum.de/1490.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1490.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10210, "sourcenote": "Golvin"},
@@ -3162,7 +3162,7 @@
       "id": "frejusAmphitheater",
       "properties": {
         "title": "Amphitheater Fréjus",
-        "amphitheatrum": "http://amphi-theatrum.de/1540.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1540.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 606","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13854, "sourcenote": "Golvin"},
@@ -3984,7 +3984,7 @@
       "id": "castraAlbanaAmphitheater",
       "properties": {
         "title": "Amphitheater at Castra Albana",
-        "amphitheatrum": "http://amphi-theatrum.de/1567.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1567.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity":15538, "sourcenote": "Golvin"},
         "created": 212,
@@ -4231,7 +4231,7 @@
       "id": "besanconAmphitheater",
       "properties": {
         "title": "Amphitheater at Besançon",
-        "amphitheatrum": "http://amphi-theatrum.de/1551.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1551.html",
         "bibliography":[{"bibliographiccitation":"Cornillot, L., and Lucien Lerat. “L’ amphithéâtre romain de Besançon.” Gallia 1, no. 1 (1943): 129–38. https://doi.org/10.3406/galia.1943.1952 .","zoteroitem":"8LNKGJPW"}],
         "buildingtype": "amphitheater",
         "capacity": {"sourcenote": "Golvin", "quantity": 13816},
@@ -4264,7 +4264,7 @@
       "id": "limogesAmphitheater",
       "properties": {
         "title": "Amphitheater at Limoges",
-        "amphitheatrum": "http://amphi-theatrum.de/1549.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1549.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 675","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 24795, "sourcenote": "Golvin"},
@@ -4297,7 +4297,7 @@
       "id": "poitiersAmphitheater",
       "properties": {
         "title": "Amphitheater at Poitiers",
-        "amphitheatrum": "http://amphi-theatrum.de/1381.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1381.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 677","zoteroitem":"LD7NNHSG"},{"bibliographiccitation":"Golvin, Jean-Claude, and Jean Hiernard. “D’un « Palais Galien » à l’autre. Nouvelles recherches sur l’amphithéâtre de Poitiers (Limonum Pictonum).” Revue des Études Anciennes 88, no. 1 (1986): 77–108. https://doi.org/10.3406/rea.1986.4230 .","zoteroitem":"5YTM94A2"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 33250, "sourcenote": "Golvin"},
@@ -4329,7 +4329,7 @@
       "id": "reimsAmphitheater",
       "properties": {
         "title": "Amphitheater at Reims",
-        "amphitheatrum": "http://amphi-theatrum.de/1394.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1394.html",
         "bibliography": {"bibliographicCitation": "Berthelot, François, Maxence Poirier, Philippe Rollet, and Agnès Balmelle. 2018. “L’analyse de La Composition Urbaine de Reims Entre La Fin de La Période Gauloise et Le IVe Siècle : Apport de Trente Ans de Fouilles Préventives.” In Archéologie de l’espace Urbain, edited by Xavier Rodier and Elisabeth Lorans, 51–65. Perspectives Villes et Territoires. Tours: Presses universitaires François-Rabelais. http://books.openedition.org/pufr/7630.", "zoteroitem": "RRUTEYQI"},
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -4359,7 +4359,7 @@
       "id": "rodezAmphitheater",
       "properties": {
         "title": "Amphitheater at Rodez",
-        "amphitheatrum": "http://amphi-theatrum.de/1484.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1484.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 669","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 18546, "sourcenote": "Golvin"},
@@ -4392,7 +4392,7 @@
       "id": "milanAmphitheater",
       "properties": {
         "title": "Amphitheater at Milan",
-        "amphitheatrum": "http://amphi-theatrum.de/1523.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1523.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 31649, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
@@ -4456,7 +4456,7 @@
       "id": "paduaAmphitheater",
       "properties": {
         "title": "Amphitheater at Padua",
-        "amphitheatrum": "http://amphi-theatrum.de/1399.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1399.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7256, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -4488,7 +4488,7 @@
       "id": "lecceAmphitheater",
       "properties": {
         "title": "Amphitheater at Lecce",
-        "amphitheatrum": "http://amphi-theatrum.de/1389.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1389.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13440, "sourcenote": "Golvin"},
         "chronogroup": "trajanic",
@@ -4522,7 +4522,7 @@
       "id": "terminiImereseAmphitheater",
       "properties": {
         "title": "Amphitheater at Termini Imerese",
-        "amphitheatrum": "http://amphi-theatrum.de/1555.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1555.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 26114, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -4555,7 +4555,7 @@
       "id": "sanBenedettoDeiMarsiAmphitheater",
       "properties": {
         "title": "Amphitheater at San Benedetto dei Marsi",
-        "amphitheatrum": "http://amphi-theatrum.de/1601.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1601.html",
         "bibliography":[{"bibliographiccitation":"Galadini, F., E. Ceccaroni, and E. Falcucci. “Archaeoseismological Evidence of a Disruptive Late Antique Earthquake at Alba Fucens (Central Italy).” Bollettino Di Geofisica Teorica Ed Applicata 51, no. 2–3 (2010): 143–61.", "withincitation":"p. 156","zoteroitem":"9GGW7DWK"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -4584,7 +4584,7 @@
       "id": "monteleoneAmphitheater",
       "properties": {
         "title": "Amphitheater at Monteleone",
-        "amphitheatrum": "http://amphi-theatrum.de/1504.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1504.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dimensions": {
@@ -4615,7 +4615,7 @@
       "id": "bolsenaAmphitheater",
       "properties": {
         "title": "Amphitheater at Bolsena",
-        "amphitheatrum": "http://amphi-theatrum.de/1554.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1554.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 11000, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -4649,7 +4649,7 @@
       "id": "anconaAmphitheater",
       "properties": {
         "title": "Amphitheater at Ancona",
-        "amphitheatrum": "http://amphi-theatrum.de/1396.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1396.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 14168, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -4714,7 +4714,7 @@
       "id": "beneventoAmphitheater",
       "properties": {
         "title": "Amphitheater at Benevento",
-        "amphitheatrum": "http://amphi-theatrum.de/1776.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1776.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
@@ -4740,14 +4740,14 @@
       "id": "calviRisortaAmphitheater",
       "properties": {
         "title": "Amphitheater at Calvi Risorta",
-        "amphitheatrum": "http://amphi-theatrum.de/1462.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1462.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
           "exteriormajor": 110,
           "exteriorminor": 72,
           "arenamajor": 87,
-          "sourcenote": "http://amphi-theatrum.de/1462.html"
+          "sourcenote": "https://amphi-theatrum.de/1462.html"
         },
         "label": "Calvi Risorto",
         "latintoponym": "Cales",
@@ -4770,7 +4770,7 @@
       "id": "sanVittorinoAmphitheater",
       "properties": {
         "title": "Amphitheater at San Vittorino",
-        "amphitheatrum": "http://amphi-theatrum.de/1557.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1557.html",
         "bibliography":[{"bibliographiccitation":"Heinzelmann, Michael, David Jordan, and Cristina Murer. “Amiternum and the Upper Aterno Valley: A Sabine-Roman Town and Its Territory.” Journal of Roman Archaeology 23 (ed 2010): 55–83. https://doi.org/10.1017/S1047759400002300.", "withincitation":"","zoteroitem":"WU8WU448"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000},
@@ -4837,7 +4837,7 @@
       "id": "agenAmphitheater",
       "properties": {
         "title": "Amphitheater at Agen",
-        "amphitheatrum": "http://amphi-theatrum.de/1552.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1552.html",
         "bibliography": "Berthault, Frédéric, Xavier Dupuis, Myriam Fincker, and Jean-François Pichonneau. 1984. “Les édifices de spectacle de l’Antique Aginnum. Etat de la question en 1984.” Aquitania 2 (1): 159–73. https://doi.org/10.3406/aquit.1984.1004.",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -4899,7 +4899,7 @@
       "id": "amiensAmphitheater",
       "properties": {
         "title": "Amphitheater at Amiens",
-        "amphitheatrum": "http://amphi-theatrum.de/1384.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1384.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 17848,"sourcenote":"Golvin"},
         "chronogroup": "second-century",
@@ -4932,7 +4932,7 @@
       "id": "meauxAmphitheater",
       "properties": {
         "title": "Amphitheater at Meaux",
-        "amphitheatrum": "http://amphi-theatrum.de/2416.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2416.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -4987,7 +4987,7 @@
       "id": "senlisAmphitheater",
       "properties": {
         "title": "Amphitheater at Senlis",
-        "amphitheatrum": "http://amphi-theatrum.de/1483.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1483.html",
         "buildingtype": "amphitheater",
         "capacity":{"quantity":10000,"sourcenote":"Wikipedia (fr) article."},
         "chronogroup": "first-century",
@@ -5023,7 +5023,7 @@
       "id": "toursAmphitheater",
       "properties": {
         "title": "Amphitheater at Tours",
-        "amphitheatrum": "http://amphi-theatrum.de/1383.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1383.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 682","zoteroitem":"LD7NNHSG"},
         {"bibliographiccitation":"“Amphithéâtre de Tours.” In Wikipédia, April 20, 2021. https://fr.wikipedia.org/wiki/Amphithéâtre_de_Tours .","zoteroitem":"V5BTM6XJ"}],
         "buildingtype": "amphitheater",
@@ -5061,7 +5061,7 @@
       "type": "Feature",
       "id": "caistorStEdmundAmphitheater",
       "properties": {
-        "amphitheatrum": "http://amphi-theatrum.de/1986.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1986.html",
         "bibliography": "https://www.heritage.norfolk.gov.uk/record-details?MNF59165-Site-of-probable-Roman-amphitheatre-to-the-south-of-the-Roman-town-of-Venta-Icenorum",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -5093,7 +5093,7 @@
       "id": "capuaRepublicanAmphitheater",
       "properties": {
         "title": "Republican Amphitheater at Capua",
-        "amphitheatrum": "http://amphi-theatrum.de/2081.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2081.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
@@ -5125,7 +5125,7 @@
       "id": "capuaImperialAmphitheater",
       "properties": {
         "title": "Imperial Amphitheater at Capua",
-        "amphitheatrum": "http://amphi-theatrum.de/2082.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2082.html",
         "bibliography":[{"bibliographiccitation":"Tuck, Steven L. “Spectacle and Ideology in the Relief Decorations of the Anfiteatro Campano at Capua.” Journal of Roman Archaeology 20 (2007): 255–72. https://doi.org/10.1017/S1047759400005407 .","zoteroitem":"WVCF7L6K"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 37000, "sourcenote": "Golvin"},
@@ -5162,7 +5162,7 @@
       "id": "liternoAmphitheater",
       "properties": {
         "title": "Amphitheater at Literno",
-        "amphitheatrum": "http://amphi-theatrum.de/1862.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1862.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "comment": "Location is incorrect. Said to be south of city wall.",
@@ -5191,13 +5191,13 @@
       "id": "noleAmphitheater",
       "properties": {
         "title": "Amphitheater at Nole",
-        "amphitheatrum": "http://amphi-theatrum.de/1594.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1594.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dimensions": {
           "exteriormajor": 138,
           "exteriorminor": 108,
-          "source": "http://amphi-theatrum.de/1594.html"
+          "source": "https://amphi-theatrum.de/1594.html"
         },
         "label": "Nole",
         "latintoponym": "Nola",
@@ -5223,7 +5223,7 @@
       "id": "silchesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Silchester",
-        "amphitheatrum": "http://amphi-theatrum.de/1493.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1493.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7147, "sourcenote": "Golvin"},
@@ -5260,7 +5260,7 @@
       "id": "dorchesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Dorchester / Maumbury Henge",
-        "amphitheatrum": "http://amphi-theatrum.de/1491.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1491.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7952, "sourcenote": "Golvin"},
@@ -5418,7 +5418,7 @@
       "id": "xantenAmphitheater",
       "properties": {
         "title": "Amphitheater at Xanten",
-        "amphitheatrum": "http://amphi-theatrum.de/1450.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1450.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 579","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10000},
@@ -5454,12 +5454,12 @@
       "type": "Feature",
       "id": "arnsburgAmphitheater",
       "properties": {
-        "amphitheatrum": "http://amphi-theatrum.de/1896.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1896.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
           "exteriormajor": 32,
-          "sourcenote": "http://amphi-theatrum.de/1896.html"
+          "sourcenote": "https://amphi-theatrum.de/1896.html"
         },
         "label": "Arnsburg",
         "moderncountry": "Germany",
@@ -5482,7 +5482,7 @@
       "id": "ierapetraAmphitheater",
       "properties": {
         "title": "Amphitheater at Ierapetra",
-        "amphitheatrum": "http://amphi-theatrum.de/2128.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2128.html",
         "bibliography":[{"bibliographiccitation":"Papadopoulos, Nikos G., Apostolos Sarris, Maria Cristina Salvi, Sylviane Dederix, Pantelis Soupios, and Unal Dikmen. “Rediscovering the Small Theatre and Amphitheatre of Ancient Ierapytna (SE Crete) by Integrated Geophysical Methods.” Journal of Archaeological Science 39, no. 7 (July 1, 2012): 1960–73. https://doi.org/10.1016/j.jas.2012.01.044 .","zoteroitem":"WFYFFL7L"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -5512,7 +5512,7 @@
       "id": "kunzingAmphitheater",
       "properties": {
         "title": "Amphitheater at Künzing",
-        "amphitheatrum": "http://amphi-theatrum.de/1876.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1876.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5544,7 +5544,7 @@
       "id": "noceraSuperioreAmphitheater",
       "properties": {
         "title": "Amphitheater at Nocera Superiore",
-        "amphitheatrum": "http://amphi-theatrum.de/1515.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1515.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 21162, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -5605,7 +5605,7 @@
       "id": "bobadelaAmphitheater",
       "properties": {
         "title": "Amphitheater at Bobadela",
-        "amphitheatrum": "http://amphi-theatrum.de/1975.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1975.html",
         "buildingtype": "amphitheater",
         "chronogroup": "flavian",
         "dimensions": {
@@ -5727,7 +5727,7 @@
       "id": "dambachAmphitheater",
       "properties": {
         "title": "Amphitheater at “Dambach”",
-        "amphitheatrum": "http://amphi-theatrum.de/1792.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1792.html",
         "bibliography": "http://www.deutsche-limeskommission.de/fileadmin/dlk/images/dlk/pdfs/Der-Limes-3-2009-2.pdf",
         "buildingtype": "oval-structure",
         "certainty": "uncertain",
@@ -5760,7 +5760,7 @@
       "id": "burnumAmphitheater",
       "properties": {
         "title": "Amphitheater at Burnum",
-        "amphitheatrum": "http://amphi-theatrum.de/1878.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1878.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5791,7 +5791,7 @@
       "type": "Feature",
       "id": "gleisdorfAmphitheater",
       "properties": {
-        "amphitheatrum": "http://amphi-theatrum.de/2424.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2424.html",
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -5819,7 +5819,7 @@
       "id": "skikdaAmphitheater",
       "properties": {
         "title": "Amphitheater at Skikda",
-        "amphitheatrum": "http://amphi-theatrum.de/1505.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1505.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 8000},
         "chronogroup": "second-century",
@@ -5852,7 +5852,7 @@
       "id": "bostraAmphitheater",
       "properties": {
         "title": "Amphitheater at Bosra",
-        "amphitheatrum": "http://amphi-theatrum.de/2002.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2002.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions":{
@@ -5911,14 +5911,14 @@
       "id": "stMarcelAmphitheater",
       "properties": {
         "title": "Amphitheater at Saint Marcel",
-        "amphitheatrum": "http://amphi-theatrum.de/1618.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1618.html",
         "bibliography": "http://www.persee.fr/web/revues/home/prescript/article/galia-0016-4119-1968-num-26-2-2505",
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "certainty-qualifier": "location",
         "dimensions": {
           "exteriormajor": 80,
-          "sourcenote": "http://amphi-theatrum.de/1618.html"
+          "sourcenote": "https://amphi-theatrum.de/1618.html"
         },
         "chronogroup": "imperial",
         "label": "St. Marcel",
@@ -5942,7 +5942,7 @@
       "id": "metzAmphitheater",
       "properties": {
         "title": "Amphitheater at Metz",
-        "amphitheatrum": "http://amphi-theatrum.de/1395.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1395.html",
         "bibliography": "http://www.inrap.fr/preventive-archaeology/Events/Last-discoveries/p-1355-lg1-Excavation-of-the-amphitheatre-quarter-in-Metz.htm",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 30816, "sourcenote": "Golvin" },
@@ -6009,7 +6009,7 @@
       "id": "albengaAmphitheater",
       "properties": {
         "title": "Amphitheater at Albenga",
-        "amphitheatrum": "http://amphi-theatrum.de/1508.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1508.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3926, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -6330,7 +6330,7 @@
       "id": "ainHedjahAmphitheater",
       "properties": {
         "title": "Amphitheater at Ain Hedjah",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1312.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1312.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3000, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "second-century",
@@ -6395,7 +6395,7 @@
       "id": "uticaAmphitheater",
       "properties": {
         "title": "Amphitheater at Utica",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2503.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2503.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 17100},
         "chronogroup": "hadrianic",
@@ -6429,7 +6429,7 @@
       "id": "tebourbaAmphitheater",
       "properties": {
         "title": "Amphitheater at Thuburbo Minus",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1341.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1341.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dimensions":{
@@ -6458,7 +6458,7 @@
       "id": "hencherElKasbatAmphitheater",
       "properties": {
         "title": "Amphitheater at Henchir el Kasbat",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1340.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1340.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7500},
         "chronogroup": "second-century",
@@ -6521,7 +6521,7 @@
       "id": "hencherZembraAmphitheater",
       "properties": {
         "title": "Amphitheater at Henchir Zembra",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1346.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1346.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 5400},
         "chronogroup": "second-century",
@@ -6556,7 +6556,7 @@
       "id": "botriaAmphitheater",
       "properties": {
         "title": "Amphitheater at Botria",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1311.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1311.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 11600, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "second-century",
@@ -6625,7 +6625,7 @@
       "id": "bullaRegiaAmphitheater",
       "properties": {
         "title": "Amphitheater at Bulla Regia",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1314.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1314.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 9700, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "late-second-century",
@@ -6659,7 +6659,7 @@
       "id": "pupputAmphitheater",
       "properties": {
         "title": "Amphitheater at Pupput",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1326.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1326.html",
         "buildingtype": "amphitheater",
         "capacity": { "unknown": true},
         "chronogroup": "imperial",
@@ -6692,7 +6692,7 @@
       "id": "siccaVeneriaAmphitheater",
       "properties": {
         "title": "Amphitheater at Sicca Veneria",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1329.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1329.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 11300},
         "chronogroup": "imperial",
@@ -6727,7 +6727,7 @@
       "id": "thibariAmphitheater",
       "properties": {
         "title": "Amphitheater at Thibari",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1337.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1337.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6300},
         "chronogroup": "imperial",
@@ -6852,7 +6852,7 @@
       "id": "hisaryaAmphitheater",
       "properties": {
         "title": "Amphitheater at Hisarya",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2003.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2003.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -6882,7 +6882,7 @@
       "id": "mesarafeltaAmphitheater",
       "properties": {
         "title": "Amphitheater at Mesarfelta",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1446.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1446.html",
         "bibliography":[{"bibliographiccitation":"Baradez, J. “Deux Amphithéâtres Inédits Du Limes de Numidie, Gemellae et Mesarfelta.” In Mélanges d’archéologie, d’épigraphie et d’histoire Offerts à J. Carcopino, 55–69. Paris: Hachette, 1966.","zoteroitem":"FPC6XYXG"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
@@ -6912,7 +6912,7 @@
       "id": "tigavaCastraAmphitheater",
       "properties": {
         "title": "Amphitheater at Tigava Castra",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1498.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1498.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2300},
         "chronogroup": "second-century",
@@ -6946,7 +6946,7 @@
       "id": "carpisAmphitheater",
       "properties": {
         "title": "Amphitheater at Carpis",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1316.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1316.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "comment": "Specific location not known.",
@@ -7070,7 +7070,7 @@
       "id": "faleriiNoviAmphitheater",
       "properties": {
         "title": "Amphitheater at Falerii Novi",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1545.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1545.html",
         "bibliography": "http://dx.doi.org/10.1017/S0068246200000799",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7986, "sourcenote": "Golvin"},
@@ -7108,7 +7108,7 @@
       "id": "riminiAmphitheater",
       "properties": {
         "title": "Amphitheater at Rimini",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1404.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1404.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13967, "sourcenote": "Golvin"},
         "chronogroup": "hadrianic",
@@ -7178,7 +7178,7 @@
       "id": "venosaAmphitheater",
       "properties": {
         "title": "Amphitheater at Venosa",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1517.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1517.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10602, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -7211,7 +7211,7 @@
       "id": "teramoAmphitheater",
       "properties": {
         "title": "Amphitheater at Teramo",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1406.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1406.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -7469,7 +7469,7 @@
       "id": "zagaroloLudus",
       "properties": {
         "title": "Zagarolo Ludus",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2089.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2089.html",
         "buildingtype": "practice-arena",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24338",
@@ -7694,7 +7694,7 @@
       "id": "aureliumCommodianumAmphitheater",
       "properties": {
         "title": "Aurelium Commodianum Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1356.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1356.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dare": "http://dare.ht.lu.se/places/24707",
@@ -7754,7 +7754,7 @@
       "id": "faleroneAmphitheater",
       "properties": {
         "title": "Falerone Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1525.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1525.html",
         "buildingtype": "amphitheater",
         "chronogroup": "julio-claudian",
         "dare": "http:// dare.ht.lu.se/places/24593",
@@ -7815,7 +7815,7 @@
       "id": "frosinoneAmphitheater",
       "properties": {
         "title": "Frosinone Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1531.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1531.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/23945",
@@ -7845,7 +7845,7 @@
       "id": "ruggeAmphitheater",
       "properties": {
         "title": "Rugge Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2217.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2217.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24311",
@@ -7874,7 +7874,7 @@
       "id": "egnaziaAmphitheater",
       "properties": {
         "title": "Egnazia Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1610.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1610.html",
         "buildingtype": "amphitheater",
         "chronogroup": "third-century",
         "dare": "http://dare.ht.lu.se/places/24251",
@@ -7904,7 +7904,7 @@
       "id": "canosaAmphitheater",
       "properties": {
         "title": "Canosa Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1607.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1607.html",
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -7912,7 +7912,7 @@
         "dimensions": {
            "exteriormajor": 138,
            "exteriorminor": 106,
-           "source": "http://www.amphi-theatrum.de/1607.html"
+           "source": "https://amphi-theatrum.de/1607.html"
         },
         "exclude": true,
         "label": "Canosa",
@@ -7936,7 +7936,7 @@
       "id": "sipontoAmphitheater",
       "properties": {
         "title": "Siponto Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2222.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2222.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24627",
@@ -7974,7 +7974,7 @@
            "exteriorminor": {"unknown": true},
            "arenamajor": 59,
            "arenaminor": 41,
-           "source": "http://www.amphi-theatrum.de/2047.html"
+           "source": "https://amphi-theatrum.de/2047.html"
         },
         "label": "Chieti",
         "latintoponym": "Teate Marrucinorum",
@@ -8027,7 +8027,7 @@
       "id": "henchirDuomaAmphitheater",
       "properties": {
         "title": "Henchir Douama Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1345.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1345.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -8057,7 +8057,7 @@
       "id": "ainToungaAmphitheater",
       "properties": {
         "title": "Ain Tounga Amphitheater",
-        "amphitheatrum": "http://www.amphi-theatrum.de/1532.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1532.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3000, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -8279,7 +8279,7 @@
       "id": "sanGiovanniAmphitheater",
       "properties": {
         "title": "Amphitheater at San Giovanni in Carico",
-        "amphitheatrum": "http://www.amphi-theatrum.de/2084.html",
+        "amphitheatrum": "https://amphi-theatrum.de/2084.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24623",
