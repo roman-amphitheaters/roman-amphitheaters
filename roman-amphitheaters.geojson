@@ -1595,10 +1595,11 @@
       "id": "charterhouseAmphitheater",
       "properties": {
         "title": "Amphitheater at Charterhouse",
+        "amphitheatrum": "https://amphi-theatrum.de/1441.html",
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
-        "comment": "Golvin's dimentions are updated by Amphitheatrum so capacity recorded as ‘unknown’ and need to be estimated.",
+        "comment": "Golvin's dimensions are updated by Amphitheatrum so capacity recorded as ‘unknown’ and need to be estimated.",
         "dimensions": {
           "exteriormajor": 70,
           "exteriorminor": 61,
@@ -1628,6 +1629,7 @@
       "id": "chesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Chester",
+        "amphitheatrum": "https://amphi-theatrum.de/1437.html",
         "bibliography": [{"bibliographiccitation":"Wilmott, Tony, D. J Garner, Julian Baum, and John Vallender. The Roman amphitheatre of Chester, 2018.","zoteroitem":"CW8ICQUU"},{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
 "https://www.academia.edu/4403653/Chester-amphitheatre-excavations-in-2000"],
         "buildingtype": "amphitheater",
@@ -1664,6 +1666,7 @@
       "id": "gennesAmphitheater",
       "properties": {
         "title": "Amphitheater at Gennes",
+        "amphitheatrum": "https://amphi-theatrum.de/2554.html",
         "buildingtype": "gallo-roman-amphitheater",
         "capacity": {"quantity": 5000},
         "chronogroup": "second-century",
@@ -1692,6 +1695,7 @@
       "id": "scythopolisNysaAmphitheater",
       "properties": {
         "title": "Amphitheater at Scythopolis/Nysa",
+        "amphitheatrum": "https://amphi-theatrum.de/2402.html",
         "buildingtype": "arena-in-hippodrome",
         "chronogroup": "imperial",
         "exclude": true,
@@ -1781,6 +1785,7 @@
       "id": "oudnaAmphitheater",
       "properties": {
         "title": "Amphitheater at Oudna",
+        "amphitheatrum": "https://amphi-theatrum.de/1347.html",
         "buildingtype": "amphitheater",
         "created":120,
         "capacity": {"quantity": 11832, "sourcenote": "Golvin"},
@@ -4057,6 +4062,7 @@
       "id": "ptolemaisAmphitheater",
       "properties": {
         "title": "Amphitheater at Ptolemais",
+        "amphitheatrum": "https://amphi-theatrum.de/1509.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10878},
         "chronogroup": "imperial",
