@@ -963,6 +963,7 @@
       "id": "empuriesAmphitheater",
       "properties": {
         "title": "Amphitheater at Empuries",
+        "amphitheatrum": "https://amphi-theatrum.de/1520.html",
         "buildingtype": "amphitheater",
         "created":50,
         "capacity": {"quantity": 3343, "sourcenote": "Golvin"},
@@ -994,6 +995,7 @@
       "id": "tarragonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Tarragona",
+        "amphitheatrum": "https://amphi-theatrum.de/1497.html",
         "bibliography": {"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zoteroitem": "G4XUN8AQ"},
         "buildingtype": "amphitheater",
         "created":100,
@@ -1029,6 +1031,7 @@
       "id": "cagliariAmphitheater",
       "properties": {
         "title": "Amphitheater at Cagliari",
+        "amphitheatrum": "https://amphi-theatrum.de/1377.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 12283, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -1045,10 +1048,10 @@
         "label": "Cagliari",
         "lastuse": {"date": 425, "comment": "http://www.academicroom.com/sites/default/files/article/231/Simon+Keay,+Recent+Archaeological+Work+in+Roman+Iberia.pdf"},
         "latintoponym": "Carales",
+        "moderncountry": "Italy",
         "orientation": 235,
         "periodo": "http://n2t.net/ark:/99152/p0wf3wdp4xt",
         "pleiades": "https://pleiades.stoa.org/places/471899",
-        "moderncountry": "Italy",
         "province": "corsica-et-sardinia",
         "wikipedia": "http://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Cagliari"
       },
@@ -1066,6 +1069,7 @@
       "id": "italicaAmphitheater",
       "properties": {
         "title": "Amphitheater at Italica",
+        "amphitheatrum": "https://amphi-theatrum.de/2740.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "created": 140,
@@ -1098,6 +1102,7 @@
       "id": "segobrigaAmphitheater",
       "properties": {
         "title": "Amphitheater at Segobriga",
+        "amphitheatrum": "https://amphi-theatrum.de/1516.html",
         "bibliography":[{"bibliographiccitation":"Galindo, M., S. Girón, and R. Cebrián. “Acoustics of Performance Buildings in Hispania: The Roman Theatre and Amphitheatre of Segobriga, Spain.” Applied Acoustics 166 (September 1, 2020): 107373. https://doi.org/10.1016/j.apacoust.2020.107373.","zoteroitem":"L98ZXTFU"}],
         "buildingtype": "amphitheater",
         "created":90,
@@ -1131,6 +1136,7 @@
       "id": "cataniaAmphitheater",
       "properties": {
         "title": "Amphitheater at Catania",
+        "amphitheatrum": "https://amphi-theatrum.de/2635.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 16000},
         "chronogroup": "imperial",
@@ -1163,6 +1169,7 @@
       "id": "paestumAmphitheater",
       "properties": {
         "title": "Amphitheater at Paestum",
+        "amphitheatrum": "https://amphi-theatrum.de/1468.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "commonsimage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Paestum_BW_2013-05-17_13-16-32.jpg/1024px-Paestum_BW_2013-05-17_13-16-32.jpg",
@@ -1198,6 +1205,7 @@
       "id": "luniAmphitheater",
       "properties": {
         "title": "Amphitheater at Luni",
+        "amphitheatrum": "https://amphi-theatrum.de/1543.html",
         "bibliography":[{"bibliographiccitation":"Fazzini, Paolo, and Marina Maffei. “The Disappearance of the City of Luni.” Journal of Cultural Heritage 1, no. 3 (November 2, 2000): 247–60. https://doi.org/10.1016/S1296-2074(00)01081-5 .","zoteroitem":"P8RB27QW"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3326, "sourcenonte": "Golvin"},
@@ -1230,6 +1238,7 @@
       "id": "cassinoAmphitheater",
       "properties": {
         "title": "Amphitheater at Cassino",
+        "amphitheatrum": "https://amphi-theatrum.de/1513.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7840, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
