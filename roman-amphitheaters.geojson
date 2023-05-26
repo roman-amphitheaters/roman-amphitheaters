@@ -3324,8 +3324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates":[
-          5.522904,
-          34.636598,
+          5.522992,
+          34.635435,
           83
         ],
         "comment": "Location is of fort as a proxy for amphitheater."
@@ -3402,6 +3402,7 @@
       "id": "carmonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Carmona",
+        "amphitheatrum": "https://amphi-theatrum.de/1471.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 18350, "sourcenote": "https://amphi-theatrum.de/1471.html"},
         "created": -50,
@@ -3528,6 +3529,7 @@
       "id": "antiochAmphitheater",
       "properties": {
         "title": "Amphitheater at Antioch",
+        "amphitheatrum": "https://amphi-theatrum.de/2603.html",
         "created": -50,
         "buildingtype": "amphitheater",
         "chronogroup": "caesarean",
@@ -3669,6 +3671,7 @@
       "id": "carmarthenAmphitheater",
       "properties": {
         "title": "Amphitheater at Carmarthen",
+        "amphitheatrum": "https://amphi-theatrum.de/1440.html",
         "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
@@ -3732,6 +3735,7 @@
       "id": "tomen-y-murAmphitheater",
       "properties": {
         "title": "Amphitheater at Tomen y Mur",
+        "amphitheatrum": "https://amphi-theatrum.de/1439.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2772, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
