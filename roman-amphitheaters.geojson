@@ -1308,6 +1308,7 @@
       "id": "flaviaSolvaAmphitheater",
       "properties": {
         "title": "Amphitheater at Flavia Solva",
+        "amphitheatrum": "https://amphi-theatrum.de/1455.html",
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 2729, "sourcenote": "Golvin"},
@@ -1374,6 +1375,7 @@
       "id": "parisAmphitheater",
       "properties": {
         "title": "Amphitheater at Paris",
+        "amphitheatrum": "https://theatrum.de/887.html",
         "buildingtype": "gallo-roman-amphitheater",
         "capacity": {"quantity": 15000},
         "chronogroup": "flavian",
@@ -1405,6 +1407,7 @@
       "id": "octodurusForumClaudiiVallensiumAmphitheater",
       "properties": {
         "title": "Amphitheater at Octodurus/Forum Claudii Vallensium",
+        "amphitheatrum": "https://amphi-theatrum.de/1489.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15550, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -3070,6 +3073,7 @@
           "chronogroup": "julio-claudian",
           "created": 50
         },
+        "amphitheatrum": "https://amphi-theatrum.de/1454.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 583","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15142, "sourcenote": "Golvin"},
@@ -3102,6 +3106,7 @@
       "id": "thysdrusSmallAmphitheater",
       "properties": {
         "title": "Small Amphitheater at Thysdrus",
+        "amphitheatrum": "https://amphi-theatrum.de/1344.html",
         "buildingtype": "amphitheater",
         "created": 125,
         "capacity": {"quantity": 9000},
@@ -3138,6 +3143,7 @@
       "id": "thysdrusAmphitheater",
       "properties": {
         "title": "Amphitheater at Thysdrus",
+        "amphitheatrum": "https://amphi-theatrum.de/1343.html",
         "buildingtype": "amphitheater",
         "pleiades": "https://pleiades.stoa.org/places/324835",
         "created": 238,
@@ -3238,6 +3244,7 @@
       "id": "leptiminusAmphitheater",
       "properties": {
         "title": "Amphitheater at Leptiminus",
+        "amphitheatrum": "https://amphi-theatrum.de/1322.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 9100, "sourcenote": "Bomgarder. Story. Page 191."},
         "chronogroup": "second-century",
@@ -3767,6 +3774,7 @@
       "id": "thaenaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Thaenae",
+        "amphitheatrum": "https://amphi-theatrum.de/1332.html",
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "created": 125,
@@ -3799,6 +3807,7 @@
       "id": "sbeitlaAmphitheater",
       "properties": {
         "title": "Amphitheater at Sbeitla",
+        "amphitheatrum": "https://amphi-theatrum.de/1331.html",
         "buildingtype": "amphitheater",
         "created": 160,
         "capacity": {"quantity": 6500},
@@ -3866,6 +3875,7 @@
       "id": "trierAmphitheater",
       "properties": {
         "title": "Amphitheater at Trier",
+        "amphitheatrum": "https://amphi-theatrum.de/1494.html",
         "buildingtype": "amphitheater",
         "bibliography": [{"bibliographiccitation":"Kuhnen, Hahns-Peter. “The Trier Amphitheatre; An Ancient Monument in the Light of New Research.” In Roman Amphitheatres and Spectacula, a 21st -Century Perspective: Papers from an International Conference Held at Chester, 16th-18th February, 2007, edited by Tony Wilmott, 95–104. Oxford: Archaeopress, 2009.", "zoteroitem":"VSSBREEF"}],
         "created": 200,
@@ -3903,6 +3913,7 @@
       "id": "susaAmphitheater",
       "properties": {
         "title": "Amphitheater at Susa",
+        "amphitheatrum": "https://amphi-theatrum.de/1494.html",
         "chronogroup": "imperial",
         "created": -20,
         "buildingtype": "amphitheater",
@@ -4108,6 +4119,7 @@
       "id": "toulouseAmphitheater",
       "properties": {
         "title": "Amphitheater at Toulouse",
+        "amphitheatrum": "https://amphi-theatrum.de/1524.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 16336, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
