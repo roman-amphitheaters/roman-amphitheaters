@@ -7314,6 +7314,7 @@
       "id": "ordonaAmphitheater",
       "properties": {
         "title": "Amphitheater at Ordona",
+        "amphitheatrum": "https://amphi-theatrum.de/1488.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6318, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
@@ -8867,6 +8868,34 @@
                7.721596,
                47.540822,
                482
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "ammaiaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Ammaia",
+        "amphitheatrum": "https://amphi-theatrum.de/3020.html",
+        "bibliography": "http://www.ammaia.pt/noticias,12,698,detalhe.aspx",
+        "buildingtype": "amphitheater",
+        "chronogroup":"imperial",
+        "dimensions": {
+           "exteriormajor": 60
+        },
+        "label": "Ammaia",
+        "latintoponym": "Ammaia",
+        "moderncountry": "Portugal",
+        "pleiades": "https://pleiades.stoa.org/places/255975",
+        "province": "lusitania",
+        "visibility": "good" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+               7.721596,
+               -7.391970,
+               566
 
         ],
         "source": "https://maps.google.com"
