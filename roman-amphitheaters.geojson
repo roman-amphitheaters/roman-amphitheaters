@@ -8256,6 +8256,7 @@
       "id": "pollenzoAmphitheater",
       "properties": {
         "title": "Amphitheater at Pollenzo",
+        "amphitheatrum": "https://amphi-theatrum.de/1391.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24620",
@@ -8374,6 +8375,7 @@
       "id": "suessaAruncaAmphitheater",
       "properties": {
         "title": "Amphitheater at Suessa Arunca",
+        "amphitheatrum": "https://amphi-theatrum.de/2833.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dare": "http://dare.ht.lu.se/places/16715",
@@ -8456,6 +8458,7 @@
       "id": "yorkAmphitheater",
       "properties": {
         "title": "Amphitheater at York",
+        "amphitheatrum": "https://amphi-theatrum.de/1753.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -8511,6 +8514,7 @@
       "id": "istanbulAmphitheater",
       "properties": {
         "title": "Amphitheater at Istanbul",
+        "amphitheatrum": "https://amphi-theatrum.de/1735.html",
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "imperial",
@@ -8537,6 +8541,7 @@
       "id": "chichesterAmphitheater",
       "properties": {
         "title": "Amphitheater at Chichester",
+        "amphitheatrum": "https://amphi-theatrum.de/1492.html",
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "flavian",
