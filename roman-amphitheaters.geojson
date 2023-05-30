@@ -638,6 +638,7 @@
       "id": "carthageAmphitheater",
       "properties": {
         "title": "Amphitheater at Carthage",
+        "amphitheatrum": "https://amphi-theatrum.de/1309.html",
         "bibliography":[{"bibliographiccitation":"Rossiter, Jeremy. “In Ampitζatru Carthaginis: The Carthage Amphitheatre and Its Uses.” Journal of Roman Archaeology 29 (ed 2016): 239–58. https://doi.org/10.1017/S1047759400072123.","zoteroitem":"5V8IDURU"},
                         {"bibliographiccitation": "Bomgardner, David L. 1989. “The Carthage Amphitheater: A Reappraisal.” American Journal of Archaeology 93 (1): 85–103. https://doi.org/10.2307/505400.", "zoteroitem": "FYP7DD5A"}],
         "buildingtype": "amphitheater",
@@ -1271,6 +1272,7 @@
       "id": "viminaciumAmphitheater",
       "properties": {
         "title": "Amphitheater at Viminacium",
+        "amphitheatrum": "https://amphi-theatrum.de/2572.html",
         "bibliography": [
          {"bibliographiccitation":"Nikolić, Snežana, and Ivan Bogdanović. “Recent Excavations on the Amphitheatre of Viminacium (Upper Moesia).” In Limes XXII: Proceedings of the 22nd International Congress of Roman Frontier Studies, Ruse, Bulgaria, September 2012, 547–55. Sophia: National Archaeological Institute with Bulgarian Academy of Sciences, n.d.",
          "zoteroitem":"SL2QKBGS"},
@@ -1505,6 +1507,7 @@
       "id": "luceraAmphitheater",
       "properties": {
         "title": "Amphitheater at Lucera",
+        "amphitheatrum": "https://amphi-theatrum.de/1436.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 17149, "sourcenote": "Golvin"},
         "chronogroup": "augustan",
@@ -1832,6 +1835,7 @@
       "id": "carthagoNovaAmphitheater",
       "properties": {
         "title": "Amphitheater at Carthago Nova/Col. Urbs Iulia",
+        "amphitheatrum": "https://amphi-theatrum.de/1613.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -1861,6 +1865,7 @@
       "id": "virunumAmphitheater",
       "properties": {
         "title": "Amphitheater at Virunum",
+        "amphitheatrum": "https://amphi-theatrum.de/1501.html",
         "buildingtype": "amphitheater",
         "bibliography":[{"bibliographiccitation":"Groh, Stefan. “Amphitheater in Noricum.” Jahreshefte Des Österreichischen Archäologischen Institutes in Wien 74 (2005): 85–102.","zoteroitem":"EGZ5XRE9"}],
         "capacity": {"unknown": true},
@@ -1892,6 +1897,7 @@
       "id": "carsulaeAmphitheater",
       "properties": {
         "title": "Amphitheater at Carsulae",
+        "amphitheatrum": "https://amphi-theatrum.de/1512.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 5945, "sourcenote": "Golvin"},
         "chronogroup": "late-first-century",
@@ -1925,8 +1931,8 @@
       "id": "florenceAmphitheater",
       "properties": {
         "title": "Amphitheater at Florence",
-        "buildingtype": "amphitheater",
         "amphitheatrum": "https://amphi-theatrum.de/1387.html",
+        "buildingtype": "amphitheater",
         "chronogroup": "hadrianic",
         "dimensions": {
            "exteriormajor": 113,
@@ -1958,6 +1964,7 @@
       "id": "ocriculumAmphitheater",
       "properties": {
         "title": "Amphitheater at Ocriculum",
+        "amphitheatrum": "https://amphi-theatrum.de/2878.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 17812, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -2019,6 +2026,7 @@
       "id": "arezzoAmphitheater",
       "properties": {
         "title": "Amphitheater at Arezzo",
+        "amphitheatrum": "https://amphi-theatrum.de/1398.html",
         "buildingtype": "amphitheater",
         "created": 80,
         "capacity": {"quantity": 8000},
@@ -2212,6 +2220,7 @@
       "id": "hydataHypsitanaForumTraianiAmphitheater",
       "properties": {
         "title": "Amphitheater at Hydata Hypsitana/Forum Traiani",
+        "amphitheatrum": "https://amphi-theatrum.de/2959.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -2301,6 +2310,7 @@
       "id": "veronaAmphitheater",
       "properties": {
         "title": "Amphitheater at Verona",
+        "amphitheatrum": "https://amphi-theatrum.de/1369.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 30000},
         "created":30,
@@ -7698,6 +7708,7 @@
       "id": "aquaeNeriAmphitheater",
       "properties": {
         "title": "Aquae Neri Amphitheater",
+        "amphitheatrum": "",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3926, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
@@ -7763,6 +7774,7 @@
       "id": "jebelMorabaAmphitheater",
       "properties": {
         "title": "Jebel Moraba Amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1317.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dare": "http://dare.ht.lu.se/places/24708",
