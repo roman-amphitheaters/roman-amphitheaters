@@ -5681,6 +5681,7 @@
       "id": "sopronAmphitheater",
       "properties": {
         "title": "Amphitheater at Sopron",
+        "amphitheatrum": "https://amphi-theatrum.de/1456.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5739,6 +5740,7 @@
       "id": "bernAmphitheater",
       "properties": {
         "title": "Amphitheater at Bern",
+        "amphitheatrum": "https://amphi-theatrum.de/1495.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "capacity": {"quantity": 1946, "sourcenote": "Golvin"},
@@ -6122,6 +6124,7 @@
       "id": "bourgesAmphitheater",
       "properties": {
         "title": "Amphitheater at Bourges",
+        "amphitheatrum": "https://amphi-theatrum.de/1380.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 585","zoteroitem":"LD7NNHSG"},
         {"bibliographiccitation":"Greenhalgh, Michael. 2015. Destruction of Cultural Heritage in 19th-Century France: Old Stones versus Modern Identities. Brill.", "withincitation":"p. 160","zoteroitem":"RSZQINZZ"}],
         "buildingtype": "amphitheater",
@@ -6282,6 +6285,7 @@
       "id": "bekaltaAmphitheater",
       "properties": {
         "title": "Amphitheater at Bekalta",
+        "amphitheatrum": "https://amphi-theatrum.de/1333.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4400},
         "chronogroup": "second-century",
@@ -7050,6 +7054,7 @@
       "id": "augustaBagiennorumAmphitheater",
       "properties": {
         "title": "Amphitheater at Augusta Benniorum",
+        "amphitheatrum": "https://amphi-theatrum.de/1511.html",
         "bibliography": ["http://www.piemonte.beniculturali.it/index.php/en/i-luoghi-della-cultura/aree-archeologiche/augusta-bagiennorum",
            "http://cipa.icomos.org/fileadmin/template/doc/ATHENS/FP025.pdf"],
         "buildingtype": "amphitheater",
@@ -8156,6 +8161,7 @@
         "latintoponym": "Alalia",
         "moderncountry": "France",
         "pleiades": "https://pleiades.stoa.org/places/472048",
+        "pleiadesspecific": "https://pleiades.stoa.org/places/611814584",
         "province": "corsica-et-sardinia",
         "visibility": "good"
          },
@@ -8737,6 +8743,7 @@
       "id": "avenchesAmphitheater",
       "properties": {
         "title": "Amphitheater at Avenches",
+        "amphitheatrum": "https://amphi-theatrum.de/2723.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 593","zoteroitem":"LD7NNHSG"},{"bibliographiccitation":"Pury-Gysel, Anne de. “Aventicum (Avenches), Capital of the Helvetii: A History of Research, 1985-2010. Part II. Urban Development after A.D. 100, Crafts, and Finds.” Journal of Roman Archaeology 25 (ed 2012): 259–96. https://doi.org/10.1017/S1047759400001215 .","zoteroitem":"IXEVHMQK"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 13006, "sourcenote": "Golvin"},
