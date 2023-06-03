@@ -2174,6 +2174,7 @@
         },
         "hypogeum": true,
         "label": "Allifae",
+        "latintoponym": "Allifae",
         "moderncountry": "Italy",
         "orientation": 213,
         "pleiades": "https://pleiades.stoa.org/places/432658",
@@ -2237,6 +2238,7 @@
           "comment": "Partial visibility so approzimate measurements."
         },
         "label": "Forum Traiani",
+        "latintoponym": "Forum Traiani",
         "moderncountry": "Italy",
         "orientation": 209,
         "pleiades": "https://pleiades.stoa.org/places/471947",
@@ -2352,6 +2354,7 @@
       "id": "aquincumCivilAmphitheater",
       "properties": {
         "title": "Civil Amphitheater at Budapest",
+        "amphitheatrum": "https://amphi-theatrum.de/1457.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": "8617", "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -2386,6 +2389,7 @@
       "id": "aquincumMilitaryAmphitheater",
       "properties": {
         "title": "Military Amphitheater at Budapest",
+        "amphitheatrum": "https://amphi-theatrum.de/1458.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": "16049", "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -2485,6 +2489,7 @@
       "id": "cividateCamunoAmphitheater",
       "properties": {
         "title": "Amphitheater at Cividate Camuno",
+        "amphitheatrum": "https://amphi-theatrum.de/2945.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -2497,6 +2502,7 @@
         "moderncountry": "Italy",
         "orientation": 152,
         "pleiades": "https://pleiades.stoa.org/places/383617",
+        "pleaidesspecific": "https://pleiades.stoa.org/places/853249147",
         "region": "regio-x"
       },
       "geometry": {
@@ -2548,6 +2554,7 @@
       "id": "albaFucensAmphitheater",
       "properties": {
         "title": "Amphitheater at Alba Fucens",
+        "amphitheatrum": "https://amphi-theatrum.de/1487.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10720, "sourcenote": "Golvin"},
         "chronogroup": "julio-claudian",
@@ -2616,6 +2623,7 @@
       "id": "sutriumAmphitheater",
       "properties": {
         "title": "Amphitheater at Sutrium",
+        "ampitheatrum": "https://amphi-theatrum.de/1469.html",
         "pleiades": "https://pleiades.stoa.org/places/413328",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 8500},
@@ -5718,6 +5726,7 @@
       "id": "nyonAmphitheater",
       "properties": {
         "title": "Amphitheater at Nyon",
+        "amphitheatrum": "https://amphi-theatrum.de/1905.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -6647,6 +6656,7 @@
       "id": "tipasaAmphitheater",
       "properties": {
         "title": "Amphitheater at Tipasa",
+        "amphitheatrum": "https://amphi-theatrum.de/1536.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 4398, "sourcenote": "Golvin"},
         "chronogroup": "late-second-century",
@@ -6881,6 +6891,7 @@
       "id": "statiliusTaurusAmphitheater",
       "properties": {
         "title": "Amphitheater of Statilius Taurus",
+        "amphitheatrum": "https://amphi-theatrum.de/1476.html",
         "buildingtype": "amphitheater",
         "chronogroup": "augustan",
         "created": -24,
@@ -8931,6 +8942,35 @@
               -7.391970,
                39.369905,
                566
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "contributaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Contributa Iulia Ugultunia",
+        "amphitheatrum": "https://amphi-theatrum.de/3093.html",
+        "bibliography": "https://doi.org/10.3989/aespa.089.016.012",
+        "buildingtype": "amphitheater",
+        "chronogroup":"imperial",
+        "dimensions": {
+           "exteriormajor": 72,
+           "exteriorminoe": 65
+        },
+        "label": "Contributa",
+        "latintoponym": "Contributa Iulia Ugultunia",
+        "moderncountry": "Spain",
+        "pleiades": "https://pleiades.stoa.org/places/256126?searchterm=contributa",
+        "province": "baetica",
+        "visibility": "poor" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+            -6.389320,
+            38.347751,
+            501
 
         ],
         "source": "https://maps.google.com"
