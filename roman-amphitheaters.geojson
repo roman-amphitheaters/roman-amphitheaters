@@ -109,7 +109,7 @@
         "exclude": true,
         "golvinid": "129",
         "hypogeum": false,
-        "label": "Dura",
+        "label": "Dura Europos",
         "latintoponym": "Dura Europus",
         "military": true,
         "orientation": 245,
@@ -1629,6 +1629,7 @@
          },
         "golvinid": "32",
         "label": "Charterhouse",
+        "latintoponym": "Ischalis",
         "moderncountry": "United Kingdom",
         "orientation": 270,
         "pleiades": "https://pleiades.stoa.org/places/79534",
@@ -2034,6 +2035,7 @@
       "properties": {
         "title": "Amphitheater at Arezzo",
         "amphitheatrum": "https://amphi-theatrum.de/1398.html",
+        "bibliography": [{"zoterocitationkey": "tosiEdificiSpettacoliNell2003", "page": "397"}],
         "buildingtype": "amphitheater",
         "created": 80,
         "capacity": {"quantity": 8000},
@@ -2332,7 +2334,7 @@
           "sourcenote": "Bomgardner"
          },
         "label": "Verona",
-        "latintoponym": "verona",
+        "latintoponym": "Verona",
         "moderncountry": "Italy",
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/383816",
@@ -2425,6 +2427,7 @@
       "id": "aldburoughAmphitheater",
       "properties": {
         "title": "Amphitheater at Aldborough",
+        "amphitheatrum": "https://amphi-theatrum.de/1499.html",
         "bibliography": [{"bibliographiccitation": "Deniger, Véronique. 1997. “Amphitheatres of Roman Britain: A Study of Their Classes, Architecture and Uses.” Kingston: Queens’s University."}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -2588,6 +2591,7 @@
       "id": "augstAmphitheater",
       "properties": {
         "title": "Amphitheater at Augst",
+        "amphitheatrum": "https://amphi-theatrum.de/1411.html",
         "bibliography":[{"bibliographiccitation":"Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.", "withincitation":"p. 585","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "created": 170,
@@ -2705,6 +2709,7 @@
         },
         "golvinid": "181",
         "label": "Salona",
+        "latintoponym": "Salona",
         "moderncountry": "Croatia",
         "orientation": 93,
         "pleiades": "https://pleiades.stoa.org/places/197488",
@@ -2724,6 +2729,7 @@
       "id": "londonAmphitheater",
       "properties": {
         "title": "Amphitheater at London",
+        "amphitheatrum": "https://amphi-theatrum.de/1972.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6500},
@@ -2765,6 +2771,7 @@
           "source": "http://maps.google.com/"
           },
         "label": "Tibur",
+        "latintoponym": "Tibur",
         "moderncountry": "Italy",
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/423081",
@@ -2784,6 +2791,7 @@
       "id": "caerleonAmphitheater",
       "properties": {
         "title": "Amphitheater at Caerleon",
+        "amphitheatrum": "https://amphi-theatrum.de/1438.html",
         "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6000, "sourcenote": "Golvin"},
@@ -2921,6 +2929,7 @@
       "properties": {
         "title": "Amphitheater at Assisi",
         "amphitheatrum": "https://amphi-theatrum.de/1386.html",
+        "bibliography": [{"zoterocitationkey": "tosiEdificiSpettacoliNell2003", "withincitation": "p. 353" }],
         "buildingtype": "amphitheater",
         "chronogroup": "first-century",
         "dimensions": {
@@ -3001,6 +3010,7 @@
         "golvinid": "111",
         "hypogeum": true,
         "label": "Lambaesis",
+        "latintoponym": "Lambaesis",
         "military": true,
         "moderncountry": "Algeria",
         "orientation": 127,
@@ -3034,6 +3044,7 @@
         },
         "golvinid": "119",
         "label": "Mactaris",
+        "latintoponym": "Mactaris",
         "moderncountry": "Tunisia",
         "orientation": 250,
         "pleiades": "https://pleiades.stoa.org/places/324774",
@@ -3111,6 +3122,7 @@
          },
         "golvinid": "17",
         "label": "Vindonissa",
+        "latintoponym": "Vindonissa",
         "moderncountry": "Switzerland",
         "orientation": 241,
         "province": "germania-superior",
@@ -3146,6 +3158,7 @@
          },
         "golvinid": "112",
         "label": "Thysdrus (Sm.)",
+        "latintoponym": "Thysdrus",
         "moderncountry": "Tunisia",
         "orientation": 222,
         "pleiades": "https://pleiades.stoa.org/places/324835",
@@ -3186,6 +3199,7 @@
         "exclude": true,
         "golvinid": "186",
         "label": "Thysdrus (lg.)",
+        "latintoponym": "Thysdrus",
         "moderncountry": "Tunisia",
         "orientation": 257,
         "province": "proconsularis",
@@ -3251,6 +3265,7 @@
            "source": "http://maps.google.com/"
           },
         "label": "Gortyn",
+        "latintoponym": "Gortyna",
         "moderncountry": "Greece",
         "orientation": 218,
         "pleiades": "https://pleiades.stoa.org/places/589796",
@@ -3282,6 +3297,7 @@
         },
         "golvinid": "114",
         "label": "Leptiminus",
+        "latintoponym": "Leptiminus",
         "moderncountry": "Tunisia",
         "orientation": 133,
         "pleiades": "https://pleiades.stoa.org/places/324767",
@@ -3479,6 +3495,7 @@
           "sourcenote": "Golvin"
          },
         "label": "Caesarea",
+        "latintoponym": "Caesarea",
         "moderncountry": "Israel",
         "pleiades": "https://pleiades.stoa.org/places/678401",
         "province": "judaea"
@@ -3542,6 +3559,7 @@
           "source": "https://maps.google.com/"
         },
         "label": "Anazarbus",
+        "latintoponym": "Anazarbus",
         "moderncountry": "Turkey",
         "orientation": 178,
         "pleiades": "https://pleiades.stoa.org/places/658378",
@@ -3570,6 +3588,7 @@
           "unknown": true
         },
         "label": "Antioch",
+        "latintoponym": "Antiochia",
         "moderncountry": "Turkey",
         "pleiades": "https://pleiades.stoa.org/places/658381",
         "province": "syria",
@@ -3598,6 +3617,7 @@
           "exteriorminor": 100
         },
         "label": "Cyzicus",
+        "latintoponym": "Cyzicus",
         "moderncountry": "Turkey",
         "orientation": 184,
         "pleiades": "https://pleiades.stoa.org/places/511218",
@@ -3631,6 +3651,7 @@
            },
         "golvinid": "120",
         "label": "Sabratha",
+        "latintoponym": "Sabratha",
         "moderncountry": "Libya",
         "orientation": 105,
         "pleiades": "https://pleiades.stoa.org/places/344282",
@@ -3657,6 +3678,7 @@
           "unknown": true
         },
         "label": "Salamis",
+        "latintoponym": "Salamis",
         "moderncountry": "Cyprus",
         "pleiades": "https://pleiades.stoa.org/places/707617",
         "province": "cyprus"
@@ -3684,6 +3706,7 @@
           "comment": "Very approximate measurement using Google satellite imagery."
         },
         "label": "Paphos",
+        "latintoponym": "Nea Paphos",
         "moderncountry": "Cyprus",
         "orientation": 105,
         "pleiades": "https://pleiades.stoa.org/places/707586",
@@ -3780,6 +3803,7 @@
          },
          "golvinid": "31",
         "label": "Tomen y Mur",
+        "latintoponym": { "unknown": true},
         "moderncountry": "United Kingdom",
         "orientation": 192,
         "pleiades": "https://pleiades.stoa.org/places/142376597",
@@ -3813,6 +3837,7 @@
         },
         "golvinid": "71",
         "label": "Thaenae",
+        "latingtoponym": "Thaenae",
         "moderncountry": "Tunisia",
         "orientation": 143,
         "pleiades": "https://pleiades.stoa.org/places/324825",
@@ -4007,7 +4032,7 @@
       "id": "bararusAmphitheater",
       "properties": {
         "title": "Amphitheater at Bararus",
-        "amphithatrum": "https://amphi-theatrum.de/1313.html",
+        "amphitheatrum": "https://amphi-theatrum.de/1313.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 12100, "sourcenote": "Bomgardner, Story"},
         "chronogroup": "severan",
@@ -4022,7 +4047,8 @@
            },
         "exclude": true,
         "golvinid": "187",
-        "label": "Bararus",
+        "label": "Rougga",
+        "latingtoponym": "Bararus",
         "moderncountry": "Tunisia",
         "orientation": 244,
         "pleiades": "https://pleiades.stoa.org/places/324673",
@@ -4056,7 +4082,8 @@
         "emperor": "Septimius Severus",
         "exclude": true,
         "golvinid": "190",
-        "label": "Albana",
+        "label": "Albana Laziale",
+        "latintoponym": "Castra Albana",
         "military": true,
         "moderncountry": "Italy",
         "orientation": 93,
@@ -4124,6 +4151,7 @@
         },
         "golvinid": "76",
         "label": "Ptolemais",
+        "latintoponym": "Ptolemais", 
         "moderncountry": "Libya",
         "orientation": 241,
         "pleiades": "https://pleiades.stoa.org/places/373879",
@@ -4178,6 +4206,7 @@
       "id": "caparraAmphitheater",
       "properties": {
         "title": "Amphitheater at Caparra",
+        "amphitheatrum": "https://amphi-theatrum.de/2791.html",
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -4244,6 +4273,7 @@
           "sourcenote": "https://cordopolis.eldiario.es/cultura/patrimonio/emerge-yacimiento-ategua-anfiteatro-capacidad-6-000-personas_1_10021788.html"
         },
         "label": "Ategua",
+        "latintoponym": "Ategua",
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/265808"
       },
@@ -4261,7 +4291,8 @@
       "id": "lillebonnAmphitheater",
       "properties": {
         "title": "Amphitheater at Lillebonne",
-        "buildingtype": "amphitheater",
+        "amphitheatrum": "https://amphi-theatrum.de/1482.html",
+        "buildingtype": "gallo-roman-amphitheater",
         "chronogroup": "first-century",
         "capacity": {"quantity": 7245, "sourcenote": "Golvin"},
         "dimensions": {
@@ -4271,6 +4302,7 @@
           "arenaminor": 45,
           "sourcenote": "Golvin"
          },
+        "exclude": true,
         "golvinid": "19",
         "label": "Lillebonne",
         "latintoponym": "Iuliobona",
@@ -4485,6 +4517,7 @@
       "id": "aquileiaAmphitheater",
       "properties": {
         "title": "Amphitheater at Aquileia",
+        "amphitheatrum": "https://amphi-theatrum.de/2678.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 26114, "sourncenote": "Golvin"},
         "chronogroup": "flavian",
@@ -4865,6 +4898,7 @@
       "id": "beziersAmphitheater",
       "properties": {
         "title": "Amphitheater at Béziers",
+        "amphitheatrum": "https://amphi-theatrum.de/1405.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 643","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 8601, "sourcenote":"Golvin"},
@@ -5043,7 +5077,8 @@
         ],
         "source": "http://maps.google.com/"
       }
-    },{
+    },
+    {
       "type": "Feature",
       "id": "senlisAmphitheater",
       "properties": {
@@ -5076,6 +5111,42 @@
            2.575376,
            49.205169,
            64
+        ],
+        "source": "http://maps.google.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "tanetoAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Taneto",
+        "amphitheatrum": "https://amphi-theatrum.de/2774.html",
+        "bibliography": [{"bibliographicCitation": "Storchi, Paolo. 2014. “Tannetum: Mutamenti Ambientali, Considerazioni Storiche E Fotografia Aerea Per La Localizzazione Della Città E La Ricostruzione Del Territorio.” Agri Centuriati 11: 61–82.",
+                          "zoteritem": "B3MAIUMK"}],
+        "buildingtype": "amphitheater",
+        "capacity": {"unknown": true},
+        "chronogroup": "imperial",
+        "dimensions": {
+          "exteriormajor": 50,
+          "exteriorminor": 38,
+          "arenamajor": 40,
+          "arenaminor": 25,
+          "sourcenote": "Storchi 2014"
+         },
+        "label": "Taneto",
+        "latintoponym": "Tannetum",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/383791",
+        "region": "regio-viii",
+        "trismegistos": "https://www.trismegistos.org/place/40750",
+        "visibility": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":[
+          10.446891,
+          44.769490,
+          49
         ],
         "source": "http://maps.google.com/"
       }
@@ -5447,6 +5518,7 @@
       "id": "autunAmphitheater",
       "properties": {
         "title": "Amphitheater at Autun",
+        "amphitheatrum": "https://amphi-theatrum.de/2680.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": "32189", "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -5956,6 +6028,7 @@
         },
         "chronogroup": "imperial",
         "label": "Palmyra",
+        "latintoponym": "Palmyra",
         "moderncountry": "Syria",
         "pleiades": "https://pleiades.stoa.org/places/668331",
         "province": "syria",
@@ -6870,6 +6943,7 @@
            "arenamajor": 48,
            "arenaminor": 31
         },
+        "exclude": true,
         "label": "Montbouy",
         "moderncountry": "France",
         "orientation": 164,
@@ -8440,7 +8514,7 @@
       "properties": {
         "title": "Amphitheater at Altripalda",
         "amphitheatrum": "https://amphi-theatrum.de/1860.html",
-        "bibiography": "https://www.avellinotoday.it/cronaca/anfiteatro-romano-rinvenuto-a-via-appia-atripalda-immagini-del-cantiere-27-ottobre-2021.html",
+        "bibliography": "https://www.avellinotoday.it/cronaca/anfiteatro-romano-rinvenuto-a-via-appia-atripalda-immagini-del-cantiere-27-ottobre-2021.html",
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dare": "http://dare.ht.lu.se/places/21758",
@@ -8638,6 +8712,7 @@
       "id": "tharrosAmphitheater",
       "properties": {
         "title": "Amphitheater at Tharros",
+        "bibliography": [{"zoterocitationkey":"tosiEdificiSpettacoliNell2003", "withincitation": "p. 648"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "comment": "Brought to my attention by Eric Poehler",
@@ -8962,7 +9037,7 @@
         "label": "Contributa",
         "latintoponym": "Contributa Iulia Ugultunia",
         "moderncountry": "Spain",
-        "pleiades": "https://pleiades.stoa.org/places/256126?searchterm=contributa",
+        "pleiades": "https://pleiades.stoa.org/places/256126",
         "province": "baetica",
         "visibility": "poor" },
         "geometry": {
