@@ -4682,10 +4682,10 @@
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "dimensions": {
-          "exteriormajor": {"unknown": true},
-          "exteriorminor": {"unknown": true},
-          "arenamajor": {"unknown": true},
-          "arenaminor": {"unknown": true}
+          "exteriormajor": 94,
+          "exteriorminor": 66,
+          "arenamajor": 61,
+          "arenaminor": 35
         },
         "golvinid": "58",
         "label": "Monteleone",
@@ -6806,6 +6806,7 @@
         "comment": "So far, available information is incomplete. Site as proxy for location.",
         "dimensions": {
           "exteriormajor": {"unknown": true},
+          "exteriorminor": {"unknown": true},
           "arenamajor": 45,
           "arenaminor": 36,
           "sourcenote": "Golvin"
@@ -6834,7 +6835,7 @@
         "title": "Amphitheater at Sicca Veneria",
         "amphitheatrum": "https://amphi-theatrum.de/1329.html",
         "buildingtype": "amphitheater",
-        "capacity": {"quantity": 11300},
+        "capacity": {"quantity": 11300, "sourcenote": "Bomgardner"},
         "chronogroup": "imperial",
         "comment": "Not located. Near casbah.",
         "dimensions": {
@@ -8459,7 +8460,8 @@
       "properties": {
         "title": "Amphitheater at Megiddo",
         "buildingtype": "amphitheater",
-        "bibliography": [{"bibliographiccitation":"Tepper, Yotam. “Megiddo, Survey.” Hadashot Arkheologiyot: Excavations and Surveys in Isreal 125 (2013). http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390 .","zoteritem":"DNYUHQQP"}],
+        "bibliography": [{"bibliographiccitation":"Tepper, Yotam. “Megiddo, Survey.” Hadashot Arkheologiyot: Excavations and Surveys in Isreal 125 (2013). http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390 .","zoteritem":"DNYUHQQP"},
+                         {"bibliographiccitation":"https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/roman-training-ground/"}],
         "chronogroup": "imperial",
         "dimensions": {
            "exteriormajor": 70,
