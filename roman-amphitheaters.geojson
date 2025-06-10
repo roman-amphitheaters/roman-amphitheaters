@@ -10,7 +10,7 @@
     "MultiLineString": "geojson:MultiLineString",
     "MultiPoint": "geojson:MultiPoint",
     "MultiPolygon": "geojson:MultiPolygon",
-    "sPoint": "geojson:Point",
+    "Point": "geojson:Point",
     "Polygon": "geojson:Polygon",
     "bbox": {
       "@container": "@list",
@@ -37,7 +37,6 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "zotramphs": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/",
 
-    "@base": "http://purl.org/roman-amphitheaters/resource/",
     "@vocab": "http://purl.org/roman-amphitheaters/resource/",
    
     "amphitheatrum": {"@id": "ramphsprops:amphitheatrum","@type": "@id"},
@@ -9048,6 +9047,37 @@
             -6.389320,
             38.347751,
             501
+
+        ],
+        "source": "https://maps.google.com"
+      }
+    },{
+      "type": "Feature",
+      "id": "formiaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Formia",
+        "amphitheatrum": "https://amphi-theatrum.de/1603.html",
+        "bibliography": "Golvin, p. 252",
+        "buildingtype": "amphitheater",
+        "chronogroup":"imperial",
+        "dimensions": {
+          "exteriormajor": {"unknown": true},
+          "exteriorminor": {"unknown": true},
+          "interiormajor": {"unknown": true},
+          "interiorminor": {"unknown": true}
+        },
+        "label": "Formia",
+        "latintoponym": "Formiae",
+        "moderncountry": "Italy",
+        "pleiades": "https://pleiades.stoa.org/places/432839",
+        "region": "regio-i",
+        "visibility": "poor" },
+        "geometry": {
+          "type": "Point",
+          "coordinates":[
+            13.607631,
+            41.258366,
+            24
 
         ],
         "source": "https://maps.google.com"
