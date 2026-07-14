@@ -114,7 +114,8 @@
         "moderncountry": "Syria",
         "orientation": 245,
         "pleiades": "https://pleiades.stoa.org/places/893989",
-        "province": "syria"
+        "province": "syria",
+        "visibility": "good"
         },
       "geometry": {
         "type": "Point",
@@ -299,6 +300,7 @@
         "orientation": 188,
         "pleiades": "https://pleiades.stoa.org/places/423025",
         "region": "regio-i",
+        "visibility": "good",
         "wikipedia": "https://en.wikipedia.org/wiki/Amphitheatrum_Castrense"
       },
       "geometry": {
@@ -491,7 +493,8 @@
         "latintoponym": "Conimbriga",
         "moderncountry": "Portugal",
         "pleiades": "https://pleiades.stoa.org/places/236443",
-        "province": "lusitania"
+        "province": "lusitania",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -596,6 +599,7 @@
         "orientation": 218,
         "pleiades": "https://pleiades.stoa.org/places/432815",
         "region": "regio-i",
+        "visibility": "none",
         "welchid": "8"
       },
       "geometry": {
@@ -1260,7 +1264,7 @@
             44.062656,
             4
         ],
-        "source": "https://pleiades.stoa.org/places/403235/location-of-roman-amphitheater-at-guildhall"
+        "source": "https:/maps.google.com/"
       }
     },{
       "type": "Feature",
@@ -1295,7 +1299,7 @@
          41.482933,
          73
         ],
-        "source": "https://pleiades.stoa.org/places/432764/loation-of-roman-amphitheater"
+        "source": "https://pleiades.stoa.org/places/821182910/location-of-roman-amphitheater"
       }
     },{
       "type": "Feature",
@@ -1495,7 +1499,8 @@
         "moderncountry": "Libya",
         "orientation": 109,
         "pleiades": "https://pleiades.stoa.org/places/373778",
-        "province": "crete-et-cyrenaica"
+        "province": "crete-et-cyrenaica",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2068,7 +2073,8 @@
         "orientation": 76,
         "pleiades": "https://pleiades.stoa.org/places/275666",
         "pleiadesspecific": "https://pleiades.stoa.org/places/35858006/",
-        "province": "mauretania"
+        "province": "mauretania",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2502,7 +2508,8 @@
         "moderncountry": "United Kingdom",
         "pleiades": "https://pleiades.stoa.org/places/89209",
         "pleiadesspecific": "https://pleiades.stoa.org/places/89209/possible-location-of-roman-amphitheater",
-        "province": "britannia"
+        "province": "britannia",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -2843,7 +2850,8 @@
         "moderncountry": "Italy",
         "orientation": 197,
         "pleiades": "https://pleiades.stoa.org/places/423081",
-        "region": "regio-i"
+        "region": "regio-i",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -2915,6 +2923,7 @@
         "pleiades": "https://pleiades.stoa.org/places/433147",
         "pleiadesspecific": "https://pleiades.stoa.org/places/433147/location-of-roman-amphitheater",
         "region": "regio-i",
+        "visibility": "poor",
         "welchid": "9"
       },
       "geometry": {
@@ -3122,7 +3131,8 @@
         "moderncountry": "Tunisia",
         "orientation": 250,
         "pleiades": "https://pleiades.stoa.org/places/324774",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3239,6 +3249,7 @@
         "orientation": 222,
         "pleiades": "https://pleiades.stoa.org/places/324835",
         "province": "proconsularis",
+        "visibility": "good",
         "youtube":["https://www.youtube.com/watch?v=bDDyEMg34Os",
                    "https://www.youtube.com/watch?v=HGjt7TVcbAY"]
       },
@@ -3381,7 +3392,8 @@
         "moderncountry": "Tunisia",
         "orientation": 133,
         "pleiades": "https://pleiades.stoa.org/places/324767",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3413,7 +3425,8 @@
         "moderncountry": "Romania",
         "orientation": 252,
         "pleiades": "https://pleiades.stoa.org/places/207286",
-        "province": "dacia"
+        "province": "dacia",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -3553,6 +3566,7 @@
         "orientation": 258,
         "pleiades": "https://pleiades.stoa.org/places/256058",
         "province": "baetica",
+        "visibility": "good",
         "welchid": "17"
       },
       "geometry": {
@@ -3616,7 +3630,8 @@
         "orientation": 194,
         "pleiades": "https://pleiades.stoa.org/places/550812",
         "province": "asia",
-        "trismegistos": "http://www.trismegistos.org/place/1688"
+        "trismegistos": "http://www.trismegistos.org/place/1688",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3647,7 +3662,8 @@
         "moderncountry": "Turkey",
         "orientation": 178,
         "pleiades": "https://pleiades.stoa.org/places/658378",
-        "province": "cilicia"
+        "province": "cilicia",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3676,6 +3692,7 @@
         "moderncountry": "Turkey",
         "pleiades": "https://pleiades.stoa.org/places/658381",
         "province": "syria",
+        "visibility": "none",
         "welchid": "19"
       },
       "geometry": {
@@ -3705,7 +3722,8 @@
         "moderncountry": "Turkey",
         "orientation": 184,
         "pleiades": "https://pleiades.stoa.org/places/511218",
-        "province": "asia"
+        "province": "asia",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3830,7 +3848,8 @@
         "moderncountry": "United Kingdom",
         "orientation": 253,
         "pleiades": "https://pleiades.stoa.org/places/79602",
-        "province": "britannia"
+        "province": "britannia",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -3861,7 +3880,8 @@
         "latintoponym": "Venta Silurum",
         "moderncountry": "United Kingdom",
         "pleiades": "https://pleiades.stoa.org/places/79733",
-        "province": "britannia"
+        "province": "britannia",
+        "visibility": "none"
       },
       "geometry": {
         "type": "Point",
@@ -3929,7 +3949,8 @@
         "moderncountry": "Tunisia",
         "orientation": 143,
         "pleiades": "https://pleiades.stoa.org/places/324825",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -3963,7 +3984,8 @@
         "moderncountry": "Tunisia",
         "orientation": 112,
         "pleiades": "https://pleiades.stoa.org/places/324816",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "poor"
       },
       "geometry": {
         "type": "Point",
@@ -4144,7 +4166,8 @@
         "moderncountry": "Tunisia",
         "orientation": 244,
         "pleiades": "https://pleiades.stoa.org/places/324673",
-        "province": "proconsularis"
+        "province": "proconsularis",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4250,7 +4273,8 @@
         "orientation": 241,
         "pleiades": "https://pleiades.stoa.org/places/373879",
         "province": "crete-et-cyrenaica",
-        "trismegistos": "http://www.trismegistos.org/place/2018"
+        "trismegistos": "http://www.trismegistos.org/place/2018",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4313,7 +4337,8 @@
         "moderncountry": "Spain",
         "orientation": 163,
         "pleiades": "https://pleiades.stoa.org/places/236405",
-        "province": "lusitania"
+        "province": "lusitania",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4373,7 +4398,8 @@
         "latintoponym": "Ategua",
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/265808" ,
-        "province" : "baetica"
+        "province" : "baetica",
+        "visibility": "partial"
       },
       "geometry": {
         "type": "Point",
@@ -4742,6 +4768,7 @@
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/462513",
         "province": "sicilia",
+        "visibility": "none",
         "wikipedia": "https://it.wikipedia.org/wiki/Anfiteatro_di_Termini_Imerese"
       },
       "geometry": {
@@ -4771,7 +4798,8 @@
         "moderncountry": "Italy",
         "orientation": 139,
         "pleiades": "https://pleiades.stoa.org/places/432927",
-        "region": "regio-iv"
+        "region": "regio-iv",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -4997,7 +5025,8 @@
         "moderncountry": "Italy",
         "orientation": 110,
         "pleiades": "https://pleiades.stoa.org/places/413013",
-        "region": "regio-iv"
+        "region": "regio-iv",
+        "visibility": "good"
       },
       "geometry": {
         "type": "Point",
@@ -5238,7 +5267,7 @@
         "title": "Amphitheater at Taneto",
         "amphitheatrum": "https://amphi-theatrum.de/2774.html",
         "bibliography": [{"bibliographicCitation": "Storchi, Paolo. 2014. “Tannetum: Mutamenti Ambientali, Considerazioni Storiche E Fotografia Aerea Per La Localizzazione Della Città E La Ricostruzione Del Territorio.” Agri Centuriati 11: 61–82.",
-                          "zoteritem": "B3MAIUMK"}],
+                          "zoteroitem": "B3MAIUMK"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -5600,7 +5629,7 @@
       "id": "leonAmphitheater",
       "properties": {
         "title": "Amphitheater at León",
-        "bibliography": [{"bibliographicCitation": "Vidal Encinas, Julio. 2005. “Notas Sobre El Anfiteatro Romano de León.” Astorica 24: 55–66.", "zoteritem": "7PPS4FPA"}],
+        "bibliography": [{"bibliographicCitation": "Vidal Encinas, Julio. 2005. “Notas Sobre El Anfiteatro Romano de León.” Astorica 24: 55–66.", "zoteroitem": "7PPS4FPA"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -8575,7 +8604,7 @@
       "id": "megiddoAmphitheater",
       "properties": {
         "title": "Amphitheater at Megiddo",
-        "bibliography": [{"bibliographiccitation":"Tepper, Yotam. “Megiddo, Survey.” Hadashot Arkheologiyot: Excavations and Surveys in Isreal 125 (2013). http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390 .","zoteritem":"DNYUHQQP"},
+        "bibliography": [{"bibliographiccitation":"Tepper, Yotam. “Megiddo, Survey.” Hadashot Arkheologiyot: Excavations and Surveys in Isreal 125 (2013). http://www.hadashot-esi.org.il/report_detail_eng.aspx?id=5390 .","zoteroitem":"DNYUHQQP"},
                          {"bibliographiccitation":"https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/roman-training-ground/"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
