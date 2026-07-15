@@ -1,5 +1,4 @@
 {
-  "rdfs:seeAlso": "https://www.zotero.org/groups/2900686/roman_amphitheaters",
   "@context": {
   
     "geojson": "https://purl.org/geojson/vocab#",
@@ -35,7 +34,6 @@
     "ramphsprops": "http://purl.org/roman-amphitheaters/properties#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "zotramphs": "https://www.zotero.org/groups/2900686/roman_amphitheaters/items/",
 
     "@vocab": "http://purl.org/roman-amphitheaters/resource/",
    
@@ -1021,7 +1019,7 @@
       "properties": {
         "title": "Amphitheater at Tarragona",
         "amphitheatrum": "https://amphi-theatrum.de/1497.html",
-        "bibliography": {"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zoteroitem": "G4XUN8AQ"},
+        "bibliography": [{"bibliographiccitation":"Keay, Simon. “Recent Archaeological Work in Roman Iberia (1990-2002).” The Journal of Roman Studies 93 (2003): 146–211.","zoteroitem": "G4XUN8AQ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 15000},
         "chronogroup": "second-century",
@@ -1483,7 +1481,7 @@
       "properties": {
         "title": "Amphitheater at Cyrene",
         "amphitheatrum": "https://amphi-theatrum.de/2487.html",
-        "buildingtype": "amphitheater",
+        "buildingtype": "half-amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
         "dimensions": {
@@ -1493,6 +1491,7 @@
           "arenaminor": 28,
           "sourcenote": "Amphitheatrum"
          },
+        "exclude": true ,
         "golvinid": "75",
         "label": "Cyrene",
         "latintoponym": "Cyrene",
@@ -1696,7 +1695,7 @@
         "amphitheatrum": "https://amphi-theatrum.de/1437.html",
         "bibliography": [
           {"bibliographiccitation":"Wilmott, Tony, D. J Garner, Julian Baum, and John Vallender. The Roman amphitheatre of Chester, 2018.","zoteroitem":"CW8ICQUU"},{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
-"https://www.academia.edu/4403653/Chester-amphitheatre-excavations-in-2000"],
+{"bibliographiccitation": "Keith Fitzpatrick-Matthews. 2001. Chester amphitheatre excavations in 2000. https://www.academia.edu/4403653/Chester-amphitheatre-excavations-in-2000"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10861, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -2090,7 +2089,7 @@
       "properties": {
         "title": "Amphitheater at Arezzo",
         "amphitheatrum": "https://amphi-theatrum.de/1398.html",
-        "bibliography": [{"zoterocitationkey": "tosiEdificiSpettacoliNell2003", "page": "397"}],
+        "bibliography": [{"zoterocitationkey": "tosiEdificiSpettacoliNell2003", "withincitation": "p. 397"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 8000},
         "chronogroup": "flavian",
@@ -2222,7 +2221,7 @@
       "properties": {
         "title": "Amphitheater at Allifae",
         "amphitheatrum": "https://amphi-theatrum.de/2038.html",
-        "bibliography": "Golvin, p. 261",
+        "bibliography": [{"bibliographiccitation": "Golvin, p. 261"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -2804,7 +2803,7 @@
       "properties": {
         "title": "Amphitheater at London",
         "amphitheatrum": "https://amphi-theatrum.de/1972.html",
-        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6500},
         "chronogroup": "flavian",
@@ -2868,7 +2867,7 @@
       "properties": {
         "title": "Amphitheater at Caerleon",
         "amphitheatrum": "https://amphi-theatrum.de/1438.html",
-        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6000, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -3150,7 +3149,7 @@
       "properties": {
         "title": "Amphitheater at Cirencester",
         "amphitheatrum": "https://amphi-theatrum.de/1490.html",
-        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 10210, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -3489,7 +3488,7 @@
         },
         "golvinid": "81",
         "label": "Cherchel",
-        "latintoponym": "Caesarea",
+        "latintoponym": "Caesarea Mauretaniae",
         "moderncountry": "Algeria",
         "orientation": 256,
         "pleiades": "https://pleiades.stoa.org/places/295279",
@@ -3592,7 +3591,7 @@
           "sourcenote": "Golvin"
          },
         "label": "Caesarea",
-        "latintoponym": "Caesarea",
+        "latintoponym": "Caesarea Maritima",
         "moderncountry": "Israel",
         "pleiades": "https://pleiades.stoa.org/places/678401",
         "province": "judaea",
@@ -3832,7 +3831,7 @@
       "properties": {
         "title": "Amphitheater at Carmarthen",
         "amphitheatrum": "https://amphi-theatrum.de/1440.html",
-        "bibliography": "https://content.historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses/amphitheatres.pdf",
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "chronogroup": "second-century",
         "created": 125,
@@ -4551,7 +4550,7 @@
       "properties": {
         "title": "Amphitheater at Reims",
         "amphitheatrum": "https://amphi-theatrum.de/1394.html",
-        "bibliography": {"bibliographiccitation": "Berthelot, François, Maxence Poirier, Philippe Rollet, and Agnès Balmelle. 2018. “L’analyse de La Composition Urbaine de Reims Entre La Fin de La Période Gauloise et Le IVe Siècle : Apport de Trente Ans de Fouilles Préventives.” In Archéologie de l’espace Urbain, edited by Xavier Rodier and Elisabeth Lorans, 51–65. Perspectives Villes et Territoires. Tours: Presses universitaires François-Rabelais. http://books.openedition.org/pufr/7630.", "zoteroitem": "RRUTEYQI"},
+        "bibliography": [{"bibliographiccitation": "Berthelot, François, Maxence Poirier, Philippe Rollet, and Agnès Balmelle. 2018. “L’analyse de La Composition Urbaine de Reims Entre La Fin de La Période Gauloise et Le IVe Siècle : Apport de Trente Ans de Fouilles Préventives.” In Archéologie de l’espace Urbain, edited by Xavier Rodier and Elisabeth Lorans, 51–65. Perspectives Villes et Territoires. Tours: Presses universitaires François-Rabelais. http://books.openedition.org/pufr/7630.", "zoteroitem": "RRUTEYQI"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5078,7 +5077,7 @@
       "properties": {
         "title": "Amphitheater at Agen",
         "amphitheatrum": "https://amphi-theatrum.de/1552.html",
-        "bibliography": "Berthault, Frédéric, Xavier Dupuis, Myriam Fincker, and Jean-François Pichonneau. 1984. “Les édifices de spectacle de l’Antique Aginnum. Etat de la question en 1984.” Aquitania 2 (1): 159–73. https://doi.org/10.3406/aquit.1984.1004.",
+        "bibliography": [{"bibliographiccitation": "Berthault, Frédéric, Xavier Dupuis, Myriam Fincker, and Jean-François Pichonneau. 1984. “Les édifices de spectacle de l’Antique Aginnum. Etat de la question en 1984.” Aquitania 2 (1): 159–73. https://doi.org/10.3406/aquit.1984.1004."}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions":{
@@ -5266,7 +5265,7 @@
       "properties": {
         "title": "Amphitheater at Taneto",
         "amphitheatrum": "https://amphi-theatrum.de/2774.html",
-        "bibliography": [{"bibliographicCitation": "Storchi, Paolo. 2014. “Tannetum: Mutamenti Ambientali, Considerazioni Storiche E Fotografia Aerea Per La Localizzazione Della Città E La Ricostruzione Del Territorio.” Agri Centuriati 11: 61–82.",
+        "bibliography": [{"bibliographiccitation": "Storchi, Paolo. 2014. “Tannetum: Mutamenti Ambientali, Considerazioni Storiche E Fotografia Aerea Per La Localizzazione Della Città E La Ricostruzione Del Territorio.” Agri Centuriati 11: 61–82.",
                           "zoteroitem": "B3MAIUMK"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
@@ -5340,7 +5339,7 @@
       "properties": {
         "title": "Amphitheater at Caistor Saint Edmund",
         "amphitheatrum": "https://amphi-theatrum.de/1986.html",
-        "bibliography": "https://www.heritage.norfolk.gov.uk/record-details?MNF59165-Site-of-probable-Roman-amphitheatre-to-the-south-of-the-Roman-town-of-Venta-Icenorum",
+        "bibliography": [{"bibliographiccitation": "Horlock, S. “Site of Probable Roman Amphitheatre to the South of the Roman Town of Venta Icenorum.” Norfolk Heritage Explorer, Norfolk Historic Environment Record MNF59165, 2009. https://www.heritage.norfolk.gov.uk/record-details?MNF59165-Site-of-probable-Roman-amphitheatre-to-the-south-of-the-Roman-town-of-Venta-Icenorum"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -5501,7 +5500,7 @@
       "properties": {
         "title": "Amphitheater at Silchester",
         "amphitheatrum": "https://amphi-theatrum.de/1493.html",
-        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7147, "sourcenote": "Golvin"},
         "chronogroup": "second-century",
@@ -5538,7 +5537,7 @@
       "properties": {
         "title": "Amphitheater at Dorchester / Maumbury Henge",
         "amphitheatrum": "https://amphi-theatrum.de/1491.html",
-        "bibliography": {"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"},
+        "bibliography": [{"bibliographiccitation":"Roman Amphitheatres, Theatres and Circuses. Introductions to Heritage Assets. English Heritage, 2018. https://historicengland.org.uk/images-books/publications/iha-roman-amphitheatres-theatres-circuses .","zoteroitem":"GMMHKTIJ"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7952, "sourcenote": "Golvin"},
         "chronogroup": "flavian",
@@ -5609,6 +5608,7 @@
           "unknown": true
         },
         "label": "Sisapo",
+        "latintoponym": "Sisapo" ,
         "moderncountry": "Spain",
         "pleiades": "https://pleiades.stoa.org/places/266043",
         "province": "baetica",
@@ -5629,7 +5629,7 @@
       "id": "leonAmphitheater",
       "properties": {
         "title": "Amphitheater at León",
-        "bibliography": [{"bibliographicCitation": "Vidal Encinas, Julio. 2005. “Notas Sobre El Anfiteatro Romano de León.” Astorica 24: 55–66.", "zoteroitem": "7PPS4FPA"}],
+        "bibliography": [{"bibliographiccitation": "Vidal Encinas, Julio. 2005. “Notas Sobre El Anfiteatro Romano de León.” Astorica 24: 55–66.", "zoteroitem": "7PPS4FPA"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -5741,6 +5741,7 @@
           "source": "https://amphi-theatrum.de/1896.html"
         },
         "label": "Arnsburg",
+        "latintoponym": {"unknown": true},
         "moderncountry": "Germany",
         "pleiades": "https://pleiades.stoa.org/places/118575",
         "province": "germania-superior",
@@ -5855,7 +5856,7 @@
       "id": "perugiaAmphitheater",
       "properties": {
         "title": "Amphitheater at Perugia",
-        "bibliography": "Golvin, p. 254",
+        "bibliography": [{"bibliographiccitation": "Golvin, p. 254"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
         "chronogroup": "imperial",
@@ -6009,7 +6010,7 @@
       "properties": {
         "title": "Amphitheater at “Dambach”",
         "amphitheatrum": "https://amphi-theatrum.de/1792.html",
-        "bibliography": "http://www.deutsche-limeskommission.de/fileadmin/dlk/images/dlk/pdfs/Der-Limes-3-2009-2.pdf",
+        "bibliography": [{"bibliographiccitation": "Der Limes: Nachrichtenblatt der Deutschen Limeskommission 3, no. 2 (2009). Deutsche Limeskommission. Cover image: Roman amphitheatre at Dambach-Hammerschmiede in the digital terrain model (Geodaten BLfD, prepared by H. Kerscher). https://www.deutsche-limeskommission.de/fileadmin/user_upload/Der_Limes_2009_2.pdf"}],
         "buildingtype": "oval-structure",
         "certainty": "uncertain",
         "certainty-qualifier": "function",
@@ -6021,6 +6022,7 @@
           "interiorminor": 28 
         },
         "label": "Dambach",
+        "latintoponym": {"unknown": true},
         "military": true,
         "moderncountry": "Germany",
         "pleiades": "https://pleiades.stoa.org/places/118638",
@@ -6081,6 +6083,7 @@
            "unknown": true
         },
         "label": "Gleisdorf",
+        "latintoponym": {"unknown": true},
         "moderncountry": "Austria",
         "pleiades": "https://pleiades.stoa.org/places/197284",
         "province": "noricum",
@@ -6134,7 +6137,7 @@
       "properties": {
         "title": "Amphitheater at Bosra",
         "amphitheatrum": "https://amphi-theatrum.de/2002.html",
-        "bibliography" : "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112" ,
+        "bibliography" : [{"bibliographiccitation": "Weiss, Zeev. 2014. Public Spectacles in Roman and Late Antique Palestine. Public Spectacles in Roman and Late Antique Palestine. Harvard University Press. https://doi.org/10.4159/harvard.9780674726628., p. 112"}] ,
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions":{
@@ -6195,7 +6198,7 @@
       "properties": {
         "title": "Amphitheater at Saint Marcel",
         "amphitheatrum": "https://amphi-theatrum.de/1618.html",
-        "bibliography": "http://www.persee.fr/web/revues/home/prescript/article/galia-0016-4119-1968-num-26-2-2505",
+        "bibliography": [{"bibliographiccitation": "Picard, Gilbert-Charles. “Circonscription du Centre.” Gallia 26, no. 2 (1968): 321–345. https://www.persee.fr/doc/galia_0016-4119_1968_num_26_2_2505"}],
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "certainty-qualifier": "location",
@@ -6226,7 +6229,7 @@
       "properties": {
         "title": "Amphitheater at Metz",
         "amphitheatrum": "https://amphi-theatrum.de/1395.html",
-        "bibliography": "http://www.inrap.fr/preventive-archaeology/Events/Last-discoveries/p-1355-lg1-Excavation-of-the-amphitheatre-quarter-in-Metz.htm",
+        "bibliography": [{"bibliographiccitation": "Note: dead URL, looking for new one: http://www.inrap.fr/preventive-archaeology/Events/Last-discoveries/p-1355-lg1-Excavation-of-the-amphitheatre-quarter-in-Metz.htm"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 30816, "sourcenote": "Golvin" },
         "certainty-qualifier": "location",
@@ -6584,7 +6587,7 @@
       "id": "genzanoPrivateAmphitheater",
       "properties": {
         "title": "Private Amphitheater at Genzano",
-        "bibliography": "http://www.fastionline.org/record-view.php?fst-cd=AIAC-2694",
+        "bibliography": [{"bibliographiccitation": "Chatr Aryamontri, Deborah, and Timothy Renner. “c.d. Villa degli Antonini.” Fasti Online (AIAC_2694). Associazione Internazionale di Archeologia Classica. https://www.fastionline.org/record_view.php?fst_cd=AIAC_2694"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 1300},
         "chronogroup": "second-century",
@@ -6593,6 +6596,7 @@
           "exteriorminor": 40
          },
         "label": "Genzano",
+        "latintoponym": {"unknown": true},
         "moderncountry": "Italy",
         "orientation": 218,
         "pleiades": "https://pleiades.stoa.org/places/422838",
@@ -7091,6 +7095,7 @@
         },
         "exclude": true,
         "label": "Montbouy",
+        "latintoponym": {"unknown": true},
         "moderncountry": "France",
         "orientation": 164,
         "pleiades": "https://pleiades.stoa.org/places/138468",
@@ -7121,6 +7126,7 @@
         "exclude": true,
         "label": "Statilius Taurus",
         "lastuse": {"date":64, "comment": "Destroyed in AD 64 fire."},
+        "latintoponym": "Roma" ,
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/423025",
         "region": "regio-i",
@@ -7263,7 +7269,7 @@
       "id": "altinumAmphitheater",
       "properties": {
         "title": "Amphitheater at Altinum",
-        "bibliography": "http://hdl.handle.net/10.1126/science.1174206",
+        "bibliography": [{"bibliographiccitation": "Ninfo, Andrea, Alessandro Fontana, Paolo Mozzi, and Francesco Ferrarese. “The Map of Altinum, Ancestor of Venice.” Science 325, no. 5940 (2009): 577. https://doi.org/10.1126/science.1174206"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
         "dimensions": {
@@ -7360,7 +7366,7 @@
       "properties": {
         "title": "Amphitheater at Falerii Novi",
         "amphitheatrum": "https://amphi-theatrum.de/1545.html",
-        "bibliography": "http://dx.doi.org/10.1017/S0068246200000799",
+        "bibliography": [{"bibliographiccitation": "Hay, Sophie, Paul Johnson, Simon Keay, and Martin Millett. “Falerii Novi: Further Survey of the Northern Extramural Area.” Papers of the British School at Rome 78 (2010): 1–38. https://doi.org/10.1017/S0068246200000799"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 7986, "sourcenote": "Golvin"},
         "chronogroup": "augustan",
@@ -7433,7 +7439,7 @@
       "id": "imolaAmphitheater",
       "properties": {
         "title": "Amphitheater at Imola",
-        "bibliography": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DF%3Aentry+group%3D2%3Aentry%3Dforum-cornelii",
+        "bibliography": [{"bibliographiccitation": "Mansuelli, G. A. “Forum Cornelii (Imola) Emilia-Romagna, Italy.” In The Princeton Encyclopedia of Classical Sites, edited by Richard Stillwell, William L. MacDonald, and Marian Holland McAllister. Princeton: Princeton University Press, 1976. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DF%3Aentry+group%3D2%3Aentry%3Dforum-cornelii"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 11914, "sourcenote": "Golvin"},
         "chronogroup": "imperial",
@@ -7603,7 +7609,7 @@
       "properties": {
         "title": "Amphitheater at Bevagna",
         "amphitheatrum": "https://amphi-theatrum.de/1596.html",
-        "bibliography": "http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Umbria/Perugia/Bevagna/Bevagna/Roman/amphitheatre.html",
+        "bibliography": [{"bibliographiccitation": "Thayer, Bill. “Mevania (Bevagna): The Roman Amphitheatre.” LacusCurtius, University of Chicago. https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Umbria/Perugia/Bevagna/Bevagna/Roman/amphitheatre.html"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 6251, "sourcenote": "Golvin"},
         "chronogroup": "first-century",
@@ -7771,6 +7777,7 @@
         },
         "exclude": true,
         "label": "Zagarolo",
+        "latintoponym": {"unknown": true},
         "moderncountry": "Italy",
         "orientation": 152,
         "pleiades": "https://pleiades.stoa.org/places/423086",
@@ -7805,6 +7812,7 @@
         },
         "golvinid": "184",
         "label": "Tusculum",
+        "latintoponym": "Tusculum" ,
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/423108",
         "region": "regio-i",
@@ -8027,6 +8035,7 @@
           "source": "https://maps.google.com"
         },
         "label": "Jebel Moraba",
+        "latintoponym": {"unknown": true},
         "moderncountry": "Tunisia",
         "orientation": 144,
         "pleiades": "https://pleiades.stoa.org/places/208942158",
@@ -8661,7 +8670,7 @@
       "properties": {
         "title": "Amphitheater at Altripalda",
         "amphitheatrum": "https://amphi-theatrum.de/1860.html",
-        "bibliography": "https://www.avellinotoday.it/cronaca/anfiteatro-romano-rinvenuto-a-via-appia-atripalda-immagini-del-cantiere-27-ottobre-2021.html",
+        "bibliography": [{"bibliographiccitation": "“Anfiteatro romano rinvenuto a via Appia, Atripalda: immagini del cantiere.” AvellinoToday, 27 October 2021. https://www.avellinotoday.it/cronaca/anfiteatro-romano-rinvenuto-a-via-appia-atripalda-immagini-del-cantiere-27-ottobre-2021.html"}],
         "buildingtype": "amphitheater",
         "chronogroup": "republican",
         "dare": "https://dare.ht.lu.se/places/21758",
@@ -8689,7 +8698,7 @@
       "id": "compsaAmphitheater",
       "properties": {
         "title": "Amphitheater at Compsa",
-        "bibliography": "Welch, p. 83",
+        "bibliography": [{"bibliographiccitation": "Welch, p. 83"}],
         "buildingtype": "amphitheater",
         "certainty": "uncertain",
         "chronogroup": "republican",
@@ -9036,7 +9045,7 @@
         "latintoponym": "Venafrum",
         "moderncountry": "Italy",
         "pleiades": "https://pleiades.stoa.org/places/433185",
-        "province": "regio-i",
+        "region": "regio-i",
         "visibility": "street-plan" },
         "geometry": {
           "type": "Point",
@@ -9147,7 +9156,7 @@
       "properties": {
         "title": "Amphitheater at Ammaia",
         "amphitheatrum": "https://amphi-theatrum.de/3020.html",
-        "bibliography": "http://www.ammaia.pt/noticias,12,698,detalhe.aspx",
+        "bibliography": [{"bibliographiccitation": "“Anfiteatro Romano da Ammaia (Marvão).” Notícias. Fundação Cidade de Ammaia. http://www.ammaia.pt/noticias,12,698,detalhe.aspx"}],
         "buildingtype": "amphitheater",
         "chronogroup":"imperial",
         "dimensions": {
@@ -9175,7 +9184,7 @@
       "properties": {
         "title": "Amphitheater at Contributa Iulia Ugultunia",
         "amphitheatrum": "https://amphi-theatrum.de/3093.html",
-        "bibliography": "https://doi.org/10.3989/aespa.089.016.012",
+        "bibliography": [{"bibliographiccitation": "Pizzo, Antonio, Pedro Mateos, and Victorino Mayoral. “El anfiteatro de Contributa Iulia Ugultunia. Identificación y primer análisis arqueológico.” Archivo Español de Arqueología 89 (2016): 249–271. https://doi.org/10.3989/aespa.089.016.012"}],
         "buildingtype": "amphitheater",
         "chronogroup":"imperial",
         "dimensions": {
@@ -9204,7 +9213,7 @@
       "properties": {
         "title": "Amphitheater at Formia",
         "amphitheatrum": "https://amphi-theatrum.de/1603.html",
-        "bibliography": "Golvin, p. 252",
+        "bibliography": [{"bibliographiccitation": "Golvin, p. 252"}],
         "buildingtype": "amphitheater",
         "chronogroup":"imperial",
         "dimensions": {
