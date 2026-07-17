@@ -1,85 +1,99 @@
 {
   "@context": {
-  
-    "geojson": "https://purl.org/geojson/vocab#",
+    "@base": "https://roman-amphitheaters.org/id/",
+    "@vocab": "https://roman-amphitheaters.org/id/",
+    "amphitheatrum": {"@type": "@id"},
+    "arenamajor": {},
+    "arenaminor": {},
+    "bbox": {"@container": "@list", "@id": "geojson:bbox"},
+    "bibliographiccitation": {"@id": "dcterms:bibliographicCitation"},
+    "bibliography": {},
+    "buildingtype": {},
+    "capacity": {},
+    "certainty": {},
+    "certainty-qualifier": {},
+    "chronocertainty": {},
+    "chronogroup": {"@type": "@id"},
+    "citywall": {},
+    "comment": {},
+    "commonsimage": {},
+    "coordinates": {"@container": "@list", "@id": "geojson:coordinates"},
+    "created": {"@type": "xsd:gYear"},
+    "dare": {"@type": "@id"},
+    "date": {},
+    "dcterms": "http://purl.org/dc/terms/",
+    "dedication": {},
+    "description": "http://purl.org/dc/terms/description",
+    "dimensions": {},
+    "earlieststartdate": {"@type": "xsd:gYear"},
+    "emperor": {},
+    "enddate": {"@type": "xsd:gYear"},
+    "exclude": {"@type": "xsd:boolean"},
+    "exteriorheight": {},
+    "exteriormajor": {},
+    "exteriorminor": {},
     "Feature": "geojson:Feature",
     "FeatureCollection": "geojson:FeatureCollection",
+    "features": {"@container": "@set", "@id": "geojson:features"},
+    "firstphase": {},
+    "geojson": "https://purl.org/geojson/vocab#",
+    "geometry": "geojson:geometry",
     "GeometryCollection": "geojson:GeometryCollection",
+    "golvinid": {},
+    "golvinid-successor": {},
+    "historicengland": {"@type": "@id"},
+    "hypogeum": {"@type": "xsd:boolean"},
+    "id": "@id",
+    "identified": {},
+    "interiormajor": {},
+    "interiorminor": {},
+    "label": {"@id": "rdfs:label"},
+    "lastuse": {},
+    "latest-enddate": {"@type": "xsd:gYear"},
+    "latintoponym": {},
     "LineString": "geojson:LineString",
+    "military": {"@type": "xsd:boolean"},
+    "moderncountry": {},
     "MultiLineString": "geojson:MultiLineString",
     "MultiPoint": "geojson:MultiPoint",
     "MultiPolygon": "geojson:MultiPolygon",
+    "orientation": {},
+    "periodo": {"@type": "@id"},
+    "pleiades": {"@type": "@id"},
+    "pleiadesspecific": {"@type": "@id"},
     "Point": "geojson:Point",
     "Polygon": "geojson:Polygon",
-    "bbox": {
-      "@container": "@list",
-      "@id": "geojson:bbox"
-    },
-    "coordinates": {
-      "@container": "@list",
-      "@id": "geojson:coordinates"
-    },
-    "features": {
-      "@container": "@set",
-      "@id": "geojson:features"
-    },
-    "geometry": "geojson:geometry",
-    "id": "@id",
+    "primarymaterial": {},
+    "private": {"@type": "xsd:boolean"},
     "properties": "geojson:properties",
-    "type": "@type",
-    "description": "http://purl.org/dc/terms/description",
-
-    "dcterms": "http://purl.org/dc/terms/",
-    "prov": "http://www.w3.org/ns/prov#",
-    "ramphsprops": "http://purl.org/roman-amphitheaters/properties#",
+    "province": {"@type": "@id"},
+    "quantity": {},
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    "xsd": "http://www.w3.org/2001/XMLSchema#",
-
-    "@vocab": "http://purl.org/roman-amphitheaters/resource/",
-   
-    "amphitheatrum": {"@id": "ramphsprops:amphitheatrum","@type": "@id"},
-    "arenamajor": {"@id": "ramphsprops:arenamajor" },
-    "arenaminor": {"@id": "ramphsprops:arenaminor" },
-    "bibliographiccitation" : {"@id": "dcterms:bibliographicCitation" },
-    "bibliography": { "@id": "ramphsprops:bibliography" },
-    "buildingtype": { "@id": "ramphsprops:buildingtype" },
-    "capacity": {"@id": "ramphsprops:capacity" },
-    "chronogroup": {"@id": "ramphsprops:chronogroup","@type": "@id"},
-    "comment": {"@id": "ramphsprops:comment" },
-    "commonsimage": {"@id": "ramphsprops:commonsimage"},
-    "created": { "@id": "ramphsprops:created", "@type": "xsd:gDate" },
-    "dimensions": {"@id": "ramphsprops:dimensions"},
-    "dedication": {"@id": "ramphsprops:dedication"},
-    "emperor": {"@id":"ramphsprops:emperor"},
-    "enddate": {"@id": "ramphsprops:enddate" },
-    "exclude": {"@id":"ramphsprops:exclude"},
-    "exteriorheight": {"@id": "ramphsprops:exteriorheight" },
-    "exteriormajor": {"@id": "ramphsprops:exteriormajor" },
-    "exteriorminor": {"@id": "ramphsprops:exteriorminor" },
-    "hypogeum": {"@id": "ramphsprops:hypogeum" },
-    "label": {"@id": "rdfs:label"},
-    "lastuse": {"@id": "ramphsprops:lastuse"},
-    "latintoponym": {"@id": "ramphsprops:latintoponym"},
-    "military": { "@id": "ramphsprops:military"},
-    "moderncountry": { "@id": "ramphsprops:moderncountry"},
-    "orientation": {"@id": "ramphsprops:orientation" },
-    "periodo": {"@id": "ramphsprops:periodo", "@type": "@id" },
-    "pleiades": {"@id": "ramphsprops:pleiades","@type": "@id"},
-    "pleiadesspecific": {"@id": "ramphsprops:pleiadesspecific","@type": "@id"},
-    "province": { "@id": "ramphsprops:province","@type": "@id"},
-    "quantity": { "@id": "ramphsprops:quantity"},
-    "region": { "@id": "ramphsprops:region","@type": "@id"},
-    "see": {"@id": "ramphsprops:see","@type": "@id" },
-    "source": {"@id": "ramphsprops:source","@type": "@id" },
-    "sourcenote": {"@id": "ramphsprops:sourcenote" },
-    "startdate": {"@id": "ramphsprops:startdate" },
+    "region": {"@type": "@id"},
+    "rockcut": {"@type": "xsd:boolean"},
+    "romanamphitheaterschronogroups": {},
+    "romanamphitheatersvocabulary": {},
+    "see": {"@type": "@id"},
+    "source": {"@type": "@id"},
+    "sourcenote": {},
+    "startdate": {"@type": "xsd:gYear"},
     "title": {"@id": "dcterms:title"},
-    "visibility": {"@id": "ramphsprops:visibility" },
-    "welchid": {"@id": "ramphsprops:welchid"},
-    "wikipedia": {"@id": "ramphsprops:wikipedia","@type": "@id"},
-    "youtube": {"@id": "ramphsprops:youtube","@type": "@id"},
-    "zoteroitem": {"@id": "ramphsprops:zoteroitem"}
-
+    "trismegistos": {"@type": "@id"},
+    "type": "@type",
+    "unknown": {"@type": "xsd:boolean"},
+    "vici": {"@type": "@id"},
+    "visibility": {},
+    "website": {"@type": "@id"},
+    "welchid": {},
+    "wikidata": {"@type": "@id"},
+    "wikimapia": {"@type": "@id"},
+    "wikipedia": {"@type": "@id"},
+    "withincitation": {},
+    "worldcat": {"@type": "@id"},
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "youtube": {"@type": "@id"},
+    "zoterocitationkey": {},
+    "zoteroitem": {}
   },
   "type": "FeatureCollection",
   "features":[
@@ -9402,154 +9416,77 @@
         "periodo": "http://n2t.net/ark:/99152/p077pzf9m52"
     }
   ],
-  "provinces_and_regions":[
-    {
-      "id": "",
-      "label": "Title",
-      "ramphsprops:x-sort-order": "011-header"
-  }
-  ],
-  "roman-amphitheaters-vocabulary":[
-   {
-        "@id": "dcterms:title",
-        "label": "Title",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:amphitheatrum",
-        "label": "Amphitheatrum Page",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:arenamajor",
-        "label": "Arena Major Axis",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:arenaminor",
-        "label": "Arena Minor",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:bibliography",
-        "label": "Bibliography",
-        "ramphsprops:x-sort-order": "200-other"
-    },{
-        "@id": "ramphsprops:buildingtype",
-        "label": "Building Type",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:capacity",
-        "label": "Capacity",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:chronogroup",
-        "label": "Chronological Group",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:comment",
-        "label": "Comment",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:commonsimage",
-        "label": "Wiki Commons Image",
-        "ramphsprops:x-sort-order": "000-000"
-    },{
-        "@id": "ramphsprops:created",
-        "label": "Created",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:dimensions",
-        "label": "Dimensions",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:emperor",
-        "label": "Emperor",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:exclude",
-        "label": "Exclude from 2nd Century Group",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:exteriormajor",
-        "label": "Exterior Major Axis",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:exteriorminor",
-        "label": "Exterior Minor",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:golvinid",
-        "label": "Golvin Catalog No.",
-        "ramphsprops:x-sort-order": "014-identifiers"
-    },{
-        "@id": "ramphsprops:hypogeum",
-        "label": "Hypogeum",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:latintoponym",
-        "label": "Latin Toponym",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:last-use",
-        "label": "Last Use",
-        "ramphsprops:x-sort-order": "012-chronology"
-    },{
-        "@id": "ramphsprops:military",
-        "label": "Military",
-        "ramphsprops:x-sort-order": "200-other"
-    },{
-        "@id": "ramphsprops:moderncountry",
-        "label": "Modern Country",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:orientation",
-        "label": "Orientation",
-        "ramphsprops:x-sort-order": "200-other"
-    },{
-        "@id": "ramphsprops:pleiades",
-        "label": "Pleiades URI",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:pleiadesspecific",
-        "label": "Pleiades URI for Building",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:province",
-        "label": "Province",
-        "ramphsprops:x-sort-order": "050-header"
-    },{
-        "@id": "ramphsprops:quantity",
-        "label": "Quantity",
-        "ramphsprops:x-sort-order": "050-quantities"
-    },{
-        "@id": "ramphsprops:region",
-        "label": "Italian Region",
-        "ramphsprops:x-sort-order": "011-header"
-    },{
-        "@id": "ramphsprops:source",
-        "label": "Source",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:source-note",
-        "label": "Source Note",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:see",
-        "label": "See Also",
-        "ramphsprops:x-sort-order": "200-other"
-    },{
-        "@id": "ramphsprops:welchid",
-        "label": "Welch ID",
-        "ramphsprops:x-sort-order": "014-identifiers"
-    },{
-        "@id": "ramphsprops:wikipedia",
-        "label": "Wikipedia",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "ramphsprops:youtube",
-        "label": "YouTube",
-        "ramphsprops:x-sort-order": "110-links"
-    },{
-        "@id": "rdfs:label",
-        "label": "Label",
-        "ramphsprops:x-sort-order": "012-header"
-    }
-   ]
+  "romanamphitheatersvocabulary":[
+    {"@id": "amphitheatrum", "label": "Amphitheatrum Page", "rdfs:comment": "URL of the corresponding page at amphi-theatrum.de."},
+    {"@id": "arenamajor", "label": "Arena Major Axis", "rdfs:comment": "Length of the arena's major (long) axis, in meters."},
+    {"@id": "arenaminor", "label": "Arena Minor", "rdfs:comment": "Length of the arena's minor (short) axis, in meters."},
+    {"@id": "dcterms:bibliographicCitation", "label": "Bibliographic Citation", "rdfs:comment": "Formatted citation text for a referenced work."},
+    {"@id": "bibliography", "label": "Bibliography", "rdfs:comment": "List of bibliographic references, each a citation object."},
+    {"@id": "buildingtype", "label": "Building Type", "rdfs:comment": "Classification of the structure (e.g. amphitheater, practice-arena, oval-structure)."},
+    {"@id": "capacity", "label": "Capacity", "rdfs:comment": "Estimated spectator capacity, as an object holding a quantity."},
+    {"@id": "certainty", "label": "Certainty", "rdfs:comment": "Degree of confidence that the structure is a Roman amphitheater."},
+    {"@id": "certainty-qualifier", "label": "Certainty Qualifier", "rdfs:comment": "Aspect the certainty applies to (e.g. function, presence, location)."},
+    {"@id": "chronocertainty", "label": "Chronology Certainty", "rdfs:comment": "Degree of confidence in the chronological attribution."},
+    {"@id": "chronogroup", "label": "Chronological Group", "rdfs:comment": "Chronological group assigned to the building's construction."},
+    {"@id": "citywall", "label": "City Wall Relation", "rdfs:comment": "Position of the amphitheater relative to the city wall (inside, outside)."},
+    {"@id": "comment", "label": "Comment", "rdfs:comment": "Free-text note about the record."},
+    {"@id": "commonsimage", "label": "Wiki Commons Image", "rdfs:comment": "URL of a representative image on Wikimedia Commons."},
+    {"@id": "created", "label": "Created", "rdfs:comment": "Year the amphitheater was built."},
+    {"@id": "dare", "label": "DARE", "rdfs:comment": "Place URL in the Digital Atlas of the Roman Empire (DARE)."},
+    {"@id": "date", "label": "Date", "rdfs:comment": "A year value, e.g. the date within a lastuse object."},
+    {"@id": "dedication", "label": "Dedication", "rdfs:comment": "URL of an inscription recording the building's dedication."},
+    {"@id": "dimensions", "label": "Dimensions", "rdfs:comment": "Measured dimensions of the structure, as an object."},
+    {"@id": "earlieststartdate", "label": "Earliest Start Date", "rdfs:comment": "Earliest possible start year for the chronological group."},
+    {"@id": "emperor", "label": "Emperor", "rdfs:comment": "Emperor under whom the amphitheater was built."},
+    {"@id": "enddate", "label": "End Date", "rdfs:comment": "Nominal end year of the chronological group."},
+    {"@id": "exclude", "label": "Exclude from 2nd Century Group", "rdfs:comment": "Whether to exclude the record from the canonical count and analysis."},
+    {"@id": "exteriorheight", "label": "Exterior Height", "rdfs:comment": "Height of the exterior facade, in meters."},
+    {"@id": "exteriormajor", "label": "Exterior Major Axis", "rdfs:comment": "Length of the building's outer major (long) axis, in meters."},
+    {"@id": "exteriorminor", "label": "Exterior Minor", "rdfs:comment": "Length of the building's outer minor (short) axis, in meters."},
+    {"@id": "firstphase", "label": "First Phase", "rdfs:comment": "An earlier construction phase, as an object with its own chronogroup and created year."},
+    {"@id": "golvinid", "label": "Golvin Catalog No.", "rdfs:comment": "Catalog number in J.-C. Golvin, L'amphithéâtre romain (1988)."},
+    {"@id": "golvinid-successor", "label": "Golvin Successor ID", "rdfs:comment": "Golvin catalog number of a later structure that superseded this one. [verify]"},
+    {"@id": "historicengland", "label": "Historic England", "rdfs:comment": "Historic England List entry URL."},
+    {"@id": "hypogeum", "label": "Hypogeum", "rdfs:comment": "Whether the arena has an underground substructure (hypogeum)."},
+    {"@id": "identified", "label": "Year Identified", "rdfs:comment": "Year the amphitheater was archaeologically identified."},
+    {"@id": "interiormajor", "label": "Interior Major Axis", "rdfs:comment": "Length of the interior major axis, in meters."},
+    {"@id": "interiorminor", "label": "Interior Minor Axis", "rdfs:comment": "Length of the interior minor axis, in meters."},
+    {"@id": "rdfs:label", "label": "Label", "rdfs:comment": "Short label for the amphitheater."},
+    {"@id": "lastuse", "label": "Last Use", "rdfs:comment": "Latest documented use of the structure, as an object with a date."},
+    {"@id": "latest-enddate", "label": "Latest End Date", "rdfs:comment": "Latest possible end year for the chronological group."},
+    {"@id": "latintoponym", "label": "Latin Toponym", "rdfs:comment": "Latin name of the ancient settlement."},
+    {"@id": "military", "label": "Military", "rdfs:comment": "Whether the amphitheater is associated with a military base."},
+    {"@id": "moderncountry", "label": "Modern Country", "rdfs:comment": "Modern country in which the site lies."},
+    {"@id": "orientation", "label": "Orientation", "rdfs:comment": "Compass bearing of the major axis, in degrees."},
+    {"@id": "periodo", "label": "PeriodO", "rdfs:comment": "PeriodO period-definition URI for the chronological group."},
+    {"@id": "pleiades", "label": "Pleiades URI", "rdfs:comment": "Pleiades URI for the ancient settlement."},
+    {"@id": "pleiadesspecific", "label": "Pleiades URI for Building", "rdfs:comment": "Pleiades URI for the amphitheater itself, where distinct from the settlement."},
+    {"@id": "primarymaterial", "label": "Primary Material", "rdfs:comment": "Principal building material (e.g. wood)."},
+    {"@id": "private", "label": "Private", "rdfs:comment": "Whether the amphitheater is a private (e.g. villa) structure."},
+    {"@id": "province", "label": "Province", "rdfs:comment": "Roman province in which the site lies."},
+    {"@id": "quantity", "label": "Quantity", "rdfs:comment": "Numeric value within a capacity object."},
+    {"@id": "region", "label": "Italian Region", "rdfs:comment": "Augustan region of Roman Italy (regio I–XI) in which the site lies."},
+    {"@id": "rockcut", "label": "Rock-Cut", "rdfs:comment": "Whether the amphitheater is cut into living rock."},
+    {"@id": "romanamphitheaterschronogroups", "label": "Chronological Groups", "rdfs:comment": "Definitions of the chronological groups used by the chronogroup property, each with a date range and PeriodO link."},
+    {"@id": "romanamphitheatersvocabulary", "label": "Vocabulary", "rdfs:comment": "Descriptions of the properties used in this dataset."},
+    {"@id": "see", "label": "See Also", "rdfs:comment": "URL of a related resource."},
+    {"@id": "source", "label": "Source", "rdfs:comment": "URL documenting the location or provenance of the data."},
+    {"@id": "sourcenote", "label": "Source Note", "rdfs:comment": "Human-readable source attribution (e.g. “Golvin”, “Bomgardner”)."},
+    {"@id": "startdate", "label": "Start Date", "rdfs:comment": "Nominal start year of the chronological group."},
+    {"@id": "dcterms:title", "label": "Title", "rdfs:comment": "Human-readable title of the record."},
+    {"@id": "trismegistos", "label": "Trismegistos", "rdfs:comment": "Place URL in the Trismegistos geographic database."},
+    {"@id": "unknown", "label": "Unknown", "rdfs:comment": "Sentinel marking a value that is known to be unknown ({\"unknown\": true})."},
+    {"@id": "vici", "label": "Vici.org", "rdfs:comment": "Entry URL at vici.org."},
+    {"@id": "visibility", "label": "Visibility", "rdfs:comment": "How much of the structure survives visibly (none, poor, partial, good, street-plan)."},
+    {"@id": "website", "label": "Website", "rdfs:comment": "Informational or official website for the site."},
+    {"@id": "welchid", "label": "Welch ID", "rdfs:comment": "Catalog number in K. Welch, The Roman Amphitheatre (2007)."},
+    {"@id": "wikidata", "label": "Wikidata", "rdfs:comment": "Wikidata entity URI."},
+    {"@id": "wikimapia", "label": "Wikimapia", "rdfs:comment": "Wikimapia entry URL."},
+    {"@id": "wikipedia", "label": "Wikipedia", "rdfs:comment": "Wikipedia article URL."},
+    {"@id": "withincitation", "label": "Within Citation", "rdfs:comment": "Page or section locator within a cited work."},
+    {"@id": "worldcat", "label": "WorldCat", "rdfs:comment": "WorldCat record URL for a cited work."},
+    {"@id": "youtube", "label": "YouTube", "rdfs:comment": "URL of a relevant YouTube video."},
+    {"@id": "zoterocitationkey", "label": "Zotero Citation Key", "rdfs:comment": "Citation key of a Zotero library item."},
+    {"@id": "zoteroitem", "label": "Zotero Item", "rdfs:comment": "Item key in the project's shared Zotero library."}
+  ]
 }
