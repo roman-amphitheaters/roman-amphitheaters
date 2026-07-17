@@ -210,6 +210,10 @@
         "buildingtype": "practice-arena",
         "chronogroup": "imperial",
         "created":81,
+        "dimensions": {
+          "arenamajor": 63 ,
+          "arenaminor": 42
+        },
         "exclude": true,
         "label": "Ludus Magnus",
         "latintoponym": "Ludus Magnus",
@@ -657,8 +661,7 @@
                         {"bibliographiccitation": "Bomgardner, David L. 1989. “The Carthage Amphitheater: A Reappraisal.” American Journal of Archaeology 93 (1): 85–103. https://doi.org/10.2307/505400.", "zoteroitem": "FYP7DD5A"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 30000, "sourcenote": "Bomgardner, “Reappraisal”, p. 101."},
-        "chronogroup": "augustan",
-        "created":100,
+        "chronogroup": "second-century",
         "dimensions": {
           "exteriormajor": 156,
           "exteriorminor": 128,
@@ -891,6 +894,10 @@
         "amphitheatrum": "https://amphi-theatrum.de/2188.html",
         "buildingtype": "practice-arena",
         "chronogroup": "imperial",
+        "dimensions": {
+          "arenamajor": 19 ,
+          "arenaminor": 19
+        },
         "exclude": true,
         "label": "Carnuntum Ludus",
         "latintoponym": "Carnuntum",
@@ -1074,7 +1081,6 @@
         "latintoponym": "Carales",
         "moderncountry": "Italy",
         "orientation": 235,
-        "periodo": "http://n2t.net/ark:/99152/p0wf3wdp4xt",
         "pleiades": "https://pleiades.stoa.org/places/471899",
         "province": "corsica-et-sardinia",
         "visibility": "good",
@@ -1764,6 +1770,11 @@
         "amphitheatrum": "https://amphi-theatrum.de/2402.html",
         "buildingtype": "arena-in-hippodrome",
         "chronogroup": "imperial",
+        "comment": "Built within a hippodrome and not oval.",
+        "dimensions": {
+          "arenamajor": 95,
+          "arenaminor": 44
+        },
         "exclude": true,
         "label": "Scythopolis",
         "latintoponym": "Scythopolis",
@@ -3039,6 +3050,7 @@
       "id": "durresAmphitheater",
       "properties": {
         "title": "Amphitheater at Durrës",
+        "amphitheatrum": "https://amphi-theatrum.de/1564.html" ,
         "bibliography": [{"bibliographiccitation":"Miraj, Lida. “Amfiteatri i Durrësit.” Iliria 16, no. 2 (1986): 151–69.","zoteroitem":"4MKNQEGP"},{"bibliographiccitation":"Bowes, Kim, Afrim Hoti, Will Bowden, Karen Frances, John Mitchell, Belissa Muka, Paul Reynolds, and Joanita Vroom. “An Amphitheatre and Its Afterlives: Survey and Excavation in the Durres Amphitheatre.” Journal of Roman Archaeology 16 (2003): 380–94. https://doi.org/10.1017/S1047759400013209 .","zoteroitem":"IWZKHNB8"}],
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 20000},
@@ -3549,7 +3561,6 @@
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 18350, "source": "https://amphi-theatrum.de/1471.html"},
         "chronogroup": "caesarean",
-        "created": -50,
         "dimensions": {
           "exteriormajor": 108,
           "exteriorminor": 98,
@@ -3682,7 +3693,6 @@
         "buildingtype": "amphitheater",
         "chronogroup": "caesarean",
         "comment": "Location not specific.",
-        "created": -50,
         "dimensions":{
           "unknown": true
         },
@@ -4077,7 +4087,7 @@
         "amphitheatrum": "https://amphi-theatrum.de/2968.html",
         "buildingtype": "amphitheater",
         "capacity": {"quantity": 3015, "sourcenote": "Golvin"},
-        "chronogroup": "imperial",
+        "chronogroup": "augustan",
         "created": -20,
         "dimensions": {
           "exteriormajor": 60,
@@ -5106,6 +5116,7 @@
       "id": "narbonneAmphitheater",
       "properties": {
         "title": "Amphitheater at Narbonne",
+        "amphitheatrum": "https://amphi-theatrum.de/2798.html",
         "bibliography": [{"bibliographiccitation": "Grenier, Albert. Manuel d’archéologie Gallo-Romaine. Troisième Partie. L’Architecture. Paris: Picard, 1958.","withincitation":"p. 640","zoteroitem":"LD7NNHSG"}],
         "buildingtype": "amphitheater",
         "capacity": {"unknown": true},
@@ -6897,7 +6908,6 @@
         "orientation": 254,
         "pleiades": "https://pleiades.stoa.org/places/295363",
         "province": "mauretania",
-        "romansites": "https://www.romansites.com/anfiteatri/tipasa-tipasentium.htm",
         "visibility": "good"
       },
       "geometry": {
@@ -7269,6 +7279,7 @@
       "id": "altinumAmphitheater",
       "properties": {
         "title": "Amphitheater at Altinum",
+        "amphitheatrum": "https://amphi-theatrum.de/3228.html" ,
         "bibliography": [{"bibliographiccitation": "Ninfo, Andrea, Alessandro Fontana, Paolo Mozzi, and Francesco Ferrarese. “The Map of Altinum, Ancestor of Venice.” Science 325, no. 5940 (2009): 577. https://doi.org/10.1126/science.1174206"}],
         "buildingtype": "amphitheater",
         "chronogroup": "imperial",
@@ -7299,8 +7310,8 @@
       "properties": {
         "title": "Amphitheater at Augusta Benniorum",
         "amphitheatrum": "https://amphi-theatrum.de/1511.html",
-        "bibliography": ["http://www.piemonte.beniculturali.it/index.php/en/i-luoghi-della-cultura/aree-archeologiche/augusta-bagiennorum",
-           "http://cipa.icomos.org/fileadmin/template/doc/ATHENS/FP025.pdf"],
+        "bibliography": [{"bibliographiccitation": "Bendea, H., F. Chiabrando, F. Giulio Tonolo, and D. Marenchino. “Mapping of Archaeological Areas Using a Low-Cost UAV: The Augusta Bagiennorum Test Site.” In XXI International CIPA Symposium, 01–06 October 2007, Athens, Greece. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences XXXVI-5/C53. https://www.isprs.org/proceedings/XXXVI/5-C53/papers/FP025.pdf"},
+           {"bibliographiccitation": "Note: dead URL, looking for new one: http://www.piemonte.beniculturali.it/index.php/en/i-luoghi-della-cultura/aree-archeologiche/augusta-bagiennorum"}],
         "buildingtype": "amphitheater",
         "chronogroup": "julio-claudian",
         "dimensions": {
@@ -9237,7 +9248,36 @@
         ],
         "source": "https://maps.google.com"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "id": "richboroughAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Richborough",
+        "amphitheatrum": "https://amphi-theatrum.de/1572.html",
+        "bibliography": [{"bibliographiccitation": "English Heritage. n.d. “The Richborough Amphitheatre: Discovery And Excavation” https://www.english-heritage.org.uk/visit/places/richborough-roman-fort-and-amphitheatre/history-and-stories/amphitheatre/"}] ,
+        "buildingtype": "amphitheater",
+        "chronogroup": "late-first-century" ,
+        "dimensions": {
+          "arenamajor": 62 ,
+          "arenaminor": 50
+        },
+        "label": "Richborough" ,
+        "latintoponym": "Rutupiae",
+        "moderncountry": "United Kingdom",
+        "pleiades": "https://pleiades.stoa.org/places/79664" ,
+        "province": "britannia" ,
+        "visibility": "good" },
+        "geometry":{
+          "type": "Point",
+          "coordinates":[
+            1.326782,
+            51.290169,
+            56
+        ],
+        "source": "https://maps.google.com"
+        }
+      }
   ],
   "romanamphitheaterschronogroups":[
     {
