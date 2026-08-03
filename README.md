@@ -15,9 +15,9 @@ The following titles, which are at different stages of publication, illustrate h
 
 * S. Heath. 2022. Estimating and Mapping Roman Amphitheater Seating Capacity *Journal of Ancient History and Archaeology* 9.4: 239-248. https://jaha.org.ro/index.php/JAHA/article/view/784
 
-* (Forthcoming) S. Heath. 2023. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
+* S. Heath. 2023. “Nearness and Experience in a Network of Roman Amphitheaters.” Blakely and Daniels, eds. Data Science, Human Science, and Ancient Gods, Lockwood Press. Preview at https://bit.ly/naenra
 
-A nice example of 3rd party use of this data is: Gebhard, Christian A. 2022. “When Not in Rome...” *Jolly Data* (blog). July 8, 2022. https://jollydata.blog/posts/2022-06-12-when-not-in-rome/.
+An example of 3rd party use of this data is: https://ramadda.org/repository/a/roman_amphitheaters .
 
 Note: The information here continues to change over time. An ongoing focus is entering more direct citation of sources into the 'roman-amphitheaters.geojson' file. Towards this goal, I have made small steps towards implementing a flexible bibliographic infrastructure for this dataset in Zotero. See https://www.zotero.org/groups/2900686/roman_amphitheaters . The number of titles currently included there is very small and only slowly growing. But growing nonetheless. A likewise slowly growing number of amphitheater descriptions have bibliographic citations and a Zotero item identifier for each title. The .csv file will sometimes have the first Zotero identifier. It is a goal to make an html rendering of this information that includes working links to the online version of the Zotero items.
 
