@@ -9290,6 +9290,37 @@
         ],
         "source": "https://maps.google.com"
         }
+      },
+    {
+      "type": "Feature",
+      "id": "stPantaleon-ErlaAmphitheater",
+      "properties": {
+        "title": "Amphitheater at St. Pantaleon-Erla",
+        "bibliography": [{"bibliographiccitation": "Vienna.at. n.d. “2,000 Years Hidden: Researchers Discover Roman City in Lower Austria” https://www.vienna.at/2000-years-hidden-researchers-discover-roman-city-in-lower-austria/10493108"}] ,
+        "buildingtype": "amphitheater",
+        "capacity": {"quantity": 8000, "sourcenote": "See bibliography."},
+        "chronogroup": "late-first-early-second-century" ,
+        "dimensions": {
+          "exteriormajor": 80,
+          "exteriorminor": 50,
+          "sourcenote": "Estimation from imagery at https://www.vienna.at/2000-years-hidden-researchers-discover-roman-city-in-lower-austria/10493108"
+        },
+        "label": "St. Pantaleon-Erla" ,
+        "latintoponym": "Claudivium",
+        "moderncountry": "Austria" ,
+        "pleiades": {"unknown": true},
+        "province": "noricum" ,
+        "visibility": "none" 
+      },
+        "geometry":{
+          "type": "Point",
+          "coordinates":[
+            14.5655,
+            48.2220,
+            238
+        ],
+        "source": "https://maps.google.com"
+        }
       }
   ],
   "romanamphitheaterschronogroups":[
