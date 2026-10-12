@@ -9321,6 +9321,39 @@
         ],
         "source": "https://maps.google.com"
         }
+      },
+    {
+      "type": "Feature",
+      "id": "santAntiocoAmphitheater",
+      "properties": {
+        "title": "Amphitheater at Sant'Antioco",
+        "bibliography": [{"bibliographiccitation": "https://virtualarchaeology.sardegnacultura.it/index.php/en/archaeological-sites/eta-fenicio-punica/necropoli-is-pirixeddu/detailed-sheets/2322-l-anfiteatro-romano"}] ,
+        "buildingtype": "amphitheater",
+        "capacity": {"quantity": 800, "sourcenote": "R. Zucca. The Archaeology of Roman Sardinia, p. "},
+        "chronogroup": "early-second-century" ,
+        "dimensions": {
+          "exteriormajor": {"unknown": true},
+          "exteriorminor": {"unknown": true},
+          "arenamajor": 29,
+          "arenaminor": 19,
+          "sourcenote": "Google maps"
+        },
+        "label": "Sant'Antioco" ,
+        "latintoponym": "Sulci",
+        "moderncountry": "Italy" ,
+        "pleiades": "https://pleiades.stoa.org/places/472024",
+        "province": "corsica-et-sardinia" ,
+        "visibility": "partial" 
+      },
+        "geometry":{
+          "type": "Point",
+          "coordinates":[
+            8.451625,
+            39.071152,
+            27
+        ],
+        "source": "https://maps.google.com"
+        }
       }
   ],
   "romanamphitheaterschronogroups":[
